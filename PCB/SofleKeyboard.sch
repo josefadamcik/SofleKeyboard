@@ -20,7 +20,7 @@ U 1 1 5B722440
 P 3200 2650
 F 0 "U1" H 3200 3350 60  0000 C CNN
 F 1 "ProMicro" H 3200 1950 60  0000 C CNN
-F 2 "SofleKeyboard-footprint:ProMicro_rev2" H 3300 1600 60  0001 C CNN
+F 2 "SofleKeyboard-footprint:ProMicro" H 3300 1600 60  0001 C CNN
 F 3 "" H 3300 1600 60  0000 C CNN
 	1    3200 2650
 	1    0    0    -1  
@@ -771,7 +771,7 @@ U 1 1 5B742D8C
 P 2700 4350
 F 0 "J2" H 2650 4650 60  0000 C CNN
 F 1 "4PIN" H 2650 4050 60  0000 C CNN
-F 2 "SofleKeyboard-footprint:MJ-4PP-9_rev3" H 2700 4300 60  0001 C CNN
+F 2 "SofleKeyboard-footprint:MJ-4PP-9" H 2700 4300 60  0001 C CNN
 F 3 "" H 2700 4300 60  0000 C CNN
 	1    2700 4350
 	1    0    0    -1  
