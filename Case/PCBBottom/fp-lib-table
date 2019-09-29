@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "SofleKeyboardBottomPlate")(type KiCad)(uri "$(KIPRJMOD)/SofleKeyboardBottomPlate.pretty")(options "")(descr ""))
+)
