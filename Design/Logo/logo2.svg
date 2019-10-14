@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="logo1.svg"
-   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   sodipodi:docname="logo2.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg856"
    version="1.1"
    viewBox="0 0 150.0 130.0"
@@ -31,15 +31,17 @@
      showgrid="true"
      inkscape:current-layer="g1422"
      inkscape:document-units="mm"
-     inkscape:cy="230.58977"
-     inkscape:cx="296.1481"
-     inkscape:zoom="11.313708"
+     inkscape:cy="269.13148"
+     inkscape:cx="340.24028"
+     inkscape:zoom="3.9999998"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        spacingx="2.54"
        spacingy="2.54"
@@ -47,6 +49,11 @@
        type="xygrid"
        units="mm"
        id="grid1402" />
+    <sodipodi:guide
+       position="70.379169,75.472398"
+       orientation="0,1"
+       id="guide861"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata853">
@@ -56,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,24 +206,24 @@
        inkscape:connector-curvature="0" />
     <text
        id="text1663"
-       y="57.107296"
-       x="47.426559"
-       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="57.041149"
+       x="88.899994"
+       style="font-style:normal;font-weight:normal;font-size:2.46943998px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:saira;-inkscape-font-specification:'saira Medium';stroke-width:0.264583"
-         y="57.107296"
-         x="47.426559"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222009px;font-family:saira;-inkscape-font-specification:'saira Medium';stroke-width:0.26458299"
+         y="57.041149"
+         x="88.899994"
          id="tspan1661"
          sodipodi:role="line">Sofle Keyboard</tspan></text>
     <text
        id="text1663-0"
-       y="59.94865"
-       x="64.197784"
-       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="59.816357"
+       x="89.134758"
+       style="font-style:normal;font-weight:normal;font-size:2.46943998px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:saira;-inkscape-font-specification:'saira Medium';stroke-width:0.264583"
-         y="59.94865"
-         x="64.197784"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222009px;font-family:saira;-inkscape-font-specification:'saira Medium';stroke-width:0.26458299"
+         y="59.816357"
+         x="89.134758"
          id="tspan1661-8"
          sodipodi:role="line">v 1</tspan></text>
   </g>
