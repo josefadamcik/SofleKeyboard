@@ -1,4 +1,4 @@
-16345930187073969
+16352213297362969
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -66996,6 +66996,34 @@ rotary encoder
 0
 7
 6
+SofleKeyboard-footprint
+SofleLogo
+
+
+0
+0
+0
+SofleKeyboard-footprint
+SofleLogo1
+
+
+0
+0
+0
+SofleKeyboard-footprint
+SofleLogo2
+
+
+0
+0
+0
+SofleKeyboard-footprint
+SofleLogoSmall
+
+
+0
+0
+0
 SofleKeyboard-footprint
 TACT_SWITCH_TVBP06
 
