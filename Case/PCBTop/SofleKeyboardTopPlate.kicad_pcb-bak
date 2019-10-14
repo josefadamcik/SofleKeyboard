@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 350)
+    (drawings 352)
     (tracks 0)
     (zones 0)
     (modules 5)
@@ -100,7 +100,7 @@
     (uvia_drill 0.1)
   )
 
-  (module Wire_Pads:SolderWirePad_single_0-8mmDrill (layer F.Cu) (tedit 5D908CEE) (tstamp 5ABD66D0)
+  (module Wire_Pads:SolderWirePad_single_0-8mmDrill (layer F.Cu) (tedit 5D908D47) (tstamp 5ABD66D0)
     (at 58.364398 42.698024)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -155,6 +155,12 @@
     (pad 5 thru_hole circle (at 0 0) (size 4 4) (drill 2.2) (layers *.Cu *.Mask Dwgs.User))
   )
 
+  (gr_text "Sofle Keyboard v1" (at 130.64 25.72 -8) (layer B.SilkS) (tstamp 5DA52A38)
+    (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "Sofle Keyboard v1" (at 131.04 25.84 -8) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
   (gr_line (start 56.15827 40.380817) (end 42.16033 40.380817) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 42.16033 40.380817) (end 42.16033 40.380817) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 42.16033 40.380817) (end 42.16033 26.380337) (layer Edge.Cuts) (width 0.1))

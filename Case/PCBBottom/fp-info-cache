@@ -1,4 +1,4 @@
-16347500054486969
+16350642215301058
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -66905,118 +66905,132 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 1pin_conn
 Resitance 3 pas
 R
 0
 1
 1
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 CherryMX_KailhLowProfile_Hotswap
 
 
 0
 8
 2
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 CherryMX_KailhLowProfile_Hotswap_1.5
 
 
 0
 8
 2
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 Diode_SOD123
 Diode, DO-41, SOD81, Horizontal, RM 10mm,
 Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
 0
 2
 2
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 HOLE_M2_TH
 
 
 0
 1
 0
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 Jumper
 
 
 0
 2
 2
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 LED
 
 
 0
 3
 3
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 M2_HOLE_PCB
 
 
 0
 1
 0
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 MJ-4PP-9
 
 
 0
 8
 4
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 OLED_4Pin
 Connecteur 6 pins
 CONN DEV
 0
 4
 4
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 ProMicro
 
 
 0
 48
 24
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 RESISTOR_mini
 Resitance 3 pas
 R
 0
 2
 2
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
 0
 7
 6
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
+SofleLogo
+
+
+0
+0
+0
+SofleKeyboardBottomPlate
+SofleLogo1
+
+
+0
+0
+0
+SofleKeyboardBottomPlate
+SofleLogo2
+
+
+0
+0
+0
+SofleKeyboardBottomPlate
 TACT_SWITCH_TVBP06
 
 
 0
 2
 2
-SofleKeyboard-footprint
+SofleKeyboardBottomPlate
 jumper_data
 
 
 0
 2
 2
-SofleKeyboard-footprint
-logo1
-
-
-0
-0
-0
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking

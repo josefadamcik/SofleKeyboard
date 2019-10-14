@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 350)
+    (drawings 352)
     (tracks 0)
     (zones 0)
     (modules 5)
@@ -61,7 +61,7 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x010f0_80000001)
+      (layerselection 0x010f0_ffffffff)
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -84,7 +84,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "gerbers/"))
   )
@@ -155,6 +155,12 @@
     (pad 5 thru_hole circle (at 0 0) (size 4 4) (drill 2.2) (layers *.Cu *.Mask Dwgs.User))
   )
 
+  (gr_text "Sofle Keyboard v1" (at 130.64 25.72 -8) (layer B.SilkS) (tstamp 5DA52A38)
+    (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "Sofle Keyboard v1" (at 131.04 25.84 -8) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
   (gr_line (start 56.15827 40.380817) (end 42.16033 40.380817) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 42.16033 40.380817) (end 42.16033 40.380817) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 42.16033 40.380817) (end 42.16033 26.380337) (layer Edge.Cuts) (width 0.1))
@@ -506,7 +512,7 @@
   (gr_line (start 22.609664 93.73982) (end 22.609664 81.739825) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 22.609664 81.739825) (end 22.609664 81.739825) (layer Edge.Cuts) (width 0.1))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 5DA52A69) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -968,7 +974,7 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 5DA52A66) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
