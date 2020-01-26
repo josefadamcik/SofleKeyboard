@@ -4,10 +4,14 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 
 It is currently in development.
 
+The firmware is available here: https://github.com/josefadamcik/qmk_firmware/tree/soflekeyboard/keyboards/sofle
+
+## Images of keyboard
+
 ![SofleKeyboard](Images/IMG_20200126_114622.jpg)
 
 ![SofleKeyboard](Images/IMG_20191110_131443.jpg)
 
-The firmware is available here: https://github.com/josefadamcik/qmk_firmware/tree/soflekeyboard/keyboards/sofle
+## PCBs
 
 ![SofleKeyboard PCB](Images/IMG_20191104_202757.jpg)
