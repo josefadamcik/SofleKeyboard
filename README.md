@@ -14,10 +14,6 @@ The current (temporary) build guide and a build log is available here: [SofleKey
 
 ## Images of keyboard
 
-![SofleKeyboard](Images/IMG_20200126_114622.jpg)
-
 ![SofleKeyboard](Images/IMG_20191110_131443.jpg)
-
-## PCBs
 
 ![SofleKeyboard PCB](Images/IMG_20191104_202757.jpg)
