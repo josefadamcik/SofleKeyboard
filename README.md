@@ -14,6 +14,10 @@ The current (temporary) build guide and a build log is available here: [SofleKey
 
 If you are interested in building the board and don't want to bether with KiCad, the gerber files are avaialble in [Gerbers directory](Gerbers/).
 
+## Default layout 
+
+![Default layout for SofleKeyboard](Images/soflekeyboard.png)
+
 ## Images of keyboard
 
 ![SofleKeyboard](Images/IMG_20191110_131443.jpg)
