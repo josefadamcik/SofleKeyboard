@@ -12,7 +12,7 @@ More details about the keyboard on my blog: [Let me introduce you SofleKeyboard 
 
 The current (temporary) build guide and a build log is available here: [SofleKeyboard build log/guide](https://josef-adamcik.cz/electronics/soflekeyboard-build-log-and-build-guide.html)
 
-If you are interested in building the board and don't want to bether with KiCad, the gerber files are avaialble in [Gerbers directory](Gerbers/).
+If you are interested in building the board and don't want to bether with KiCad, the gerber files are avaialble in [releases](https://github.com/josefadamcik/SofleKeyboard/releases).
 
 ## Default layout 
 
