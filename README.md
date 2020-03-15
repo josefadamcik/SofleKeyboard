@@ -6,7 +6,7 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 
 It is currently in development.
 
-The firmware is available here: https://github.com/josefadamcik/qmk_firmware/tree/soflekeyboard/keyboards/sofle
+The firmware is available here: https://github.com/josefadamcik/qmk_firmware/tree/sofle2/keyboards/sofle
 
 More details about the keyboard on my blog: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html)
 
