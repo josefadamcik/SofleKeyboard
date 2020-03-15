@@ -22,4 +22,6 @@ If you are interested in building the board and don't want to bether with KiCad,
 
 ![SofleKeyboard](Images/IMG_20191110_131443.jpg)
 
+![SofleKeyboard Choc](Images/chocclear.jpg)
+
 ![SofleKeyboard PCB](Images/IMG_20191104_202757.jpg)
