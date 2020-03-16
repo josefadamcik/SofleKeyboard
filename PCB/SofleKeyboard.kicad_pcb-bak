@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.4-e60b266~84~ubuntu19.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~84~ubuntu19.04.1)
 
   (general
     (thickness 1.6)
@@ -11,25 +11,25 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user hide)
     (33 F.Adhes user hide)
     (34 B.Paste user hide)
     (35 F.Paste user hide)
     (36 B.SilkS user hide)
-    (37 F.SilkS user)
+    (37 F.SilkS user hide)
     (38 B.Mask user hide)
     (39 F.Mask user hide)
-    (40 Dwgs.User user hide)
-    (41 Cmts.User user hide)
-    (42 Eco1.User user hide)
-    (43 Eco2.User user hide)
-    (44 Edge.Cuts user hide)
-    (45 Margin user hide)
+    (40 Dwgs.User user)
+    (41 Cmts.User user)
+    (42 Eco1.User user)
+    (43 Eco2.User user)
+    (44 Edge.Cuts user)
+    (45 Margin user)
     (46 B.CrtYd user hide)
     (47 F.CrtYd user hide)
-    (48 B.Fab user hide)
+    (48 B.Fab user)
     (49 F.Fab user hide)
   )
 
@@ -61,6 +61,7 @@
     (pad_drill 4.7004)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
+    (grid_origin 129.5 116.1)
     (visible_elements FFFDFFFF)
     (pcbplotparams
       (layerselection 0x010f0_ffffffff)
@@ -4379,7 +4380,7 @@
   )
 
   (module SofleKeyboard-footprint:CherryMX_KailhLowProfile_Hotswap_1.5 (layer F.Cu) (tedit 5D908E35) (tstamp 5BE9897A)
-    (at 105.96 130.07 300)
+    (at 96.5 131.8 300)
     (path /5B722582)
     (fp_text reference SW26 (at 7 8.1 120) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4484,7 +4485,7 @@
   )
 
   (module SofleKeyboard-footprint:CherryMX_KailhLowProfile_Hotswap (layer F.Cu) (tedit 5D908E15) (tstamp 5BE989C0)
-    (at 127.88 126.42 15)
+    (at 118.4 128 15)
     (path /5B7293B0)
     (fp_text reference SW27 (at 7 8.1 15) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4589,7 +4590,7 @@
   )
 
   (module SofleKeyboard-footprint:CherryMX_KailhLowProfile_Hotswap (layer F.Cu) (tedit 5D908E15) (tstamp 5BE98A06)
-    (at 149 123.75)
+    (at 139.5 123.8)
     (path /5B734347)
     (fp_text reference SW28 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4694,7 +4695,7 @@
   )
 
   (module SofleKeyboard-footprint:CherryMX_KailhLowProfile_Hotswap (layer F.Cu) (tedit 5D908E15) (tstamp 5BE98A4C)
-    (at 168.1 123.75)
+    (at 158.6 122.4)
     (path /5B73449B)
     (fp_text reference SW29 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4799,7 +4800,7 @@
   )
 
   (module SofleKeyboard-footprint:CherryMX_KailhLowProfile_Hotswap (layer F.Cu) (tedit 5D908E15) (tstamp 5D8B3A66)
-    (at 187.2 127.9)
+    (at 177.6 123.8)
     (path /5D954F78)
     (fp_text reference SW30 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6450,10 +6451,10 @@
   (segment (start 207.2 48.8) (end 207.2 47.6) (width 0.25) (layer B.Cu) (net 35))
   (segment (start 178.8 126.444358) (end 178.744358 126.5) (width 0.25) (layer B.Cu) (net 35))
   (segment (start 174.146718 38.354) (end 173.492674 37.699956) (width 0.25) (layer B.Cu) (net 35))
-  (segment (start 178.9 122.8) (end 178.9 125.344358) (width 0.25) (layer B.Cu) (net 35) (status 20))
+  (segment (start 178.9 122.8) (end 178.9 125.344358) (width 0.25) (layer B.Cu) (net 0) (status 20))
   (segment (start 173.492674 37.699956) (end 105.963634 37.699956) (width 0.25) (layer B.Cu) (net 35))
-  (via (at 178.9 122.8) (size 0.4) (drill 0.3) (layers F.Cu B.Cu) (net 35))
-  (segment (start 180 122.8) (end 179 122.8) (width 0.25) (layer F.Cu) (net 35) (status 10))
+  (via (at 178.9 122.8) (size 0.4) (drill 0.3) (layers F.Cu B.Cu) (net 0))
+  (segment (start 180 122.8) (end 179 122.8) (width 0.25) (layer F.Cu) (net 0) (status 10))
   (segment (start 102.675 40.98859) (end 102.675 57.665745) (width 0.25) (layer B.Cu) (net 35))
   (segment (start 105.963634 37.699956) (end 102.675 40.98859) (width 0.25) (layer B.Cu) (net 35))
   (via (at 193.9 130) (size 0.4) (drill 0.3) (layers F.Cu B.Cu) (net 35))
