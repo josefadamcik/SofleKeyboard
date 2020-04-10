@@ -1,8 +1,15 @@
-16352213297486969
+16952160956591969
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
 Bulgin BX0036
+0
+2
+2
+Battery
+BatteryHolder_ComfortableElectronic_CH273-2450_1x2450
+Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148
+Comfortable Electronic CR2450
 0
 2
 2
@@ -73,6 +80,13 @@ Battery
 BatteryHolder_Keystone_1060_1x2032
 http://www.keyelco.com/product-pdf.cfm?p=726
 CR2032 BR2032 BatteryHolder Battery
+0
+2
+2
+Battery
+BatteryHolder_Keystone_2460_1xAA
+https://www.keyelco.com/product-pdf.cfm?p=1025
+AA battery cell holder
 0
 2
 2
@@ -1134,6 +1148,13 @@ switch normally-open pushbutton push-button
 4
 4
 Button_Switch_SMD
+SW_Push_1P1T-SH_NO_CK_KMR2xxG
+CK components KMR2 tactile switch with ground pin http://www.ckswitches.com/media/1479/kmr2.pdf
+tactile switch kmr2
+0
+5
+3
+Button_Switch_SMD
 SW_Push_1P1T_NO_6x6mm_H9.5mm
 tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm
 tact sw push 6mm smd
@@ -1165,6 +1186,13 @@ Button_Switch_SMD
 SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR
 C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs, https://www.ckswitches.com/media/1462/pts125.pdf
 Button Tactile Switch SPST 1P1T
+0
+4
+2
+Button_Switch_SMD
+SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
+https://katalog.we-online.com/em/datasheet/434133025816.pdf
+tactile switch Wurth Wuerth
 0
 4
 2
@@ -2086,6 +2114,20 @@ buzzer piezo
 2
 2
 Buzzer_Beeper
+Buzzer_D14mm_H7mm_P10mm
+Generic Buzzer, D14mm height 7mm with pitch 10mm
+buzzer
+0
+2
+2
+Buzzer_Beeper
+Buzzer_Mallory_AST1109MLTRQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+Buzzer_Beeper
 Buzzer_Murata_PKMCS0909E4000-R1
 Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
 Murata Buzzer Beeper
@@ -2120,6 +2162,13 @@ MagneticBuzzer Kobitone 254-EMB84Q-RO
 0
 3
 3
+Buzzer_Beeper
+MagneticBuzzer_PUI_AT-0927-TT-6-R
+Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
+Buzzer Magnetic 9mm AT-0927-TT-6-R
+0
+2
+2
 Buzzer_Beeper
 MagneticBuzzer_ProSignal_ABI-009-RC
 Buzzer, Elektromagnetic Beeper, Summer, 6V-DC,
@@ -5824,6 +5873,90 @@ capacitor tantalum
 2
 2
 Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
 CP_EIA-7343-15_Kemet-W
 Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
 capacitor tantalum
@@ -6159,6 +6292,20 @@ RC Connector XT30
 0
 2
 2
+Connector_AMASS
+AMASS_XT60-F_1x02_P7.20mm_Vertical
+AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
+XT60 female vertical
+0
+2
+2
+Connector_AMASS
+AMASS_XT60-M_1x02_P7.20mm_Vertical
+AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
+XT60 female vertical
+0
+2
+2
 Connector_Audio
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
@@ -6249,6 +6396,13 @@ TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/e
 WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 0
 3
+3
+Connector_Audio
+Jack_3.5mm_Switronic_ST-005-G_horizontal
+3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
+Connector Audio Switronic ST-005-G
+0
+4
 3
 Connector_Audio
 MiniXLR-5_Switchcraft_TRAPC_Horizontal
@@ -6363,6 +6517,13 @@ Micro SD
 14
 11
 Connector_Card
+microSD_HC_Molex_104031-0811
+1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
+microSD SD molex
+0
+14
+11
+Connector_Card
 microSD_HC_Wuerth_693072010801
 http://katalog.we-online.de/em/datasheet/693072010801.pdf
 Micro SD Wuerth Wurth Würth
@@ -6376,6 +6537,13 @@ microSIM GSM Card
 0
 14
 7
+Connector_Coaxial
+BNC_Amphenol_031-6575_Horizontal
+dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
+Dual BNC Amphenol Horizontal
+0
+6
+4
 Connector_Coaxial
 BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
 http://www.farnell.com/datasheets/612848.pdf
@@ -6397,6 +6565,13 @@ BNC female PCB mount 4 pin straight chassis connector
 0
 5
 2
+Connector_Coaxial
+BNC_Win_364A2x95_Horizontal
+Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)
+Dual BNC Horizontal Isolated
+0
+6
+3
 Connector_Coaxial
 MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB
 Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
@@ -6510,9 +6685,9 @@ SMA THT Female Jack Horizontal
 5
 2
 Connector_Coaxial
-SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount
-http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
-SMA
+SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
+Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)
+SMA Straight Samtec Edge Mount
 0
 5
 2
@@ -8001,6 +8176,41 @@ connector Molex  top entry
 53
 52
 Connector_FFC-FPC
+TE_0-1734839-5_1x05-1MP_P0.5mm_Horizontal
+TE FPC connector, 05 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+7
+6
+Connector_FFC-FPC
+TE_0-1734839-6_1x06-1MP_P0.5mm_Horizontal
+TE FPC connector, 06 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+8
+7
+Connector_FFC-FPC
+TE_0-1734839-7_1x07-1MP_P0.5mm_Horizontal
+TE FPC connector, 07 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+9
+8
+Connector_FFC-FPC
+TE_0-1734839-8_1x08-1MP_P0.5mm_Horizontal
+TE FPC connector, 08 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+10
+9
+Connector_FFC-FPC
+TE_0-1734839-9_1x09-1MP_P0.5mm_Horizontal
+TE FPC connector, 09 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+11
+10
+Connector_FFC-FPC
 TE_1-84952-0_1x10-1MP_P1.0mm_Horizontal
 TE FPC connector, 10 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
 te fpc 84952
@@ -8137,6 +8347,76 @@ Connector_FFC-FPC
 TE_1-84953-9_1x19-1MP_P1.0mm_Horizontal
 TE FPC connector, 19 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
 te fpc 84953
+0
+21
+20
+Connector_FFC-FPC
+TE_1-1734839-0_1x10-1MP_P0.5mm_Horizontal
+TE FPC connector, 10 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+12
+11
+Connector_FFC-FPC
+TE_1-1734839-1_1x11-1MP_P0.5mm_Horizontal
+TE FPC connector, 11 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+13
+12
+Connector_FFC-FPC
+TE_1-1734839-2_1x12-1MP_P0.5mm_Horizontal
+TE FPC connector, 12 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+14
+13
+Connector_FFC-FPC
+TE_1-1734839-3_1x13-1MP_P0.5mm_Horizontal
+TE FPC connector, 13 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+15
+14
+Connector_FFC-FPC
+TE_1-1734839-4_1x14-1MP_P0.5mm_Horizontal
+TE FPC connector, 14 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+16
+15
+Connector_FFC-FPC
+TE_1-1734839-5_1x15-1MP_P0.5mm_Horizontal
+TE FPC connector, 15 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+17
+16
+Connector_FFC-FPC
+TE_1-1734839-6_1x16-1MP_P0.5mm_Horizontal
+TE FPC connector, 16 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+18
+17
+Connector_FFC-FPC
+TE_1-1734839-7_1x17-1MP_P0.5mm_Horizontal
+TE FPC connector, 17 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+19
+18
+Connector_FFC-FPC
+TE_1-1734839-8_1x18-1MP_P0.5mm_Horizontal
+TE FPC connector, 18 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+20
+19
+Connector_FFC-FPC
+TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal
+TE FPC connector, 19 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
 0
 21
 20
@@ -8281,6 +8561,76 @@ te fpc 84953
 31
 30
 Connector_FFC-FPC
+TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal
+TE FPC connector, 20 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+22
+21
+Connector_FFC-FPC
+TE_2-1734839-1_1x21-1MP_P0.5mm_Horizontal
+TE FPC connector, 21 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+23
+22
+Connector_FFC-FPC
+TE_2-1734839-2_1x22-1MP_P0.5mm_Horizontal
+TE FPC connector, 22 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+24
+23
+Connector_FFC-FPC
+TE_2-1734839-3_1x23-1MP_P0.5mm_Horizontal
+TE FPC connector, 23 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+25
+24
+Connector_FFC-FPC
+TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal
+TE FPC connector, 24 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+26
+25
+Connector_FFC-FPC
+TE_2-1734839-5_1x25-1MP_P0.5mm_Horizontal
+TE FPC connector, 25 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+27
+26
+Connector_FFC-FPC
+TE_2-1734839-6_1x26-1MP_P0.5mm_Horizontal
+TE FPC connector, 26 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+28
+27
+Connector_FFC-FPC
+TE_2-1734839-7_1x27-1MP_P0.5mm_Horizontal
+TE FPC connector, 27 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+29
+28
+Connector_FFC-FPC
+TE_2-1734839-8_1x28-1MP_P0.5mm_Horizontal
+TE FPC connector, 28 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+30
+29
+Connector_FFC-FPC
+TE_2-1734839-9_1x29-1MP_P0.5mm_Horizontal
+TE FPC connector, 29 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+31
+30
+Connector_FFC-FPC
 TE_3-84952-0_1x30-1MP_P1.0mm_Horizontal
 TE FPC connector, 30 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
 te fpc 84952
@@ -8294,6 +8644,153 @@ te fpc 84953
 0
 32
 31
+Connector_FFC-FPC
+TE_3-1734839-0_1x30-1MP_P0.5mm_Horizontal
+TE FPC connector, 30 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+32
+31
+Connector_FFC-FPC
+TE_3-1734839-1_1x31-1MP_P0.5mm_Horizontal
+TE FPC connector, 31 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+33
+32
+Connector_FFC-FPC
+TE_3-1734839-2_1x32-1MP_P0.5mm_Horizontal
+TE FPC connector, 32 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+34
+33
+Connector_FFC-FPC
+TE_3-1734839-3_1x33-1MP_P0.5mm_Horizontal
+TE FPC connector, 33 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+35
+34
+Connector_FFC-FPC
+TE_3-1734839-4_1x34-1MP_P0.5mm_Horizontal
+TE FPC connector, 34 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+36
+35
+Connector_FFC-FPC
+TE_3-1734839-5_1x35-1MP_P0.5mm_Horizontal
+TE FPC connector, 35 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+37
+36
+Connector_FFC-FPC
+TE_3-1734839-6_1x36-1MP_P0.5mm_Horizontal
+TE FPC connector, 36 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+38
+37
+Connector_FFC-FPC
+TE_3-1734839-7_1x37-1MP_P0.5mm_Horizontal
+TE FPC connector, 37 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+39
+38
+Connector_FFC-FPC
+TE_3-1734839-8_1x38-1MP_P0.5mm_Horizontal
+TE FPC connector, 38 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+40
+39
+Connector_FFC-FPC
+TE_3-1734839-9_1x39-1MP_P0.5mm_Horizontal
+TE FPC connector, 39 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+41
+40
+Connector_FFC-FPC
+TE_4-1734839-0_1x40-1MP_P0.5mm_Horizontal
+TE FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+42
+41
+Connector_FFC-FPC
+TE_4-1734839-1_1x41-1MP_P0.5mm_Horizontal
+TE FPC connector, 41 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+43
+42
+Connector_FFC-FPC
+TE_4-1734839-2_1x42-1MP_P0.5mm_Horizontal
+TE FPC connector, 42 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+44
+43
+Connector_FFC-FPC
+TE_4-1734839-3_1x43-1MP_P0.5mm_Horizontal
+TE FPC connector, 43 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+45
+44
+Connector_FFC-FPC
+TE_4-1734839-4_1x44-1MP_P0.5mm_Horizontal
+TE FPC connector, 44 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+46
+45
+Connector_FFC-FPC
+TE_4-1734839-5_1x45-1MP_P0.5mm_Horizontal
+TE FPC connector, 45 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+47
+46
+Connector_FFC-FPC
+TE_4-1734839-6_1x46-1MP_P0.5mm_Horizontal
+TE FPC connector, 46 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+48
+47
+Connector_FFC-FPC
+TE_4-1734839-7_1x47-1MP_P0.5mm_Horizontal
+TE FPC connector, 47 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+49
+48
+Connector_FFC-FPC
+TE_4-1734839-8_1x48-1MP_P0.5mm_Horizontal
+TE FPC connector, 48 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+50
+49
+Connector_FFC-FPC
+TE_4-1734839-9_1x49-1MP_P0.5mm_Horizontal
+TE FPC connector, 49 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+51
+50
+Connector_FFC-FPC
+TE_5-1734839-0_1x50-1MP_P0.5mm_Horizontal
+TE FPC connector, 50 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+52
+51
 Connector_FFC-FPC
 TE_84952-4_1x04-1MP_P1.0mm_Horizontal
 TE FPC connector, 04 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
@@ -8389,6 +8886,13 @@ Connector_HDMI
 HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
 HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449
 HDMI Contact Technology Type A
+0
+23
+20
+Connector_HDMI
+HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
+HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
+hdmi type a
 0
 23
 20
@@ -9085,6 +9589,104 @@ connector Hirose 40pin receptacle vertical
 0
 42
 42
+Connector_Hirose
+Hirose_DF3EA-02P-2H_1x02-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-02P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+4
+3
+Connector_Hirose
+Hirose_DF3EA-03P-2H_1x03-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-03P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+5
+4
+Connector_Hirose
+Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-04P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+6
+5
+Connector_Hirose
+Hirose_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-05P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+7
+6
+Connector_Hirose
+Hirose_DF3EA-06P-2H_1x06-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-06P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+8
+7
+Connector_Hirose
+Hirose_DF3EA-07P-2H_1x07-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-07P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+9
+8
+Connector_Hirose
+Hirose_DF3EA-08P-2H_1x08-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-08P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+10
+9
+Connector_Hirose
+Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-09P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+11
+10
+Connector_Hirose
+Hirose_DF3EA-10P-2H_1x10-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-10P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+12
+11
+Connector_Hirose
+Hirose_DF3EA-11P-2H_1x11-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-11P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+13
+12
+Connector_Hirose
+Hirose_DF3EA-12P-2H_1x12-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-12P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+14
+13
+Connector_Hirose
+Hirose_DF3EA-13P-2H_1x13-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-13P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+15
+14
+Connector_Hirose
+Hirose_DF3EA-14P-2H_1x14-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-14P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+16
+15
+Connector_Hirose
+Hirose_DF3EA-15P-2H_1x15-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-15P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+17
+16
 Connector_Hirose
 Hirose_DF11-4DP-2DSA_2x02_P2.00mm_Vertical
 Hirose DF11 through hole, DF11-4DP-2DSA, 2 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
@@ -10380,6 +10982,13 @@ connector JAE  side entry
 0
 44
 44
+Connector_JAE
+JAE_MM70-314-310B1
+http://www.heilind.com/marketing/documents/jae/JAE_MM70.pdf
+connector JAE MXM
+0
+280
+279
 Connector_JST
 JST_ACH_BM01B-ACHSS-A-GAN-ETF_1x01-1MP_P1.20mm_Vertical
 JST ACH series connector, BM01B-ACHSS-A-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
@@ -12315,7 +12924,7 @@ connector JST SUR top entry
 Connector_JST
 JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical
 JST VH PBT series connector, B2P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 2
 2
@@ -12329,7 +12938,14 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B2P-VH_1x02_P3.96mm_Vertical
 JST VH series connector, B2P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
+0
+2
+2
+Connector_JST
+JST_VH_B2P3-VH_1x02_P7.92mm_Vertical
+JST VH series connector, B2P3-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
+connector JST VH vertical
 0
 2
 2
@@ -12343,7 +12959,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B3P-VH-B_1x03_P3.96mm_Vertical
 JST VH PBT series connector, B3P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 3
 3
@@ -12357,7 +12973,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B3P-VH_1x03_P3.96mm_Vertical
 JST VH series connector, B3P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 3
 3
@@ -12371,7 +12987,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical
 JST VH PBT series connector, B4P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 4
 4
@@ -12385,7 +13001,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B4P-VH_1x04_P3.96mm_Vertical
 JST VH series connector, B4P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 4
 4
@@ -12399,7 +13015,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B5P-VH-B_1x05_P3.96mm_Vertical
 JST VH PBT series connector, B5P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 5
 5
@@ -12413,7 +13029,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B5P-VH_1x05_P3.96mm_Vertical
 JST VH series connector, B5P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 5
 5
@@ -12427,7 +13043,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B6P-VH-B_1x06_P3.96mm_Vertical
 JST VH PBT series connector, B6P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 6
 6
@@ -12441,7 +13057,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B6P-VH_1x06_P3.96mm_Vertical
 JST VH series connector, B6P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 6
 6
@@ -12455,7 +13071,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B7P-VH-B_1x07_P3.96mm_Vertical
 JST VH PBT series connector, B7P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 7
 7
@@ -12469,7 +13085,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B7P-VH_1x07_P3.96mm_Vertical
 JST VH series connector, B7P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 7
 7
@@ -12483,7 +13099,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B8P-VH-B_1x08_P3.96mm_Vertical
 JST VH PBT series connector, B8P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 8
 8
@@ -12497,7 +13113,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B8P-VH_1x08_P3.96mm_Vertical
 JST VH series connector, B8P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 8
 8
@@ -12511,7 +13127,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B9P-VH-B_1x09_P3.96mm_Vertical
 JST VH PBT series connector, B9P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 9
 9
@@ -12525,7 +13141,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B9P-VH_1x09_P3.96mm_Vertical
 JST VH series connector, B9P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 9
 9
@@ -12539,7 +13155,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B10P-VH-B_1x10_P3.96mm_Vertical
 JST VH PBT series connector, B10P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 10
 10
@@ -12553,7 +13169,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B10P-VH_1x10_P3.96mm_Vertical
 JST VH series connector, B10P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 10
 10
@@ -12567,7 +13183,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B11P-VH-B_1x11_P3.96mm_Vertical
 JST VH PBT series connector, B11P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 11
 11
@@ -14182,6 +14798,125 @@ connector Molex KK-254 side entry
 16
 16
 Connector_Molex
+Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0002 example for new part number: 26-60-4020, 2 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+2
+2
+Connector_Molex
+Molex_KK-396_A-41791-0003_1x03_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0003 example for new part number: 26-60-4030, 3 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+3
+3
+Connector_Molex
+Molex_KK-396_A-41791-0004_1x04_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0004 example for new part number: 26-60-4040, 4 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+4
+4
+Connector_Molex
+Molex_KK-396_A-41791-0005_1x05_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0005 example for new part number: 26-60-4050, 5 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+5
+5
+Connector_Molex
+Molex_KK-396_A-41791-0006_1x06_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0006 example for new part number: 26-60-4060, 6 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+6
+6
+Connector_Molex
+Molex_KK-396_A-41791-0007_1x07_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0007 example for new part number: 26-60-4070, 7 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+7
+7
+Connector_Molex
+Molex_KK-396_A-41791-0008_1x08_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0008 example for new part number: 26-60-4080, 8 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+8
+8
+Connector_Molex
+Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0009 example for new part number: 26-60-4090, 9 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+9
+9
+Connector_Molex
+Molex_KK-396_A-41791-0010_1x10_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0010 example for new part number: 26-60-4100, 10 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+10
+10
+Connector_Molex
+Molex_KK-396_A-41791-0011_1x11_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0011 example for new part number: 26-60-4110, 11 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+11
+11
+Connector_Molex
+Molex_KK-396_A-41791-0012_1x12_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0012 example for new part number: 26-60-4120, 12 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+12
+12
+Connector_Molex
+Molex_KK-396_A-41791-0013_1x13_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0013 example for new part number: 26-60-4130, 13 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+13
+13
+Connector_Molex
+Molex_KK-396_A-41791-0014_1x14_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0014 example for new part number: 26-60-4140, 14 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+14
+14
+Connector_Molex
+Molex_KK-396_A-41791-0015_1x15_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0015 example for new part number: 26-60-4150, 15 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+15
+15
+Connector_Molex
+Molex_KK-396_A-41791-0016_1x16_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0016 example for new part number: 26-60-4160, 16 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+16
+16
+Connector_Molex
+Molex_KK-396_A-41791-0017_1x17_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0017 example for new part number: 26-60-4170, 17 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+17
+17
+Connector_Molex
+Molex_KK-396_A-41791-0018_1x18_P3.96mm_Vertical
+Molex KK 396 Interconnect System, old/engineering part number: A-41791-0018 example for new part number: 26-60-4180, 18 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-396 vertical
+0
+18
+18
+Connector_Molex
 Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal
 Molex Mega-Fit Power Connectors, 76825-0002 (compatible alternatives: 172064-0002, 172064-1002), 1 Pins per row (http://www.molex.com/pdm_docs/sd/1720640002_sd.pdf), generated with kicad-footprint-generator
 connector Molex Mega-Fit top entry
@@ -14309,8 +15044,8 @@ connector Molex Mega-Fit side entry
 12
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-0200 (compatible alternatives: 43045-0201, 43045-0202), 1 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-0200 (alternative finishes: 43045-020x), 1 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 2
 2
@@ -14343,9 +15078,16 @@ connector Molex Micro-Fit_3.0 side entry
 4
 3
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-0221_2x01-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0221 (alternative finishes: 43045-022x), 1 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+4
+3
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-0400 (compatible alternatives: 43045-0401, 43045-0402), 2 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-0400 (alternative finishes: 43045-040x), 2 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 4
 4
@@ -14378,9 +15120,16 @@ connector Molex Micro-Fit_3.0 side entry
 6
 5
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-0421_2x02-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0421 (alternative finishes: 43045-042x), 2 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+6
+5
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-0600 (compatible alternatives: 43045-0601, 43045-0602), 3 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-0600 (alternative finishes: 43045-060x), 3 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 6
 6
@@ -14413,9 +15162,16 @@ connector Molex Micro-Fit_3.0 side entry
 8
 7
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-0621_2x03-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0621 (alternative finishes: 43045-062x), 3 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+8
+7
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-0800 (compatible alternatives: 43045-0801, 43045-0802), 4 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-0800 (alternative finishes: 43045-080x), 4 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 8
 8
@@ -14448,9 +15204,16 @@ connector Molex Micro-Fit_3.0 side entry
 10
 9
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-0821_2x04-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0821 (alternative finishes: 43045-082x), 4 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+10
+9
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-1000_2x05_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-1000 (compatible alternatives: 43045-1001, 43045-1002), 5 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-1000 (alternative finishes: 43045-100x), 5 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 10
 10
@@ -14483,9 +15246,16 @@ connector Molex Micro-Fit_3.0 side entry
 12
 11
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-1021_2x05-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1021 (alternative finishes: 43045-102x), 5 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+12
+11
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-1200_2x06_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-1200 (compatible alternatives: 43045-1201, 43045-1202), 6 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-1200 (alternative finishes: 43045-120x), 6 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 12
 12
@@ -14518,9 +15288,16 @@ connector Molex Micro-Fit_3.0 side entry
 14
 13
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-1221_2x06-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1221 (alternative finishes: 43045-122x), 6 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+14
+13
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-1400_2x07_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-1400 (compatible alternatives: 43045-1401, 43045-1402), 7 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-1400 (alternative finishes: 43045-140x), 7 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 14
 14
@@ -14553,9 +15330,16 @@ connector Molex Micro-Fit_3.0 side entry
 16
 15
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-1421_2x07-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1421 (alternative finishes: 43045-142x), 7 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+16
+15
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-1600_2x08_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-1600 (compatible alternatives: 43045-1601, 43045-1602), 8 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-1600 (alternative finishes: 43045-160x), 8 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 16
 16
@@ -14588,9 +15372,16 @@ connector Molex Micro-Fit_3.0 side entry
 18
 17
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-1621_2x08-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1621 (alternative finishes: 43045-162x), 8 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+18
+17
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-1800_2x09_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-1800 (compatible alternatives: 43045-1801, 43045-1802), 9 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-1800 (alternative finishes: 43045-180x), 9 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 18
 18
@@ -14623,9 +15414,16 @@ connector Molex Micro-Fit_3.0 side entry
 20
 19
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-1821_2x09-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1821 (alternative finishes: 43045-182x), 9 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+20
+19
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-2000_2x10_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-2000 (compatible alternatives: 43045-2001, 43045-2002), 10 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-2000 (alternative finishes: 43045-200x), 10 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 20
 20
@@ -14658,9 +15456,16 @@ connector Molex Micro-Fit_3.0 side entry
 22
 21
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-2021_2x10-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-2021 (alternative finishes: 43045-202x), 10 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+22
+21
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-2200_2x11_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-2200 (compatible alternatives: 43045-2201, 43045-2202), 11 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-2200 (alternative finishes: 43045-220x), 11 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 22
 22
@@ -14693,9 +15498,16 @@ connector Molex Micro-Fit_3.0 side entry
 24
 23
 Connector_Molex
+Molex_Micro-Fit_3.0_43045-2221_2x11-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-2221 (alternative finishes: 43045-222x), 11 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
+0
+24
+23
+Connector_Molex
 Molex_Micro-Fit_3.0_43045-2400_2x12_P3.00mm_Horizontal
-Molex Micro-Fit 3.0 Connector System, 43045-2400 (compatible alternatives: 43045-2401, 43045-2402), 12 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 top entry
+Molex Micro-Fit 3.0 Connector System, 43045-2400 (alternative finishes: 43045-240x), 12 Pins per row (https://www.molex.com/pdm_docs/sd/430450201_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 24
 24
@@ -14724,6 +15536,13 @@ Connector_Molex
 Molex_Micro-Fit_3.0_43045-2418_2x12-1MP_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-2418 (compatible alternatives: 43045-2419, 43045-2420), 12 Pins per row (http://www.molex.com/pdm_docs/sd/430450218_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 side entry
+0
+26
+25
+Connector_Molex
+Molex_Micro-Fit_3.0_43045-2421_2x12-1MP_P3.00mm_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-2421 (alternative finishes: 43045-242x), 12 Pins per row (https://www.molex.com/pdm_docs/sd/430450221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 horizontal
 0
 26
 25
@@ -15270,6 +16089,202 @@ Connector_Molex
 Molex_MicroClasp_55932-1530_1x15_P2.00mm_Vertical
 Molex MicroClasp Wire-to-Board System, 55932-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559320530_sd.pdf), generated with kicad-footprint-generator
 connector Molex MicroClasp side entry
+0
+15
+15
+Connector_Molex
+Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0210, with PCB locator, 2 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+2
+2
+Connector_Molex
+Molex_MicroClasp_55935-0230_1x02_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0230, 2 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+2
+2
+Connector_Molex
+Molex_MicroClasp_55935-0310_1x03_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0310, with PCB locator, 3 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+3
+3
+Connector_Molex
+Molex_MicroClasp_55935-0330_1x03_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0330, 3 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+3
+3
+Connector_Molex
+Molex_MicroClasp_55935-0410_1x04_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0410, with PCB locator, 4 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+4
+4
+Connector_Molex
+Molex_MicroClasp_55935-0430_1x04_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0430, 4 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+4
+4
+Connector_Molex
+Molex_MicroClasp_55935-0510_1x05_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0510, with PCB locator, 5 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+5
+5
+Connector_Molex
+Molex_MicroClasp_55935-0530_1x05_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0530, 5 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+5
+5
+Connector_Molex
+Molex_MicroClasp_55935-0610_1x06_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0610, with PCB locator, 6 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+6
+6
+Connector_Molex
+Molex_MicroClasp_55935-0630_1x06_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0630, 6 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+6
+6
+Connector_Molex
+Molex_MicroClasp_55935-0710_1x07_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0710, with PCB locator, 7 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+7
+7
+Connector_Molex
+Molex_MicroClasp_55935-0730_1x07_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0730, 7 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+7
+7
+Connector_Molex
+Molex_MicroClasp_55935-0810_1x08_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0810, with PCB locator, 8 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+8
+8
+Connector_Molex
+Molex_MicroClasp_55935-0830_1x08_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0830, 8 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+8
+8
+Connector_Molex
+Molex_MicroClasp_55935-0910_1x09_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0910, with PCB locator, 9 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+9
+9
+Connector_Molex
+Molex_MicroClasp_55935-0930_1x09_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0930, 9 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+9
+9
+Connector_Molex
+Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1010, with PCB locator, 10 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+10
+10
+Connector_Molex
+Molex_MicroClasp_55935-1030_1x10_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1030, 10 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+10
+10
+Connector_Molex
+Molex_MicroClasp_55935-1110_1x11_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1110, with PCB locator, 11 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+11
+11
+Connector_Molex
+Molex_MicroClasp_55935-1130_1x11_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1130, 11 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+11
+11
+Connector_Molex
+Molex_MicroClasp_55935-1210_1x12_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1210, with PCB locator, 12 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+12
+12
+Connector_Molex
+Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1230, 12 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+12
+12
+Connector_Molex
+Molex_MicroClasp_55935-1310_1x13_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1310, with PCB locator, 13 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+13
+13
+Connector_Molex
+Molex_MicroClasp_55935-1330_1x13_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1330, 13 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+13
+13
+Connector_Molex
+Molex_MicroClasp_55935-1410_1x14_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1410, with PCB locator, 14 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+14
+14
+Connector_Molex
+Molex_MicroClasp_55935-1430_1x14_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1430, 14 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+14
+14
+Connector_Molex
+Molex_MicroClasp_55935-1510_1x15_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1510, with PCB locator, 15 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+15
+15
+Connector_Molex
+Molex_MicroClasp_55935-1530_1x15_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
 0
 15
 15
@@ -16961,6 +17976,174 @@ connector Molex Picoflex side entry
 26
 26
 Connector_Molex
+Molex_SL_171971-0002_1x02_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0002 (compatible alternatives: 171971-0102, 171971-0202), 2 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+2
+2
+Connector_Molex
+Molex_SL_171971-0003_1x03_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0003 (compatible alternatives: 171971-0103, 171971-0203), 3 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+3
+3
+Connector_Molex
+Molex_SL_171971-0004_1x04_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0004 (compatible alternatives: 171971-0104, 171971-0204), 4 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+4
+4
+Connector_Molex
+Molex_SL_171971-0005_1x05_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0005 (compatible alternatives: 171971-0105, 171971-0205), 5 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+5
+5
+Connector_Molex
+Molex_SL_171971-0006_1x06_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0006 (compatible alternatives: 171971-0106, 171971-0206), 6 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+6
+6
+Connector_Molex
+Molex_SL_171971-0007_1x07_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0007 (compatible alternatives: 171971-0107, 171971-0207), 7 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+7
+7
+Connector_Molex
+Molex_SL_171971-0008_1x08_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0008 (compatible alternatives: 171971-0108, 171971-0208), 8 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+8
+8
+Connector_Molex
+Molex_SL_171971-0009_1x09_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0009 (compatible alternatives: 171971-0109, 171971-0209), 9 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+9
+9
+Connector_Molex
+Molex_SL_171971-0010_1x10_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0010 (compatible alternatives: 171971-0110, 171971-0210), 10 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+10
+10
+Connector_Molex
+Molex_SL_171971-0011_1x11_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0011 (compatible alternatives: 171971-0111, 171971-0211), 11 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+11
+11
+Connector_Molex
+Molex_SL_171971-0012_1x12_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0012 (compatible alternatives: 171971-0112, 171971-0212), 12 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+12
+12
+Connector_Molex
+Molex_SL_171971-0013_1x13_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0013 (compatible alternatives: 171971-0113, 171971-0213), 13 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+13
+13
+Connector_Molex
+Molex_SL_171971-0014_1x14_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0014 (compatible alternatives: 171971-0114, 171971-0214), 14 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+14
+14
+Connector_Molex
+Molex_SL_171971-0015_1x15_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0015 (compatible alternatives: 171971-0115, 171971-0215), 15 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+15
+15
+Connector_Molex
+Molex_SL_171971-0016_1x16_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0016 (compatible alternatives: 171971-0116, 171971-0216), 16 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+16
+16
+Connector_Molex
+Molex_SL_171971-0017_1x17_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0017 (compatible alternatives: 171971-0117, 171971-0217), 17 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+17
+17
+Connector_Molex
+Molex_SL_171971-0018_1x18_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0018 (compatible alternatives: 171971-0118, 171971-0218), 18 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+18
+18
+Connector_Molex
+Molex_SL_171971-0019_1x19_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0019 (compatible alternatives: 171971-0119, 171971-0219), 19 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+19
+19
+Connector_Molex
+Molex_SL_171971-0020_1x20_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0020 (compatible alternatives: 171971-0120, 171971-0220), 20 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+20
+20
+Connector_Molex
+Molex_SL_171971-0021_1x21_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0021 (compatible alternatives: 171971-0121, 171971-0221), 21 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+21
+21
+Connector_Molex
+Molex_SL_171971-0022_1x22_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0022 (compatible alternatives: 171971-0122, 171971-0222), 22 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+22
+22
+Connector_Molex
+Molex_SL_171971-0023_1x23_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0023 (compatible alternatives: 171971-0123, 171971-0223), 23 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+23
+23
+Connector_Molex
+Molex_SL_171971-0024_1x24_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0024 (compatible alternatives: 171971-0124, 171971-0224), 24 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+24
+24
+Connector_Molex
+Molex_SL_171971-0025_1x25_P2.54mm_Vertical
+Molex Stackable Linear Connector, 171971-0025 (compatible alternatives: 171971-0125, 171971-0225), 25 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex SL vertical
+0
+25
+25
+Connector_Molex
 Molex_SPOX_5267-02A_1x02_P2.50mm_Vertical
 Molex SPOX Connector System, 5267-02A, 2 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
 connector Molex SPOX side entry
@@ -17055,6 +18238,104 @@ Connector_Molex
 Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical
 Molex SPOX Connector System, 5267-15A, 15 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
 connector Molex SPOX side entry
+0
+15
+15
+Connector_Molex
+Molex_SPOX_5268-02A_1x02_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-02A, 2 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+2
+2
+Connector_Molex
+Molex_SPOX_5268-03A_1x03_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-03A, 3 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+3
+3
+Connector_Molex
+Molex_SPOX_5268-04A_1x04_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-04A, 4 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+4
+4
+Connector_Molex
+Molex_SPOX_5268-05A_1x05_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-05A, 5 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+5
+5
+Connector_Molex
+Molex_SPOX_5268-06A_1x06_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-06A, 6 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+6
+6
+Connector_Molex
+Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-07A, 7 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+7
+7
+Connector_Molex
+Molex_SPOX_5268-08A_1x08_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-08A, 8 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+8
+8
+Connector_Molex
+Molex_SPOX_5268-09A_1x09_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-09A, 9 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+9
+9
+Connector_Molex
+Molex_SPOX_5268-10A_1x10_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-10A, 10 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+10
+10
+Connector_Molex
+Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-11A, 11 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+11
+11
+Connector_Molex
+Molex_SPOX_5268-12A_1x12_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-12A, 12 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+12
+12
+Connector_Molex
+Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-13A, 13 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+13
+13
+Connector_Molex
+Molex_SPOX_5268-14A_1x14_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-14A, 14 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+14
+14
+Connector_Molex
+Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-15A, 15 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
 0
 15
 15
@@ -17913,12 +19194,33 @@ PCI bus Edge Connector
 240
 120
 Connector_PCBEdge
-BUS_PCIexpress
-PCIexpress Bus Edge Connector
-PCIexpress Bus Edge Connector
+BUS_PCIexpress_x1
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
 0
-70
 36
+36
+Connector_PCBEdge
+BUS_PCIexpress_x4
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+64
+64
+Connector_PCBEdge
+BUS_PCIexpress_x8
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+98
+98
+Connector_PCBEdge
+BUS_PCIexpress_x16
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+164
+164
 Connector_PCBEdge
 Samtec_MECF-05-0_-L-DV_2x05_P1.27mm_Polarized_Edge
 Highspeed card edge connector for PCB's with 05 contacts (polarized)
@@ -36694,6 +37996,20 @@ RJ12 connector
 6
 6
 Connector_RJ
+RJ25_Wayconn_MJEA-660X1_Horizontal
+RJ25 6P6C Socket 90 degrees, https://wayconn.com/wp-content/themes/way/datasheet/MJEA-660X1XXX_RJ25_6P6C_PCB_RA.pdf
+RJ12 RJ18 RJ25 jack connector 6P6C
+0
+6
+6
+Connector_RJ
+RJ45_Abracon_ARJP11A-MA_Horizontal
+Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)
+ethernet 8p8c transformer poe rj45
+0
+15
+14
+Connector_RJ
 RJ45_Amphenol_54602-x08_Horizontal
 8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)
 RJ45
@@ -36707,6 +38023,13 @@ RJ45 8p8c ethernet cat5
 0
 14
 13
+Connector_RJ
+RJ45_Amphenol_RJHSE538X-02
+Shielded, 2 LED, 2 Ports, http://www.amphenolinfocom.eu/NavData/Drawings/RJHSE-538X-02-REVC.pdf
+RJ45 8p8c dual ethernet cat5
+0
+26
+25
 Connector_RJ
 RJ45_Amphenol_RJHSE5380
 Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
@@ -36764,6 +38087,20 @@ AJP92A8813 8P8C RJ45 ethernet plug
 8
 8
 Connector_RJ
+RJ45_Pulse_JK0654219NL_Horizontal
+10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2
+RJ45 8p8c ethernet
+0
+18
+17
+Connector_RJ
+RJ45_Pulse_JXD6-0001NL_Horizontal
+RJ45 ethernet transformer with magnetics (https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf)
+ethernet 8p8c transformer magjack
+0
+12
+11
+Connector_RJ
 RJ45_Wuerth_7499010121A_Horizontal
 10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf
 RJ45 ethernet magnetic
@@ -36777,6 +38114,13 @@ ethernet lan connector
 0
 32
 29
+Connector_RJ
+RJ45_Wuerth_74980111211_Horizontal
+RJ45 LAN Transformer 10/100BaseT (https://katalog.we-online.de/pbs/datasheet/74980111211.pdf)
+lan magnetics transformer
+0
+14
+13
 Connector_SATA_SAS
 SAS-mini_TEConnectivity_1888174_Vertical
 36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
@@ -36791,6 +38135,13 @@ SATA
 0
 24
 23
+Connector_Samtec
+Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
+http://suddendocs.samtec.com/prints/asp-134486-01-mkt.pdf
+FMC HPC
+0
+400
+400
 Connector_Samtec
 Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical
 https://www.marutsu.co.jp/contents/shop/marutsu/ds/asp-134602-01.pdf
@@ -40047,6 +41398,104 @@ Stocko RFK MKS 16xx
 20
 20
 Connector_TE-Connectivity
+TE_1-826576-3_1x13_P3.96mm_Vertical
+TE, 1-826576-3, 13 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+13
+13
+Connector_TE-Connectivity
+TE_1-826576-5_1x15_P3.96mm_Vertical
+TE, 1-826576-5, 15 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+15
+15
+Connector_TE-Connectivity
+TE_1-826576-6_1x16_P3.96mm_Vertical
+TE, 1-826576-6, 16 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+16
+16
+Connector_TE-Connectivity
+TE_1-826576-7_1x17_P3.96mm_Vertical
+TE, 1-826576-7, 17 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+17
+17
+Connector_TE-Connectivity
+TE_1-826576-8_1x18_P3.96mm_Vertical
+TE, 1-826576-8, 18 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+18
+18
+Connector_TE-Connectivity
+TE_2-826576-0_1x20_P3.96mm_Vertical
+TE, 2-826576-0, 20 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+20
+20
+Connector_TE-Connectivity
+TE_3-826576-6_1x36_P3.96mm_Vertical
+TE, 3-826576-6, 36 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+36
+36
+Connector_TE-Connectivity
+TE_826576-2_1x02_P3.96mm_Vertical
+TE, 826576-2, 2 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+2
+2
+Connector_TE-Connectivity
+TE_826576-3_1x03_P3.96mm_Vertical
+TE, 826576-3, 3 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+3
+3
+Connector_TE-Connectivity
+TE_826576-5_1x05_P3.96mm_Vertical
+TE, 826576-5, 5 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+5
+5
+Connector_TE-Connectivity
+TE_826576-6_1x06_P3.96mm_Vertical
+TE, 826576-6, 6 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+6
+6
+Connector_TE-Connectivity
+TE_826576-7_1x07_P3.96mm_Vertical
+TE, 826576-7, 7 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+7
+7
+Connector_TE-Connectivity
+TE_826576-8_1x08_P3.96mm_Vertical
+TE, 826576-8, 8 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+8
+8
+Connector_TE-Connectivity
+TE_826576-9_1x09_P3.96mm_Vertical
+TE, 826576-9, 9 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator
+connector TE 826576 vertical
+0
+9
+9
+Connector_TE-Connectivity
 TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal
 Connector
 TE 776087
@@ -40334,6 +41783,13 @@ USB_B USB B vertical female connector
 6
 5
 Connector_USB
+USB_C_Plug_JAE_DX07P024AJ1
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1
+USB Type-C Plug Edge Mount
+0
+30
+25
+Connector_USB
 USB_C_Plug_Molex_105444
 Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf
 USB Type-C Plug Edge Mount
@@ -40376,6 +41832,13 @@ USB Type-C Receptacle Through-hole Right angle
 20
 17
 Connector_USB
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Connector_USB
 USB_C_Receptacle_JAE_DX07S024WJ1R350
 http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
 USB C Type-C Receptacle SMD
@@ -40396,6 +41859,13 @@ USB C Type-C Receptacle USB2.0
 0
 20
 17
+Connector_USB
+USB_Micro-AB_Molex_47590-0001
+Micro USB AB receptable, right-angle inverted (https://www.molex.com/pdm_docs/sd/475900001_sd.pdf)
+Micro AB USB SMD
+0
+14
+6
 Connector_USB
 USB_Micro-B_Amphenol_10103594-0001LF_Horizontal
 Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
@@ -40493,6 +41963,13 @@ http://www.tensility.com/pdffiles/54-00023.pdf
 usb mini receptacle vertical
 0
 7
+6
+Connector_USB
+USB_Mini-B_Wuerth_65100516121_Horizontal
+Mini USB 2.0 Type B SMT Horizontal 5 Contacts (https://katalog.we-online.de/em/datasheet/65100516121.pdf)
+Mini USB 2.0 Type B
+0
+9
 6
 Connector_Wago
 Wago_734-132_1x02_P3.50mm_Vertical
@@ -40949,6 +42426,13 @@ connector
 0
 4
 4
+Converter_ACDC
+Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
+ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
+Converter AC-DC THT Vertical
+0
+6
+6
 Converter_ACDC
 Converter_ACDC_Hahn_HS-400xx_THT
 ACDC-Converter, 3W, Hahn-HS-400xx, THT https://www.schukat.com/schukat/schukat_cms_de.nsf/index/FrameView?OpenDocument&art=HS40009&wg=M7942
@@ -42974,14 +44458,14 @@ Diode MELF Handsoldering
 2
 Diode_SMD
 D_MicroMELF
-Diode, MicroMELF, http://www.vishay.com/docs/85597/bzm55-se.pdf
+Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
 MicroMELF Diode
 0
 2
 2
 Diode_SMD
-D_MicroMELF_Hadsoldering
-Diode, MicroMELF, hand-soldering, http://www.vishay.com/docs/85597/bzm55-se.pdf
+D_MicroMELF_Handsoldering
+Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
 MicroMELF Diode
 0
 2
@@ -42999,6 +44483,13 @@ Diode Mini-MELF Handsoldering
 Diode Mini-MELF Handsoldering
 0
 2
+2
+Diode_SMD
+D_PowerDI-5
+PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
+PowerDI diode vishay
+0
+3
 2
 Diode_SMD
 D_PowerDI-123
@@ -43134,6 +44625,13 @@ Diode SMC (DO-214AB) Handsoldering
 2
 2
 Diode_SMD
+D_SMF
+Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf
+Diode SMF (DO-214AB)
+0
+2
+2
+Diode_SMD
 D_SOD-110
 SOD-110
 SOD-110
@@ -43151,6 +44649,13 @@ Diode_SMD
 D_SOD-123F
 D_SOD-123F
 D_SOD-123F
+0
+2
+2
+Diode_SMD
+D_SOD-128
+D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf
+D_SOD-128
 0
 2
 2
@@ -44540,6 +46045,13 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+Display_7Segment
+Sx39-1xxxxx
+Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf
+One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
+0
+10
+10
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -44680,6 +46192,20 @@ EMI Filter
 0
 19
 4
+Filter
+Filter_Schaffner_FN405
+Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/)
+EMI filter
+0
+5
+5
+Filter
+Filter_Schaffner_FN406
+Ultra Compact EMC Filter (https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)
+emi filter
+0
+5
+5
 Fuse
 Fuse_0201_0603Metric
 Fuse SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -45171,9 +46697,30 @@ LVR200 PTC resettable polyswitch
 2
 2
 Fuse
+Fuse_Littelfuse-NANO2-451_453
+Littelfuse NANO2 https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf
+Fuse Nano2
+0
+2
+2
+Fuse
+Fuse_Littelfuse_372_D8.50mm
+Fuse, Littelfuse, 372, 8.5x8mm, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf
+fuse tht radial
+0
+2
+2
+Fuse
 Fuse_Littelfuse_395Series
 Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,
 Fuse TE5 Littelfuse/Wickmann No. 460 No560 
+0
+2
+2
+Fuse
+Fuse_Schurter_UMT250
+Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)
+Schurter fuse smd
 0
 2
 2
@@ -45235,7 +46782,7 @@ fuse holder vertical 5x20mm
 2
 Fuse
 Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open
-Fuseholder horizontal open 5x20 Schurter 0031.8201, https://www.schurter.com/en/datasheet/typ_OGN.pdf
+Fuseholder horizontal open, 5x20mm, 500V, 16A, Schurter 0031.8201, https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN.pdf
 Fuseholder horizontal open 5x20 Schurter 0031.8201
 0
 2
@@ -45472,6 +47019,13 @@ inductor
 4
 2
 Inductor_SMD
+L_1008_2520Metric
+Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
 L_1206_3216Metric
 Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 inductor
@@ -45605,9 +47159,23 @@ Bourns SRN6028 SMD inductor
 2
 2
 Inductor_SMD
+L_Bourns-SRN8040_8x8.15mm
+Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf
+Bourns SRN8040 SMD inductor
+0
+2
+2
+Inductor_SMD
 L_Bourns-SRR1005
 Bourns SRR1005 series SMD inductor
 Bourns SRR1005 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRU1028_10.0x10.0mm
+Bourns SRU1028 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRU1028.pdf
+Bourns SRU1028 SMD inductor
 0
 2
 2
@@ -45654,6 +47222,13 @@ Bourns SRR1260 SMD inductor
 4
 2
 Inductor_SMD
+L_Bourns_SRP7028A_7.3x6.6mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+Inductor_SMD
 L_Bourns_SRR1210A
 Bourns SRR1210A series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf
 Bourns SRR1210A SMD inductor
@@ -45669,15 +47244,22 @@ Bourns SRR1260 SMD inductor
 2
 Inductor_SMD
 L_Coilcraft_LPS4018
-SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/misc/lps4018d.html
+SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf
 L Coilcraft LPS4018
 0
-14
+2
 2
 Inductor_SMD
 L_Coilcraft_LPS5030
 Shielded Power Inductor SMD, Coilcraft LPS5030, https://www.coilcraft.com/pdfs/lps5030.pdf, StepUp generated footprint
 inductor
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL60xx_6.36x6.56mm
+Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
+L Coilcraft XAL60xx
 0
 2
 2
@@ -45709,6 +47291,13 @@ L Coilcraft XxL4040
 0
 2
 2
+Inductor_SMD
+L_CommonMode_Delevan_4222
+API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf
+surface mount common mode bead
+0
+4
+4
 Inductor_SMD
 L_CommonMode_Wuerth_WE-SL2
 http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1
@@ -45748,6 +47337,20 @@ Inductor_SMD
 L_Murata_DEM35xxC
 https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx
 Inductor SMD DEM35xxC
+0
+2
+2
+Inductor_SMD
+L_Murata_LQH2MCNxxxx02_2.0x1.6mm
+Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)
+chip coil inductor Murata LQH2MC
+0
+2
+2
+Inductor_SMD
+L_Murata_LQH55DN_5.7x5.0mm
+Inductor, SMD, 5.7x5.0x4.7mm, https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf
+inductor smd
 0
 2
 2
@@ -45837,162 +47440,162 @@ Neosid Air-Coil SML 6turn HAM0631A
 2
 Inductor_SMD
 L_Neosid_MicroCoil_Ms36-L
-Neosid, Micro Coil, Inductor, Ms36-L, SMD, Festinduktivitaet, anti clockwise,
-Neosid Micro Coil Inductor Ms36-L SMD Festinduktivitaet anti clockwise
+Neosid, Micro Coil, Inductor, Ms36-L, SMD, Fixed inductor, anti clockwise, https://neosid.de/en/products/inductors/rod-core-chokes/smd-rod-core-chokes/52026/ms-36/7-h?c=94
+Neosid Micro Coil Inductor Ms36-L SMD Fixed inductor anti clockwise
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms42
-Neosid, Inductor, SMs42, Festinduktivitaet, SMD, magneticaly shielded,
-Neosid Inductor SMs42 Festinduktivitaet SMD magneticaly shielded
+Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_Ms42.pdf
+Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms50
-Neosid, Power Inductor, Ms50, SMD, Festinduktivitaet,
-Neosid Power Inductor Ms50 SMD Festinduktivitaet
+Neosid, Power Inductor, Ms50, SMD, Fixed inductor, https://neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf
+Neosid Power Inductor Ms50 SMD Fixed inductor
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms50T
-Neosid, Power Inductor, Ms50T, SMD, Festinduktivitaet,  high temperature,
-Neosid Power Inductor Ms50T SMD Festinduktivitaet high temperature
+Neosid, Power Inductor, Ms50T, SMD, Fixed inductor,  high temperature, https://neosid.de/import-data/product-pdf/neoFestind_Ms50T.pdf
+Neosid Power Inductor Ms50T SMD Fixed inductor high temperature
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms85
-Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,
-Neosid Ms85 Ms85T SMD Inductor Festinduktivitaet SMD
+Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85.pdf
+Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms85T
-Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,
-Neosid Ms85 Ms85T SMD Inductor Festinduktivitaet SMD
+Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85T.pdf
+Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms95
-Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,
-NeosidInductorMs95 Ms95a Ms95T Festinduktivitaet SMD
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95.pdf
+NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms95T
-Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,
-NeosidInductorMs95 Ms95a Ms95T Festinduktivitaet SMD
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95T.pdf
+NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_Ms95a
-Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,
-NeosidInductorMs95 Ms95a Ms95T Festinduktivitaet SMD
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95a.pdf
+NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE95H
-Neosid, Inductor,SM-NE95H, Festinduktivitaet, SMD,
-Neosid Inductor SM-NE95H Festinduktivitaet SMD
+Neosid, Inductor,SM-NE95H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE95H.pdf
+Neosid Inductor SM-NE95H Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE127
-Neosid, Inductor, SM-NE127, Festinduktivitaet, SMD,
-Neosid Inductor SM-NE127 Festinduktivitaet SMD
+Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf
+Neosid Inductor SM-NE127 Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE127_HandSoldering
-Neosid, Inductor, SM-NE127, Festinduktivitaet, SMD,
-Neosid Inductor SM-NE127 Festinduktivitaet SMD
+Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf
+Neosid Inductor SM-NE127 Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-NE150
-Neosid, Inductor, SM-NE150, Festinduktivitaet, SMD,
-Neosid Inductor SM-NE150 Festinduktivitaet SMD
+Neosid, Inductor, SM-NE150, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE150.pdf
+Neosid Inductor SM-NE150 Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC0512H
-Neosid, Inductor, PIC0512H, Power Inductor, Festinduktivitaet, SMD,
-Neosid Inductor PIC0512H Power Inductor Festinduktivitaet SMD
+Neosid, Inductor, PIC0512H, Power Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0512H.pdf
+Neosid Inductor PIC0512H Power Inductor Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC0602H
-Neosid, Power Inductor, SM-PIC0602H, Festinduktivitaet, SMD,
-Neosid Power Inductor SM-PIC0602H Festinduktivitaet SMD
+Neosid, Power Inductor, SM-PIC0602H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0602H.pdf
+Neosid Power Inductor SM-PIC0602H Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC0612H
-Neosid, Power Inductor, SM-PIC0612H, Festinduktivitaet, SMD,
-Neosid Power Inductor SM-PIC0612H Festinduktivitaet SMD
+Neosid, Power Inductor, SM-PIC0612H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0612H.pdf
+Neosid Power Inductor SM-PIC0612H Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SM-PIC1004H
-Neosid, Inductor, SM-PIC1004H, Festinduktivitaet, SMD,
-Neosid Inductor SM-PIC1004H Festinduktivitaet SMD
+Neosid, Inductor, SM-PIC1004H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf
+Neosid Inductor SM-PIC1004H Fixed inductor SMD
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMS-ME3010
-Neosid, Inductor, SMS-ME3010, Festinduktivitaet, SMD, magnetically shielded,
-Neosid Inductor SMS-ME3010 Festinduktivitaet SMD magnetically shielded
+Neosid, Inductor, SMS-ME3010, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3010.pdf
+Neosid Inductor SMS-ME3010 Fixed inductor SMD magnetically shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMS-ME3015
-Neosid, Power Inductor, SMS-ME3015, Festinduktivitaet, SMD, magnetically shielded,
-Neosid Power Inductor SMS-ME3015 Festinduktivitaet SMD magnetically shielded
+Neosid, Power Inductor, SMS-ME3015, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3015.pdf
+Neosid Power Inductor SMS-ME3015 Fixed inductor SMD magnetically shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs42
-Neosid, Inductor, SMs42, Festinduktivitaet, SMD, magneticaly shielded,
-Neosid Inductor SMs42 Festinduktivitaet SMD magneticaly shielded
+Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs42.pdf
+Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs50
-Neosid, Inductor, SMs50, Festinduktivitaet, SMD, magneticaly shielded,
-Neosid Inductor SMs50 Festinduktivitaet SMD magneticaly shielded
+Neosid, Inductor, SMs50, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs50.pdf
+Neosid Inductor SMs50 Fixed inductor SMD magneticaly shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs85
-Neosid, Inductor, SMs85, Festinduktivitaet, SMD, magnetically shielded,
-Neosid Inductor SMs85 Festinduktivitaet SMD magnetically shielded
+Neosid, Inductor, SMs85, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs85.pdf
+Neosid Inductor SMs85 Fixed inductor SMD magnetically shielded
 0
 2
 2
 Inductor_SMD
 L_Neosid_SMs95_SMs95p
-Neosid, Inductor, SMs95, Festinduktivitaet, SMD, magnetically shielded,
-Neosid Inductor SMs95 Festinduktivitaet SMD magnetically shielded
+Neosid, Inductor, SMs95, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMs95SMs95p.pdf
+Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded
 0
 2
 2
@@ -46049,6 +47652,34 @@ Inductor_SMD
 L_SigTra_SC3316F
 http://www.signaltransformer.com/sites/all/pdf/smd/P080_SC3316F.pdf
 Choke 
+0
+2
+2
+Inductor_SMD
+L_Sumida_CDMC6D28_7.25x6.5mm
+SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)
+Inductor Sumida SMD CDMC6D28
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0518_5.4x5.2mm
+Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm
+inductor Sunlord smd
+0
+2
+2
+Inductor_SMD
+L_TDK_NLV25_2.5x2.0mm
+TDK NLV25, 2.5x2.0x1.8mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf
+tdk nlv25 nlcv25 nlfv25
+0
+2
+2
+Inductor_SMD
+L_TDK_NLV32_3.2x2.5mm
+TDK NLV32, 3.2x2.5x2.2mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf
+tdk nlv32 nlcv32 nlfv32
 0
 2
 2
@@ -46272,6 +47903,20 @@ inductor taiyo-yuden nr smd
 Inductor_SMD
 L_Taiyo-Yuden_NR-80xx_HandSoldering
 Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-80xx, 8.0mmx8.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-10050_9.8x10.0mm
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N
 inductor taiyo-yuden nr smd
 0
 2
@@ -46600,101 +48245,101 @@ inductor Wuerth smd
 2
 Inductor_SMD
 L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL
-Choke, Double, Doppeldrossel,  SMD, , Wuerth, WE-DD, Typ L, Typ XL, Typ XXL,
-Choke Double Doppeldrossel SMD  Wuerth WE-DD TypL TypXL TypXXL 
+Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ L, Typ XL, Typ XXL, https://katalog.we-online.com/pbs/datasheet/744874001.pdf
+Choke Coupled Double Inductor SMD Wuerth WE-DD TypL TypXL TypXXL 
 0
 4
 4
 Inductor_SMD
 L_Wuerth_WE-DD-Typ-M-Typ-S
-Choke, Double, Doppeldrossel,  SMD, , Wuerth, WE-DD, Typ M, Typ S,
-Choke Double Doppeldrossel SMD  Wuerth WE-DD TypM TypS 
+Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744878001.pdf, https://katalog.we-online.de/pbs/datasheet/744877001.pdf
+Choke Coupled Double Inductor SMD Wuerth WE-DD TypM TypS
 0
 4
 4
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-7345
-Choke, Drossel, WE-PD Typ LS, Wuerth, SMD,
-Choke Drossel WE-PDTypLS Wuerth SMD 
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, 7345, https://katalog.we-online.com/pbs/datasheet/744777001.pdf
+Choke Shielded Power Inductor WE-PD 7345 Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-LS
-Choke, Drossel, WE-PD Typ LS, Wuerth, SMD,
-Choke Drossel WE-PDTypLS Wuerth SMD 
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
+Choke Shielded Power Inductor WE-PD TypLS Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-LS_Handsoldering
-Choke, Drossel, WE-PD Typ LS, Wuerth, SMD, Handsoldering,
-Choke Drossel WE-PDTypLS Wuerth SMD Handsoldering 
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, Handsoldering, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
+Choke Shielded Power Inductor WE-PD TypLS Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-M-Typ-S
-Choke, Drossel, WE-PD, Typ M, Typ S, Wuerth, SMD,
-Choke Drossel WE-PD TypM TypS Wuerth SMD 
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744778005.pdf
+Choke Shielded Power Inductor WE-PD TypM TypS Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD-Typ-M-Typ-S_Handsoldering
-Choke, Drossel, WE-PD, Typ M, Typ S, Wuerth, SMD, Handsoldering,
-Choke Drossel WE-PD TypM TypS Wuerth SMD Handsoldering 
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, Handsoldering, https://katalog.we-online.com/pbs/datasheet/744778005.pdf
+Choke Shielded Power Inductor WE-PD TypM TypS Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD2-Typ-L
-Choke, Drossel, WE-PD2, Typ L, Wuerth, SMD,
-Choke Drossel WE-PD2 TypL Wuerth SMD 
+Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ L, , https://katalog.we-online.com/pbs/datasheet/74477510.pdf
+Choke Power Inductor WE-PD2 TypL Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD2-Typ-MS
-Choke, Drossel, WE-PD2, Typ MS, Wuerth, SMD,
-Choke Drossel WE-PD2 TypMS Wuerth SMD 
+Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf
+Choke Power Inductor WE-PD2 TypMS Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD2-Typ-XL
-Choke, Drossel, WE-PD2, Typ XL, Wuerth, SMD,
-Choke Drossel WE-PD2 TypXL Wuerth SMD 
+Power Inductor, Wuerth Elektronik, WE-PD2, SMT, Typ XL, https://katalog.we-online.com/pbs/datasheet/744776012.pdf
+Choke Power Inductor WE-PD2 TypXL Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PD4-Typ-X
-Choke, Drossel, WE-PD4, Typ X, Wuerth, SMD,
-Choke Drossel WE-PD4 TypX Wuerth SMD 
+Power Inductor, Wuerth Elektronik, WE-PD4, SMT, Typ X, https://katalog.we-online.de/pbs/datasheet/74458001.pdf
+Choke Power Inductor WE-PD4 TypX Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PDF
-Choke, Drossel, WE-PDF, Wuerth, SMD,
-Choke Drossel WE-PDF Wuerth SMD 
+Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf
+Choke Shielded Power Inductor WE-PDF Wuerth
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-PDF_Handsoldering
-Choke, Drossel, WE-PDF, Handsoldering, Wuerth, SMD,
-Choke Drossel WE-PDF Handsoldering Wuerth SMD 
+Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, Handsoldering, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf
+Choke Shielded Power Inductor WE-PDF Wuerth Handsoldering
 0
 2
 2
 Inductor_SMD
 L_Wuerth_WE-TPC-3816
-Inductor, WE-TPC, Wuerth, SMD, http://katalog.we-online.de/pbs/datasheet/744031220.pdf
-Inductor WE-TPC Wuerth SMD
+L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
+wurth wuerth smd inductor
 0
-10
+2
 2
 Inductor_THT
 Choke_EPCOS_B82722A
@@ -47501,6 +49146,13 @@ vertical inductor toroid mount
 0
 4
 4
+Inductor_THT
+L_Mount_Lodestone_VTM950-6
+Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, http://www.lodestonepacific.com/CatKpdf/VTM950-6.pdf
+vertical inductor toroid mount
+0
+6
+6
 Inductor_THT
 L_Radial_D6.0mm_P4.00mm
 Inductor, Radial series, Radial, pin pitch=4.00mm, , diameter=6.0mm, http://www.abracon.com/Magnetics/radial/AIUR-07.pdf
@@ -48937,6 +50589,13 @@ LED Cree XQ
 2
 2
 LED_SMD
+LED_Dialight_591
+LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)
+LED Dialight 591
+0
+2
+2
+LED_SMD
 LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
 http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
 RGB LED NeoPixel addressable
@@ -48958,12 +50617,26 @@ LED RGB APFA3010 KINGBRIGHT 3x1.5mm
 4
 4
 LED_SMD
+LED_LiteOn_LTST-C19HE1WT
+LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
+LED RGB Chip SMD
+0
+4
+4
+LED_SMD
 LED_LiteOn_LTST-S326
 http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
 LED SMD right angle  CCA
 0
 3
 3
+LED_SMD
+LED_Osram_Lx_P47F_D2mm_ReverseMount
+OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+LED ReverseMount Reverse
+0
+4
+2
 LED_SMD
 LED_PLCC-2
 LED PLCC-2 SMD package
@@ -49042,6 +50715,13 @@ LED RGB NeoPixel Mini
 4
 4
 LED_SMD
+LED_SK6812_EC15_1.5x1.5mm
+http://www.newstar-ledstrip.com/product/20181119172602110.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
 LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
 LED RGB NeoPixel
@@ -49062,6 +50742,13 @@ LED RGB NeoPixel
 0
 6
 6
+LED_SMD
+LED_Yuji_5730
+LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf
+LED Yuji 5730
+0
+3
+2
 LED_SMD
 LED_miniPLCC_2315
 https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
@@ -50729,6 +52416,13 @@ Laser Diode TO56
 3
 3
 OptoDevice
+Lightpipe_LPF-C012303S
+https://www.lumex.com/spec/LPF-C012303S.pdf
+lightpipe dual tower right angle 3mm
+0
+0
+0
+OptoDevice
 Lightpipe_Mentor_1276.1004
 https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf
 spherical light pipe 4 way 3mm PLCC-2 PLCC-4
@@ -51246,6 +52940,20 @@ SMD SMT crystal oscillator hand-soldering
 0
 4
 4
+Oscillator
+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
+SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=15, 5.0x3.2mm
+SMD SMT crystal oscillator
+0
+6
+6
+Oscillator
+Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm
+SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm
+SMD SMT crystal oscillator
+0
+6
+6
 Oscillator
 Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm
 IQD Crystal Clock Oscillator IQXO-70, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 7.5x5.0mm^2 package
@@ -52388,6 +54096,20 @@ LFCSP 16 0.65
 21
 17
 Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+31
+17
+Package_CSP
 LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
 20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
 LFCSP 0.5
@@ -52423,16 +54145,30 @@ LFCSP NoLead
 35
 21
 Package_CSP
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+29
+25
+Package_CSP
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+39
+25
+Package_CSP
 LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
-LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-LFCSP DFN_QFN
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
 0
 29
 25
 Package_CSP
 LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
-LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-LFCSP DFN_QFN
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
 0
 39
 25
@@ -52487,15 +54223,15 @@ LFCSP NoLead
 65
 Package_CSP
 LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
-LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-LFCSP DFN_QFN
+LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
 0
 82
 73
 Package_CSP
 LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm_ThermalVias
-LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-LFCSP DFN_QFN
+LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
 0
 99
 73
@@ -52520,6 +54256,20 @@ LFCSP 48
 0
 49
 49
+Package_CSP
+LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
+LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+17
+11
+Package_CSP
+LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
+LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+24
+11
 Package_CSP
 ST_WLCSP-25_Die425
 WLCSP-25, 5x5 raster, 2.097x2.493mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l031f6.pdf
@@ -52914,15 +54664,15 @@ QFN 0.5
 57
 Package_DFN_QFN
 DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack
-DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-DFN DFN_QFN
+DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 9
 7
 Package_DFN_QFN
 DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
-DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2018-6.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-DFN DFN_QFN
+DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2018-6.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 11
 7
@@ -52942,8 +54692,8 @@ DFN 0.65
 7
 Package_DFN_QFN
 DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm
-DFN, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/(DCB6)%20DFN%2005-08-1715%20Rev%20A.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-DFN DFN_QFN
+DFN, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/(DCB6)%20DFN%2005-08-1715%20Rev%20A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 11
 7
@@ -52956,8 +54706,8 @@ DFN 0.95
 7
 Package_DFN_QFN
 DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm
-DFN, 6 Pin (https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-DFN DFN_QFN
+DFN, 6 Pin (https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 11
 7
@@ -52977,8 +54727,8 @@ DFN NoLead
 9
 Package_DFN_QFN
 DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm
-DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-DFN DFN_QFN
+DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 13
 9
@@ -53040,8 +54790,8 @@ DFN 0.5
 9
 Package_DFN_QFN
 DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm
-DFN, 8 Pin (http://www.ixysic.com/home/pdfs.nsf/www/IX4426-27-28.pdf/$file/IX4426-27-28.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-DFN DFN_QFN
+DFN, 8 Pin (http://www.ixysic.com/home/pdfs.nsf/www/IX4426-27-28.pdf/$file/IX4426-27-28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 13
 9
@@ -53049,6 +54799,13 @@ Package_DFN_QFN
 DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
 DFN 0.65
+0
+13
+9
+Package_DFN_QFN
+DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm
+DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 13
 9
@@ -53369,8 +55126,8 @@ QFN 0.5
 47
 Package_DFN_QFN
 MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm
-MLF, 6 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-MLF DFN_QFN
+MLF, 6 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+MLF NoLead
 0
 9
 7
@@ -53390,15 +55147,15 @@ DFN MLF 0.65
 9
 Package_DFN_QFN
 MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
-MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-MLF DFN_QFN
+MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_noLead_generator.py
+MLF NoLead
 0
 25
 21
 Package_DFN_QFN
 MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
-MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-MLF DFN_QFN
+MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_noLead_generator.py
+MLF NoLead
 0
 30
 21
@@ -53536,6 +55293,13 @@ QFN NoLead
 17
 13
 Package_DFN_QFN
+QFN-14-1EP_1.6x1.6mm_P0.4mm_EP0.74x0.74mm
+QFN, 14 Pin (http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+19
+15
+Package_DFN_QFN
 QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
 QFN, 16 Pin (https://www.st.com/content/ccc/resource/technical/document/datasheet/4a/50/94/16/69/af/4b/58/DM00047334.pdf/files/DM00047334.pdf/jcr:content/translations/en.DM00047334.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -53616,6 +55380,20 @@ Package_DFN_QFN
 QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias
 QFN, 16 Pin (http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
+0
+31
+17
+Package_DFN_QFN
+QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm
+QFN, 16 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=266), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+21
+17
+Package_DFN_QFN
+QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm_ThermalVias
+QFN, 16 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=266), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 31
 17
@@ -53994,6 +55772,20 @@ Package_DFN_QFN
 QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm_ThermalVias
 QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=280), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
+0
+43
+29
+Package_DFN_QFN
+QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm
+QFN, 28 Pin (package code T2844-1; https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+33
+29
+Package_DFN_QFN
+QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm_ThermalVias
+QFN, 28 Pin (package code T2844-1; https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 43
 29
@@ -54551,6 +56343,20 @@ QFN DFN_QFN
 91
 49
 Package_DFN_QFN
+QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm
+QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+49
+Package_DFN_QFN
+QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm_ThermalVias
+QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+111
+49
+Package_DFN_QFN
 QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 QFN, 52 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_52_05-08-1729.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -54628,6 +56434,20 @@ QFN NoLead
 127
 65
 Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm
+QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+65
+Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm_ThermalVias
+QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+79
+65
+Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm
 QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -54638,6 +56458,20 @@ Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias
 QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
+0
+91
+65
+Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP4.35x4.35mm
+QFN, 64 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf#page=57), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+65
+Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP4.35x4.35mm_ThermalVias
+QFN, 64 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf#page=57), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 91
 65
@@ -54814,7 +56648,7 @@ ST_UFQFPN-20_3x3mm_P0.5mm
 UFQFPN 20-lead, 3 x 3 mm, 0.5 mm pitch, ultra thin fine pitch quad flat package (http://www.st.com/resource/en/datasheet/stm8s003f3.pdf)
 UFQFPN 0.5
 0
-40
+20
 20
 Package_DFN_QFN
 ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm
@@ -54837,6 +56671,20 @@ QFN 0.5
 0
 31
 21
+Package_DFN_QFN
+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm
+TDFN, 6 Pin (http://www.nve.com/Downloads/ab3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+11
+7
+Package_DFN_QFN
+TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm_ThermalVias
+TDFN, 6 Pin (http://www.nve.com/Downloads/ab3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+18
+7
 Package_DFN_QFN
 TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm
 8-lead plastic dual flat, 2x3x0.75mm size, 0.5mm pitch (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MN_C04-0129E-MN.pdf)
@@ -54872,6 +56720,20 @@ TQFN NoLead
 0
 21
 17
+Package_DFN_QFN
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+35
+21
 Package_DFN_QFN
 TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack
 TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
@@ -55314,6 +57176,13 @@ RHL0020A
 41
 21
 Package_DFN_QFN
+Texas_VSON-HR-8_1.5x2mm_P0.5mm
+Texas  VSON-HR, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62823.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VSON-HR NoLead
+0
+8
+8
+Package_DFN_QFN
 Texas_WQFN-MR-100_3x3-DapStencil
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
 MultiRow QFN
@@ -55335,11 +57204,11 @@ Texas X2QFN DFN_QFN
 12
 12
 Package_DFN_QFN
-UDFN-4_1x1mm_P0.65mm
-UDFN-4_1x1mm_P0.65mm
+UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm
+UDFN-4_1x1mm_P0.65mm, http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550x-300mA-Single-Output-LDO-in-Small-Packages-DS20006006A.pdf
 UDFN-4_1x1mm_P0.65mm
 0
-16
+5
 5
 Package_DFN_QFN
 UDFN-9_1.0x3.8mm_P0.5mm
@@ -55636,6 +57505,48 @@ VQFN NoLead
 47
 33
 Package_DFN_QFN
+VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
+VQFN, 32 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4222H.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+37
+33
+Package_DFN_QFN
+VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias
+VQFN, 32 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4222H.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+47
+33
+Package_DFN_QFN
+VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm
+VQFN, 46 Pin (http://www.ti.com/lit/ds/symlink/lp5036.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+53
+47
+Package_DFN_QFN
+VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias
+VQFN, 46 Pin (http://www.ti.com/lit/ds/symlink/lp5036.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+66
+47
+Package_DFN_QFN
+VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
+VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+53
+49
+Package_DFN_QFN
+VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias
+VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+79
+49
+Package_DFN_QFN
 WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54
 https://www.onsemi.com/pub/Collateral/511BN.PDF
 WDFN-8 1EP 2.2X2.0 0.5P
@@ -55644,8 +57555,8 @@ WDFN-8 1EP 2.2X2.0 0.5P
 9
 Package_DFN_QFN
 WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm
-WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-WDFN DFN_QFN
+WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WDFN NoLead
 0
 13
 9
@@ -55658,8 +57569,8 @@ DFN 0.5
 8
 Package_DFN_QFN
 WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm
-WDFN, 12 Pin (https://www.diodes.com/assets/Datasheets/PAM2306.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-WDFN DFN_QFN
+WDFN, 12 Pin (https://www.diodes.com/assets/Datasheets/PAM2306.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WDFN NoLead
 0
 17
 13
@@ -55722,6 +57633,20 @@ WQFN NoLead
 Package_DFN_QFN
 WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
 WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/lm26480.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+39
+25
+Package_DFN_QFN
+WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm
+WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf#page=33), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+29
+25
+Package_DFN_QFN
+WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias
+WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf#page=33), generated with kicad-footprint-generator ipc_noLead_generator.py
 WQFN NoLead
 0
 39
@@ -57386,93 +59311,205 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP
 4
 3
 Package_DirectFET
+DirectFET_L4
+DirectFET L4 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=41
+DirectFET L4 MOSFET Infineon
+0
+11
+3
+Package_DirectFET
+DirectFET_L6
+DirectFET L6 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=42
+DirectFET L6 MOSFET Infineon
+0
+13
+3
+Package_DirectFET
 DirectFET_L8
-DirectFET L8 https://www.infineon.com/dgdl/Infineon-AN-1035-AN-v29_00-EN.pdf?fileId=5546d462533600a40153559159020f76
-DirectFET L8
+DirectFET L8 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=43
+DirectFET L8 MOSFET Infineon
 0
 15
 3
 Package_DirectFET
-DirectFET_ME
-IRF DirectFET_ME http://www.irf.com/technical-info/appnotes/an-1035.pdf
-DirectFET ME Mosfet Infenion
+DirectFET_LA
+DirectFET LA https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=44
+DirectFET LA MOSFET Infineon
+0
+15
+3
+Package_DirectFET
+DirectFET_M2
+DirectFET M2 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=33
+DirectFET M2 MOSFET Infineon
+0
+7
+3
+Package_DirectFET
+DirectFET_M4
+DirectFET M4 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=34
+DirectFET M4 MOSFET Infineon
+0
+9
+3
+Package_DirectFET
+DirectFET_MA
+DirectFET MA https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=35
+DirectFET MA MOSFET Infineon
+0
+8
+3
+Package_DirectFET
+DirectFET_MB
+DirectFET MB https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=36
+DirectFET MB MOSFET Infineon
+0
+8
+3
+Package_DirectFET
+DirectFET_MC
+DirectFET MC https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=37
+DirectFET MC MOSFET Infineon
 0
 10
 3
 Package_DirectFET
+DirectFET_MD
+DirectFET MD https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=38
+DirectFET MD MOSFET Infineon
+0
+8
+3
+Package_DirectFET
+DirectFET_ME
+DirectFET ME https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=39
+DirectFET ME MOSFET Infineon
+0
+10
+3
+Package_DirectFET
+DirectFET_MF
+DirectFET MF https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=40
+DirectFET MF MOSFET Infineon
+0
+8
+3
+Package_DirectFET
 DirectFET_MN
-DirectFET MN https://www.infineon.com/dgdl/irf6646pbf.pdf?fileId=5546d462533600a4015355ec5f071a55
-DirectFET MN Mosfet Infenion
+DirectFET MN https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=30
+DirectFET MN MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_MP
-DirectFET MP https://www.infineon.com/dgdl/irf6633pbf.pdf?fileId=5546d462533600a4015355e8dfe91a3b
-DirectFET MP Mosfet Infenion
+DirectFET MP https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=28
+DirectFET MP MOSFET Infineon
+0
+7
+3
+Package_DirectFET
+DirectFET_MQ
+DirectFET MQ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=29
+DirectFET MQ MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_MT
-DirectFET MT https://www.infineon.com/dgdl/irf6613pbf.pdf?fileId=5546d462533600a4015355e82b9b1a0d
-DirectFET MT Mosfet Infenion
+DirectFET MT https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=26
+DirectFET MT MOSFET Infineon
+0
+7
+3
+Package_DirectFET
+DirectFET_MU
+DirectFET MU https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=32
+DirectFET MU MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_MX
-DirectFET MX https://www.infineon.com/dgdl/irf8302mpbf.pdf?fileId=5546d462533600a40153560d16e41d5b
-DirectFET MX Infenion Mosfet
+DirectFET MX https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=27
+DirectFET MX MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_MZ
-DirectFET MZ https://www.infineon.com/dgdl/irf6668pbf.pdf?fileId=5546d462533600a4015355ec96b91a64
-DirectFET MZ Infenion Mosfet
+DirectFET MZ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=31
+DirectFET MZ MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_S1
-DirectFET S1 https://www.infineon.com/dgdl/irf6810spbf.pdf?fileId=5546d462533600a4015355f0ab331ab4
-DirectFET S1 Infenion Mosfet
+DirectFET S1 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=20
+DirectFET S1 MOSFET Infineon
 0
 6
 3
 Package_DirectFET
 DirectFET_S2
-DirectFET S2 https://www.infineon.com/dgdl/Infineon-AN-1035-AN-v29_00-EN.pdf?fileId=5546d462533600a40153559159020f76
-DirectFET S2 Infenion Mosfet
+DirectFET S2 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=21
+DirectFET S2 MOSFET Infineon
+0
+7
+3
+Package_DirectFET
+DirectFET_S3C
+DirectFET S3C https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=25
+DirectFET S3C MOSFET Infineon
+0
+8
+3
+Package_DirectFET
+DirectFET_SA
+DirectFET SA https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=22
+DirectFET SA MOSFET Infineon
+0
+8
+3
+Package_DirectFET
+DirectFET_SB
+DirectFET SB https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=23
+DirectFET SB MOSFET Infineon
+0
+6
+3
+Package_DirectFET
+DirectFET_SC
+DirectFET SC https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=24
+DirectFET SC MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_SH
-IRF DirectFET_SH https://www.infineon.com/dgdl/irf6655pbf.pdf?fileId=5546d462533600a4015355ec76961a5b
-DirectFET SH Mosfet Infenion
+DirectFET SH https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=19
+DirectFET SH MOSFET Infineon
 0
 6
 3
 Package_DirectFET
 DirectFET_SJ
-DirectFET SJ https://www.infineon.com/dgdl/irf6810spbf.pdf?fileId=5546d462533600a4015355f0ab331ab4
-DirectFET SJ Infenion Mosfet
+DirectFET SJ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=18
+DirectFET SJ MOSFET Infineon
 0
 7
 3
 Package_DirectFET
 DirectFET_SQ
-DirectFET SQ https://www.infineon.com/dgdl/irf8327spbf.pdf?fileId=5546d462533600a40153560d40c41d65
-DirectFET SQ Infenion Mosfet
+DirectFET SQ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=17
+DirectFET SQ MOSFET Infineon
 0
 6
 3
 Package_DirectFET
 DirectFET_ST
-DirectFET ST https://www.infineon.com/dgdl/irf6722spbf.pdf?fileId=5546d462533600a4015355ed44531a90
-DirectFET ST Infenion Mosfet
+DirectFET ST https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=16
+DirectFET ST MOSFET Infineon
 0
 7
 3
@@ -57905,14 +59942,14 @@ LQFP QFP
 44
 Package_QFP
 LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm
-LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_qfp_generator.py
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
 0
 58
 49
 Package_QFP
 LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias
-LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_qfp_generator.py
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
 0
 75
@@ -58108,7 +60145,7 @@ QFP 0.8
 80
 Package_QFP
 PQFP-100_14x20mm_P0.65mm
-PQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 PQFP QFP
 0
 100
@@ -58136,28 +60173,28 @@ PQFP 132 Intel 386EX
 132
 Package_QFP
 PQFP-144_28x28mm_P0.65mm
-PQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 PQFP QFP
 0
 144
 144
 Package_QFP
 PQFP-160_28x28mm_P0.65mm
-PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 PQFP QFP
 0
 160
 160
 Package_QFP
 PQFP-208_28x28mm_P0.5mm
-PQFP, 208 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP, 208 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 PQFP QFP
 0
 208
 208
 Package_QFP
 PQFP-240_32.1x32.1mm_P0.5mm
-PQFP, 240 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP, 240 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 PQFP QFP
 0
 240
@@ -58199,14 +60236,14 @@ QFP 0.5
 49
 Package_QFP
 TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm
-TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
 0
 65
 49
 Package_QFP
 TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias
-TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
 0
 91
@@ -58248,7 +60285,7 @@ QFP 0.4
 64
 Package_QFP
 TQFP-64_10x10mm_P0.5mm
-TQFP, 64 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP, 64 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
 0
 64
@@ -58304,7 +60341,7 @@ QFP 0.4
 100
 Package_QFP
 TQFP-100_14x14mm_P0.5mm
-TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
 0
 100
@@ -58332,42 +60369,42 @@ QFP 0.4
 144
 Package_QFP
 TQFP-144_20x20mm_P0.5mm
-TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
 0
 144
 144
 Package_QFP
 TQFP-176_24x24mm_P0.5mm
-TQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
 0
 176
 176
 Package_QFP
 VQFP-80_14x14mm_P0.65mm
-VQFP, 80 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+VQFP, 80 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 VQFP QFP
 0
 80
 80
 Package_QFP
 VQFP-100_14x14mm_P0.5mm
-VQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+VQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 VQFP QFP
 0
 100
 100
 Package_QFP
 VQFP-128_14x14mm_P0.4mm
-VQFP, 128 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+VQFP, 128 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 VQFP QFP
 0
 128
 128
 Package_QFP
 VQFP-176_20x20mm_P0.4mm
-VQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+VQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 VQFP QFP
 0
 176
@@ -58660,6 +60697,20 @@ HTSSOP SO
 47
 25
 Package_SO
+HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
+HTSSOP, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+30
+29
+Package_SO
+HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm_ThermalVias
+HTSSOP, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+41
+29
+Package_SO
 HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm
 HTSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; thermal pad
 TSSOP HTSSOP 0.65 thermal pad
@@ -58722,6 +60773,20 @@ HTSSOP 0.5
 0
 72
 57
+Package_SO
+Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
+Infineon  PG-DSO, 8 Pin (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-27), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Infineon PG-DSO SO
+0
+13
+9
+Package_SO
+Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm_ThermalVias
+Infineon  PG-DSO, 8 Pin (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-27), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Infineon PG-DSO SO
+0
+23
+9
 Package_SO
 Infineon_PG-DSO-8-43
 Infineon_PG-DSO-8-43
@@ -58864,8 +60929,8 @@ MSOP SO
 9
 Package_SO
 MSOP-8_3x3mm_P0.65mm
-8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
 0
 8
 8
@@ -59065,6 +61130,13 @@ QSOP 0.635
 0
 24
 24
+Package_SO
+SC-74-6_1.5x2.9mm_P0.95mm
+SC-74, 6 Pin (https://www.nxp.com/docs/en/package-information/SOT457.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SC-74 SO
+0
+6
+6
 Package_SO
 SO-4_4.4x2.3mm_P1.27mm
 4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf
@@ -59395,8 +61467,22 @@ SOP SO
 20
 9
 Package_SO
+SOP-8_3.9x4.9mm_P1.27mm
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
+Package_SO
 SOP-8_3.76x4.96mm_P1.27mm
 SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
+Package_SO
+SOP-8_5.28x5.23mm_P1.27mm
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=80), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
 0
 8
@@ -59578,8 +61664,8 @@ SSOP 0.65
 20
 Package_SO
 SSOP-20_5.3x7.2mm_P0.65mm
-20-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
 0
 20
 20
@@ -60067,6 +62153,34 @@ HVSON NoLead
 13
 9
 Package_SON
+Infineon_PG-TISON-8-2
+Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/
+tison
+0
+23
+7
+Package_SON
+Infineon_PG-TISON-8-3
+Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/
+tison
+0
+23
+7
+Package_SON
+Infineon_PG-TISON-8-4
+Infineon, PG-TISON-8-4, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-4/
+tison
+0
+26
+8
+Package_SON
+Infineon_PG-TISON-8-5
+Infineon, PG-TISON-8-5, 8x8x1.1mm, 1mm Pitch, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-5/
+tison
+0
+34
+8
+Package_SON
 NXP_XSON-16
 http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf
 NXP XSON SOT-1341
@@ -60089,8 +62203,8 @@ RTC C3
 10
 Package_SON
 SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm
-SON, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-SON DFN_QFN
+SON, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+SON NoLead
 0
 13
 9
@@ -60180,15 +62294,15 @@ Texas_S-PVSON-N10_ThermalVias
 11
 Package_SON
 Texas_S-PWSON-N8_EP1.2x2mm
-WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-WSON DFN_QFN
+WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
 0
 11
 9
 Package_SON
 Texas_S-PWSON-N8_EP1.2x2mm_ThermalVias
-WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-WSON DFN_QFN
+WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
 0
 18
 9
@@ -60236,15 +62350,15 @@ VSON 0.65
 5
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
-VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-VSON
+VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
 0
 15
 11
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
-VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-VSON
+VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
 0
 18
 11
@@ -60334,15 +62448,15 @@ WSON 8 1EP
 9
 Package_SON
 WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
-WSON, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf (page 68)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-WSON DFN_QFN
+WSON, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf (page 68)), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
 0
 13
 9
 Package_SON
 WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm
-WSON, 8 Pin (http://ww1.microchip.com/downloads/en/AppNotes/S72030.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-WSON DFN_QFN
+WSON, 8 Pin (http://ww1.microchip.com/downloads/en/AppNotes/S72030.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
 0
 13
 9
@@ -60453,10 +62567,10 @@ SOT-553
 5
 Package_TO_SOT_SMD
 HVSOF5
-HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf
+HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/hall/bu52001gul-e.pdf
 HVSOF5
 0
-9
+5
 5
 Package_TO_SOT_SMD
 HVSOF6
@@ -60498,28 +62612,14 @@ LFPAK33
 LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf
 LFPAK33 SOT-1210
 0
-21
+17
 5
 Package_TO_SOT_SMD
 LFPAK56
 LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf
 LFPAK56 SOT-669 Power-SO8
 0
-19
-5
-Package_TO_SOT_SMD
-LFPAK56_ThermalVias-1
-LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf
-LFPAK56 SOT669 Thermal Vias 0.4mm Power-SO8
-0
-63
-5
-Package_TO_SOT_SMD
-LFPAK56_ThermalVias-2
-LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf
-LFPAK56 SOT669 Thermical Vias Power-SO8
-0
-30
+18
 5
 Package_TO_SOT_SMD
 OnSemi_ECH8
@@ -60530,10 +62630,10 @@ ECH8 SOT28-FL SOT-28-FL
 8
 Package_TO_SOT_SMD
 PQFN_8x8
-Low profile 8x8mm PQFN package e.g. https://www.fairchildsemi.com/datasheets/FD/FDMT80080DC.pdf
+Low Profile 8x8mm PQFN, Dual Cool 88, https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf
 pqfn vdfn mosfet
 0
-16
+9
 3
 Package_TO_SOT_SMD
 PowerMacro_M234_NoHole
@@ -60964,17 +63064,10 @@ SuperSOT-8 SSOT-8
 8
 Package_TO_SOT_SMD
 TDSON-8-1
-Power MOSFET package, TDSON-8-1, SuperS08, SON-8_5x6mm
+Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)
 tdson 
 0
-13
-5
-Package_TO_SOT_SMD
-TDSON-8-1_HandSoldering
-Power MOSFET package, TDSON-8-1, SuperS08, SON-8_5x6mm
-tdson 
-0
-13
+14
 5
 Package_TO_SOT_SMD
 TO-50-3_LongPad-NoHole_Housing
@@ -61181,8 +63274,8 @@ TO-269AA MBS diode bridge
 4
 Package_TO_SOT_SMD
 TO-277A
-Thermal enhanced ultra thin SMD package; 3 leads; body: 5.8 x 4.3 x 0.78 mm
-TO-277A SOT-1289
+Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
+TO-277A SMPC
 0
 12
 3
@@ -61289,7 +63382,7 @@ Vishay_PowerPAK_SC70-6L_Single
 Vishay PowerPAK SC70 single transistor package http://www.vishay.com/docs/70486/70486.pdf
 powerpak sc70 sc-70
 0
-10
+6
 3
 Package_TO_SOT_THT
 Fairchild_TO-220F-6L
@@ -63847,6 +65940,13 @@ Potentiometer vertical Vishay T73YP
 3
 3
 RF
+Skyworks_SKY13575_639LF
+http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
+Skyworks
+0
+19
+15
+RF
 Skyworks_SKY65404-31
 http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf
 Skyworks
@@ -63892,6 +65992,13 @@ RF_Converter
 Anaren_0805_2012Metric-6
 https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf
 coupler rf
+0
+6
+6
+RF_Converter
+Balun_Johanson_1.6x0.8mm
+6-pin 1.6x0.8 mm balun footprint
+Johanson balun filter
 0
 6
 6
@@ -64085,6 +66192,13 @@ Mini-Circuits PL-012
 53
 16
 RF_Mini-Circuits
+Mini-Circuits_DB1627
+Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)
+Mini-Circuits DB1627
+0
+6
+6
+RF_Mini-Circuits
 Mini-Circuits_GP731
 Footprint for Mini-Circuits case GP731 (https://ww2.minicircuits.com/case_style/GP731.pdf)
 Mini-Circuits GP731
@@ -64217,6 +66331,13 @@ LoRa Ra-01
 0
 16
 16
+RF_Module
+Atmel_ATSAMR21G18-MR210UA_NoRFPads
+http://ww1.microchip.com/downloads/en/devicedoc/atmel-42475-atsamr21g18-mr210ua_datasheet.pdf
+module wireless zigbee 802.15.4 flash crypto ATSAMR21G18 AT45DB041E  TECC508A U.Fi
+0
+42
+42
 RF_Module
 BLE112-A
 Class 4 Bluetooth Module with on-board antenna
@@ -64371,6 +66492,13 @@ RN4871 BLE
 0
 16
 16
+RF_Module
+Modtronix_inAir9
+Modtronix Wireless SX1276 LoRa Module (http://modtronix.com/img/prod/imod/inair9/inair_dimensions.gif)
+Modtronix LoRa inAir inAir9 SX1276 RF 915MHz 868MHz Wireless
+0
+14
+14
 RF_Module
 MonoWireless_TWE-L-WX
 https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf
@@ -64594,6 +66722,13 @@ Laird Technologies BMI-S-210-F Shielding Cabinet Two Piece SMD 44.00x30.50mm (ht
 Shielding Cabinet
 0
 32
+1
+RF_Shielding
+Laird_Technologies_BMI-S-230-F_50.8x38.1mm
+Laird Technologies BMI-S-230-F Shielding Cabinet Two Piece SMD 50.8x38.1mm
+Shielding Cabinet
+0
+36
 1
 RF_Shielding
 Wuerth_36103205_20x20mm
@@ -64921,6 +67056,13 @@ Relay_THT
 Relay_SPDT_Finder_34.51_Vertical
 Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPDT Finder
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_36.11
+FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf
+spdt relay
 0
 5
 5
@@ -66493,6 +68635,13 @@ Temperature and humidity module
 4
 4
 Sensor
+MQ-6
+Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
+gas sensor
+0
+6
+6
+Sensor
 SHT1x
 SHT1x
 SHT1x
@@ -66611,6 +68760,13 @@ Diodes SIP-3 Ammo Pack
 0
 3
 3
+Sensor_Current
+Honeywell_CSLW
+https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf
+Miniature Wired Open-Loop Current Sensor
+0
+5
+5
 Sensor_Current
 LEM_HO8-NP
 LEM HO 8/15/25-NP Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-np-0000_series.pdf)
@@ -70848,274 +73004,407 @@ THT Terminal Block TE 282834-9 pitch 2.54mm size 23.32x6.5mm^2 drill 1.1mm pad 2
 9
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-101_1x01_P5.00mm_45Degree
-Terminal Block WAGO 236-101, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 6.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-101 45Degree pitch 5mm size 6.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-101, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 7.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-101 45Degree pitch 5mm size 7.3x14mm^2 drill 1.15mm pad 3mm
 0
-2
+1
 1
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree
-Terminal Block WAGO 236-102, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 11.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-102 45Degree pitch 5mm size 11.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-102, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 12.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-102 45Degree pitch 5mm size 12.3x14mm^2 drill 1.15mm pad 3mm
 0
-4
+2
 2
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-103_1x03_P5.00mm_45Degree
-Terminal Block WAGO 236-103, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 16.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-103 45Degree pitch 5mm size 16.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-103, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 17.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-103 45Degree pitch 5mm size 17.3x14mm^2 drill 1.15mm pad 3mm
 0
-6
+3
 3
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-104_1x04_P5.00mm_45Degree
-Terminal Block WAGO 236-104, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 21.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-104 45Degree pitch 5mm size 21.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-104, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 22.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-104 45Degree pitch 5mm size 22.3x14mm^2 drill 1.15mm pad 3mm
 0
-8
+4
 4
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-105_1x05_P5.00mm_45Degree
-Terminal Block WAGO 236-105, 45Degree (cable under 45degree), 5 pins, pitch 5mm, size 26.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-105 45Degree pitch 5mm size 26.5x14mm^2 drill 1mm pad 3mm
-0
-10
-5
-TerminalBlock_WAGO
 TerminalBlock_WAGO_236-106_1x06_P5.00mm_45Degree
-Terminal Block WAGO 236-106, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 31.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-106 45Degree pitch 5mm size 31.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-106, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-106 45Degree pitch 5mm size 32.3x14mm^2 drill 1.15mm pad 3mm
 0
-12
+6
 6
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-107_1x07_P5.00mm_45Degree
-Terminal Block WAGO 236-107, 45Degree (cable under 45degree), 7 pins, pitch 5mm, size 36.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-107 45Degree pitch 5mm size 36.5x14mm^2 drill 1mm pad 3mm
-0
-14
-7
-TerminalBlock_WAGO
 TerminalBlock_WAGO_236-108_1x08_P5.00mm_45Degree
-Terminal Block WAGO 236-108, 45Degree (cable under 45degree), 8 pins, pitch 5mm, size 41.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-108 45Degree pitch 5mm size 41.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-108, 45Degree (cable under 45degree), 8 pins, pitch 5mm, size 42.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-108 45Degree pitch 5mm size 42.3x14mm^2 drill 1.15mm pad 3mm
 0
-16
+8
 8
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-109_1x09_P5.00mm_45Degree
-Terminal Block WAGO 236-109, 45Degree (cable under 45degree), 9 pins, pitch 5mm, size 46.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-109 45Degree pitch 5mm size 46.5x14mm^2 drill 1mm pad 3mm
-0
-18
-9
-TerminalBlock_WAGO
-TerminalBlock_WAGO_236-110_1x10_P5.00mm_45Degree
-Terminal Block WAGO 236-110, 45Degree (cable under 45degree), 10 pins, pitch 5mm, size 51.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-110 45Degree pitch 5mm size 51.5x14mm^2 drill 1mm pad 3mm
-0
-20
-10
-TerminalBlock_WAGO
 TerminalBlock_WAGO_236-112_1x12_P5.00mm_45Degree
-Terminal Block WAGO 236-112, 45Degree (cable under 45degree), 12 pins, pitch 5mm, size 61.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-112 45Degree pitch 5mm size 61.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-112, 45Degree (cable under 45degree), 12 pins, pitch 5mm, size 62.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-112 45Degree pitch 5mm size 62.3x14mm^2 drill 1.15mm pad 3mm
 0
-24
+12
 12
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-116_1x16_P5.00mm_45Degree
-Terminal Block WAGO 236-116, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 81.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-116 45Degree pitch 5mm size 81.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-116, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-116 45Degree pitch 5mm size 82.3x14mm^2 drill 1.15mm pad 3mm
 0
-32
+16
 16
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-124_1x24_P5.00mm_45Degree
-Terminal Block WAGO 236-124, 45Degree (cable under 45degree), 24 pins, pitch 5mm, size 122x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-124 45Degree pitch 5mm size 122x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-124, 45Degree (cable under 45degree), 24 pins, pitch 5mm, size 122x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-124 45Degree pitch 5mm size 122x14mm^2 drill 1.15mm pad 3mm
 0
-48
+24
 24
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-201_1x01_P7.50mm_45Degree
-Terminal Block WAGO 236-201, 45Degree (cable under 45degree), 1 pins, pitch 7.5mm, size 9x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-201 45Degree pitch 7.5mm size 9x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree
+Terminal Block WAGO 236-136, 45Degree (cable under 45degree), 36 pins, pitch 5mm, size 182x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-136 45Degree pitch 5mm size 182x14mm^2 drill 1.15mm pad 3mm
 0
-2
+36
+36
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-148_1x48_P5.00mm_45Degree
+Terminal Block WAGO 236-148, 45Degree (cable under 45degree), 48 pins, pitch 5mm, size 242x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-148 45Degree pitch 5mm size 242x14mm^2 drill 1.15mm pad 3mm
+0
+48
+48
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-201_1x01_P7.50mm_45Degree
+Terminal Block WAGO 236-201, 45Degree (cable under 45degree), 1 pins, pitch 7.5mm, size 9.8x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-201 45Degree pitch 7.5mm size 9.8x14mm^2 drill 1.15mm pad 3mm
+0
+1
 1
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-202_1x02_P7.50mm_45Degree
-Terminal Block WAGO 236-202, 45Degree (cable under 45degree), 2 pins, pitch 7.5mm, size 16.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-202 45Degree pitch 7.5mm size 16.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-202, 45Degree (cable under 45degree), 2 pins, pitch 7.5mm, size 17.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-202 45Degree pitch 7.5mm size 17.3x14mm^2 drill 1.15mm pad 3mm
 0
-4
+2
 2
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-203_1x03_P7.50mm_45Degree
-Terminal Block WAGO 236-203, 45Degree (cable under 45degree), 3 pins, pitch 7.5mm, size 24x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-203 45Degree pitch 7.5mm size 24x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-203, 45Degree (cable under 45degree), 3 pins, pitch 7.5mm, size 24.8x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-203 45Degree pitch 7.5mm size 24.8x14mm^2 drill 1.15mm pad 3mm
 0
-6
+3
 3
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-204_1x04_P7.50mm_45Degree
-Terminal Block WAGO 236-204, 45Degree (cable under 45degree), 4 pins, pitch 7.5mm, size 31.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-204 45Degree pitch 7.5mm size 31.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-204, 45Degree (cable under 45degree), 4 pins, pitch 7.5mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-204 45Degree pitch 7.5mm size 32.3x14mm^2 drill 1.15mm pad 3mm
 0
-8
+4
 4
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree
-Terminal Block WAGO 236-205, 45Degree (cable under 45degree), 5 pins, pitch 7.5mm, size 39x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-205 45Degree pitch 7.5mm size 39x14mm^2 drill 1mm pad 3mm
-0
-10
-5
-TerminalBlock_WAGO
 TerminalBlock_WAGO_236-206_1x06_P7.50mm_45Degree
-Terminal Block WAGO 236-206, 45Degree (cable under 45degree), 6 pins, pitch 7.5mm, size 46.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-206 45Degree pitch 7.5mm size 46.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-206, 45Degree (cable under 45degree), 6 pins, pitch 7.5mm, size 47.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-206 45Degree pitch 7.5mm size 47.3x14mm^2 drill 1.15mm pad 3mm
 0
-12
+6
 6
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-207_1x07_P7.50mm_45Degree
-Terminal Block WAGO 236-207, 45Degree (cable under 45degree), 7 pins, pitch 7.5mm, size 54x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-207 45Degree pitch 7.5mm size 54x14mm^2 drill 1mm pad 3mm
-0
-14
-7
-TerminalBlock_WAGO
 TerminalBlock_WAGO_236-208_1x08_P7.50mm_45Degree
-Terminal Block WAGO 236-208, 45Degree (cable under 45degree), 8 pins, pitch 7.5mm, size 61.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-208 45Degree pitch 7.5mm size 61.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-208, 45Degree (cable under 45degree), 8 pins, pitch 7.5mm, size 62.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-208 45Degree pitch 7.5mm size 62.3x14mm^2 drill 1.15mm pad 3mm
 0
-16
+8
 8
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-209_1x09_P7.50mm_45Degree
-Terminal Block WAGO 236-209, 45Degree (cable under 45degree), 9 pins, pitch 7.5mm, size 69x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-209 45Degree pitch 7.5mm size 69x14mm^2 drill 1mm pad 3mm
-0
-18
-9
-TerminalBlock_WAGO
-TerminalBlock_WAGO_236-210_1x10_P7.50mm_45Degree
-Terminal Block WAGO 236-210, 45Degree (cable under 45degree), 10 pins, pitch 7.5mm, size 76.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-210 45Degree pitch 7.5mm size 76.5x14mm^2 drill 1mm pad 3mm
-0
-20
-10
-TerminalBlock_WAGO
 TerminalBlock_WAGO_236-212_1x12_P7.50mm_45Degree
-Terminal Block WAGO 236-212, 45Degree (cable under 45degree), 12 pins, pitch 7.5mm, size 91.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-212 45Degree pitch 7.5mm size 91.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-212, 45Degree (cable under 45degree), 12 pins, pitch 7.5mm, size 92.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-212 45Degree pitch 7.5mm size 92.3x14mm^2 drill 1.15mm pad 3mm
 0
-24
+12
 12
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-216_1x16_P7.50mm_45Degree
-Terminal Block WAGO 236-216, 45Degree (cable under 45degree), 16 pins, pitch 7.5mm, size 122x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-216 45Degree pitch 7.5mm size 122x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-216, 45Degree (cable under 45degree), 16 pins, pitch 7.5mm, size 122x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-216 45Degree pitch 7.5mm size 122x14mm^2 drill 1.15mm pad 3mm
 0
-32
+16
 16
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-224_1x24_P7.50mm_45Degree
-Terminal Block WAGO 236-224, 45Degree (cable under 45degree), 24 pins, pitch 7.5mm, size 182x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-224 45Degree pitch 7.5mm size 182x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-224, 45Degree (cable under 45degree), 24 pins, pitch 7.5mm, size 182x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-224 45Degree pitch 7.5mm size 182x14mm^2 drill 1.15mm pad 3mm
 0
-48
+24
 24
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-301_1x01_P10.00mm_45Degree
-Terminal Block WAGO 236-301, 45Degree (cable under 45degree), 1 pins, pitch 10mm, size 11.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-301 45Degree pitch 10mm size 11.5x14mm^2 drill 1mm pad 3mm
+Terminal Block WAGO 236-301, 45Degree (cable under 45degree), 1 pins, pitch 10mm, size 12.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-301 45Degree pitch 10mm size 12.3x14mm^2 drill 1.15mm pad 3mm
+0
+1
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-302_1x02_P10.00mm_45Degree
+Terminal Block WAGO 236-302, 45Degree (cable under 45degree), 2 pins, pitch 10mm, size 22.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-302 45Degree pitch 10mm size 22.3x14mm^2 drill 1.15mm pad 3mm
+0
+2
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-303_1x03_P10.00mm_45Degree
+Terminal Block WAGO 236-303, 45Degree (cable under 45degree), 3 pins, pitch 10mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-303 45Degree pitch 10mm size 32.3x14mm^2 drill 1.15mm pad 3mm
+0
+3
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-304_1x04_P10.00mm_45Degree
+Terminal Block WAGO 236-304, 45Degree (cable under 45degree), 4 pins, pitch 10mm, size 42.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-304 45Degree pitch 10mm size 42.3x14mm^2 drill 1.15mm pad 3mm
+0
+4
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-306_1x06_P10.00mm_45Degree
+Terminal Block WAGO 236-306, 45Degree (cable under 45degree), 6 pins, pitch 10mm, size 62.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-306 45Degree pitch 10mm size 62.3x14mm^2 drill 1.15mm pad 3mm
+0
+6
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-308_1x08_P10.00mm_45Degree
+Terminal Block WAGO 236-308, 45Degree (cable under 45degree), 8 pins, pitch 10mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-308 45Degree pitch 10mm size 82.3x14mm^2 drill 1.15mm pad 3mm
+0
+8
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-312_1x12_P10.00mm_45Degree
+Terminal Block WAGO 236-312, 45Degree (cable under 45degree), 12 pins, pitch 10mm, size 122x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-312 45Degree pitch 10mm size 122x14mm^2 drill 1.15mm pad 3mm
+0
+12
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-316_1x16_P10.00mm_45Degree
+Terminal Block WAGO 236-316, 45Degree (cable under 45degree), 16 pins, pitch 10mm, size 162x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-316 45Degree pitch 10mm size 162x14mm^2 drill 1.15mm pad 3mm
+0
+16
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-324_1x24_P10.00mm_45Degree
+Terminal Block WAGO 236-324, 45Degree (cable under 45degree), 24 pins, pitch 10mm, size 242x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-324 45Degree pitch 10mm size 242x14mm^2 drill 1.15mm pad 3mm
+0
+24
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-401_1x01_P5.00mm_45Degree
+Terminal Block WAGO 236-401, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 7.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-401 45Degree pitch 5mm size 7.3x14mm^2 drill 1.15mm pad 3mm
 0
 2
 1
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-302_1x02_P10.00mm_45Degree
-Terminal Block WAGO 236-302, 45Degree (cable under 45degree), 2 pins, pitch 10mm, size 21.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-302 45Degree pitch 10mm size 21.5x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-402_1x02_P5.00mm_45Degree
+Terminal Block WAGO 236-402, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 12.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-402 45Degree pitch 5mm size 12.3x14mm^2 drill 1.15mm pad 3mm
 0
 4
 2
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-303_1x03_P10.00mm_45Degree
-Terminal Block WAGO 236-303, 45Degree (cable under 45degree), 3 pins, pitch 10mm, size 31.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-303 45Degree pitch 10mm size 31.5x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-403_1x03_P5.00mm_45Degree
+Terminal Block WAGO 236-403, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 17.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-403 45Degree pitch 5mm size 17.3x14mm^2 drill 1.15mm pad 3mm
 0
 6
 3
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-304_1x04_P10.00mm_45Degree
-Terminal Block WAGO 236-304, 45Degree (cable under 45degree), 4 pins, pitch 10mm, size 41.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-304 45Degree pitch 10mm size 41.5x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-404_1x04_P5.00mm_45Degree
+Terminal Block WAGO 236-404, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 22.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-404 45Degree pitch 5mm size 22.3x14mm^2 drill 1.15mm pad 3mm
 0
 8
 4
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-305_1x05_P10.00mm_45Degree
-Terminal Block WAGO 236-305, 45Degree (cable under 45degree), 5 pins, pitch 10mm, size 51.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-305 45Degree pitch 10mm size 51.5x14mm^2 drill 1mm pad 3mm
-0
-10
-5
-TerminalBlock_WAGO
-TerminalBlock_WAGO_236-306_1x06_P10.00mm_45Degree
-Terminal Block WAGO 236-306, 45Degree (cable under 45degree), 6 pins, pitch 10mm, size 61.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-306 45Degree pitch 10mm size 61.5x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-406_1x06_P5.00mm_45Degree
+Terminal Block WAGO 236-406, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-406 45Degree pitch 5mm size 32.3x14mm^2 drill 1.15mm pad 3mm
 0
 12
 6
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-307_1x07_P10.00mm_45Degree
-Terminal Block WAGO 236-307, 45Degree (cable under 45degree), 7 pins, pitch 10mm, size 71.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-307 45Degree pitch 10mm size 71.5x14mm^2 drill 1mm pad 3mm
-0
-14
-7
-TerminalBlock_WAGO
-TerminalBlock_WAGO_236-308_1x08_P10.00mm_45Degree
-Terminal Block WAGO 236-308, 45Degree (cable under 45degree), 8 pins, pitch 10mm, size 81.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-308 45Degree pitch 10mm size 81.5x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-408_1x08_P5.00mm_45Degree
+Terminal Block WAGO 236-408, 45Degree (cable under 45degree), 8 pins, pitch 5mm, size 42.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-408 45Degree pitch 5mm size 42.3x14mm^2 drill 1.15mm pad 3mm
 0
 16
 8
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-309_1x09_P10.00mm_45Degree
-Terminal Block WAGO 236-309, 45Degree (cable under 45degree), 9 pins, pitch 10mm, size 91.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-309 45Degree pitch 10mm size 91.5x14mm^2 drill 1mm pad 3mm
-0
-18
-9
-TerminalBlock_WAGO
-TerminalBlock_WAGO_236-310_1x10_P10.00mm_45Degree
-Terminal Block WAGO 236-310, 45Degree (cable under 45degree), 10 pins, pitch 10mm, size 102x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-310 45Degree pitch 10mm size 102x14mm^2 drill 1mm pad 3mm
-0
-20
-10
-TerminalBlock_WAGO
-TerminalBlock_WAGO_236-312_1x12_P10.00mm_45Degree
-Terminal Block WAGO 236-312, 45Degree (cable under 45degree), 12 pins, pitch 10mm, size 122x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-312 45Degree pitch 10mm size 122x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-412_1x12_P5.00mm_45Degree
+Terminal Block WAGO 236-412, 45Degree (cable under 45degree), 12 pins, pitch 5mm, size 62.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-412 45Degree pitch 5mm size 62.3x14mm^2 drill 1.15mm pad 3mm
 0
 24
 12
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-316_1x16_P10.00mm_45Degree
-Terminal Block WAGO 236-316, 45Degree (cable under 45degree), 16 pins, pitch 10mm, size 162x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-316 45Degree pitch 10mm size 162x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-416_1x16_P5.00mm_45Degree
+Terminal Block WAGO 236-416, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-416 45Degree pitch 5mm size 82.3x14mm^2 drill 1.15mm pad 3mm
 0
 32
 16
 TerminalBlock_WAGO
-TerminalBlock_WAGO_236-324_1x24_P10.00mm_45Degree
-Terminal Block WAGO 236-324, 45Degree (cable under 45degree), 24 pins, pitch 10mm, size 242x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-324 45Degree pitch 10mm size 242x14mm^2 drill 1mm pad 3mm
+TerminalBlock_WAGO_236-424_1x24_P5.00mm_45Degree
+Terminal Block WAGO 236-424, 45Degree (cable under 45degree), 24 pins, pitch 5mm, size 122x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-424 45Degree pitch 5mm size 122x14mm^2 drill 1.15mm pad 3mm
+0
+48
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-436_1x36_P5.00mm_45Degree
+Terminal Block WAGO 236-436, 45Degree (cable under 45degree), 36 pins, pitch 5mm, size 182x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-436 45Degree pitch 5mm size 182x14mm^2 drill 1.15mm pad 3mm
+0
+72
+36
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-448_1x48_P5.00mm_45Degree
+Terminal Block WAGO 236-448, 45Degree (cable under 45degree), 48 pins, pitch 5mm, size 242x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-448 45Degree pitch 5mm size 242x14mm^2 drill 1.15mm pad 3mm
+0
+96
+48
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-501_1x01_P7.50mm_45Degree
+Terminal Block WAGO 236-501, 45Degree (cable under 45degree), 1 pins, pitch 7.5mm, size 9.8x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-501 45Degree pitch 7.5mm size 9.8x14mm^2 drill 1.15mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-502_1x02_P7.50mm_45Degree
+Terminal Block WAGO 236-502, 45Degree (cable under 45degree), 2 pins, pitch 7.5mm, size 17.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-502 45Degree pitch 7.5mm size 17.3x14mm^2 drill 1.15mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-503_1x03_P7.50mm_45Degree
+Terminal Block WAGO 236-503, 45Degree (cable under 45degree), 3 pins, pitch 7.5mm, size 24.8x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-503 45Degree pitch 7.5mm size 24.8x14mm^2 drill 1.15mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-504_1x04_P7.50mm_45Degree
+Terminal Block WAGO 236-504, 45Degree (cable under 45degree), 4 pins, pitch 7.5mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-504 45Degree pitch 7.5mm size 32.3x14mm^2 drill 1.15mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-506_1x06_P7.50mm_45Degree
+Terminal Block WAGO 236-506, 45Degree (cable under 45degree), 6 pins, pitch 7.5mm, size 47.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-506 45Degree pitch 7.5mm size 47.3x14mm^2 drill 1.15mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-508_1x08_P7.50mm_45Degree
+Terminal Block WAGO 236-508, 45Degree (cable under 45degree), 8 pins, pitch 7.5mm, size 62.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-508 45Degree pitch 7.5mm size 62.3x14mm^2 drill 1.15mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-512_1x12_P7.50mm_45Degree
+Terminal Block WAGO 236-512, 45Degree (cable under 45degree), 12 pins, pitch 7.5mm, size 92.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-512 45Degree pitch 7.5mm size 92.3x14mm^2 drill 1.15mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-516_1x16_P7.50mm_45Degree
+Terminal Block WAGO 236-516, 45Degree (cable under 45degree), 16 pins, pitch 7.5mm, size 122x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-516 45Degree pitch 7.5mm size 122x14mm^2 drill 1.15mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-524_1x24_P7.50mm_45Degree
+Terminal Block WAGO 236-524, 45Degree (cable under 45degree), 24 pins, pitch 7.5mm, size 182x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-524 45Degree pitch 7.5mm size 182x14mm^2 drill 1.15mm pad 3mm
+0
+48
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-601_1x01_P10.00mm_45Degree
+Terminal Block WAGO 236-601, 45Degree (cable under 45degree), 1 pins, pitch 10mm, size 12.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-601 45Degree pitch 10mm size 12.3x14mm^2 drill 1.15mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-602_1x02_P10.00mm_45Degree
+Terminal Block WAGO 236-602, 45Degree (cable under 45degree), 2 pins, pitch 10mm, size 22.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-602 45Degree pitch 10mm size 22.3x14mm^2 drill 1.15mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-603_1x03_P10.00mm_45Degree
+Terminal Block WAGO 236-603, 45Degree (cable under 45degree), 3 pins, pitch 10mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-603 45Degree pitch 10mm size 32.3x14mm^2 drill 1.15mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-604_1x04_P10.00mm_45Degree
+Terminal Block WAGO 236-604, 45Degree (cable under 45degree), 4 pins, pitch 10mm, size 42.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-604 45Degree pitch 10mm size 42.3x14mm^2 drill 1.15mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-606_1x06_P10.00mm_45Degree
+Terminal Block WAGO 236-606, 45Degree (cable under 45degree), 6 pins, pitch 10mm, size 62.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-606 45Degree pitch 10mm size 62.3x14mm^2 drill 1.15mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-608_1x08_P10.00mm_45Degree
+Terminal Block WAGO 236-608, 45Degree (cable under 45degree), 8 pins, pitch 10mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-608 45Degree pitch 10mm size 82.3x14mm^2 drill 1.15mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-612_1x12_P10.00mm_45Degree
+Terminal Block WAGO 236-612, 45Degree (cable under 45degree), 12 pins, pitch 10mm, size 122x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-612 45Degree pitch 10mm size 122x14mm^2 drill 1.15mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-616_1x16_P10.00mm_45Degree
+Terminal Block WAGO 236-616, 45Degree (cable under 45degree), 16 pins, pitch 10mm, size 162x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-616 45Degree pitch 10mm size 162x14mm^2 drill 1.15mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-624_1x24_P10.00mm_45Degree
+Terminal Block WAGO 236-624, 45Degree (cable under 45degree), 24 pins, pitch 10mm, size 242x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-624 45Degree pitch 10mm size 242x14mm^2 drill 1.15mm pad 3mm
 0
 48
 24
@@ -72597,6 +74886,13 @@ varistor SIOV
 2
 2
 Varistor
+RV_Disc_D9mm_W6.1mm_P5mm
+Varistor, diameter 9mm, width 6.1mm, pitch 5mm
+varistor SIOV
+0
+2
+2
+Varistor
 RV_Disc_D12mm_W3.9mm_P7.5mm
 Varistor, diameter 12mm, width 3.9mm, pitch 7.5mm
 varistor SIOV
@@ -72886,6 +75182,13 @@ varistor SIOV
 Varistor
 RV_Disc_D15.5mm_W11mm_P7.5mm
 Varistor, diameter 15.5mm, width 11mm, pitch 7.5mm
+varistor SIOV
+0
+2
+2
+Varistor
+RV_Disc_D16.5mm_W6.7mm_P7.5mm
+Varistor, diameter 16.5mm, width 6.7mm, pitch 5mm, https://katalog.we-online.de/pbs/datasheet/820542711.pdf
 varistor SIOV
 0
 2
