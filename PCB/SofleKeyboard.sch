@@ -19,7 +19,7 @@ U 1 1 5B722440
 P 3200 2650
 F 0 "U1" H 3200 3350 60  0000 C CNN
 F 1 "ProMicro" H 3200 1950 60  0000 C CNN
-F 2 "SofleKeyboard-footprint:ProMicro" H 3300 1600 60  0001 C CNN
+F 2 "Keebio:ArduinoProMicro-ZigZag" H 3300 1600 60  0001 C CNN
 F 3 "" H 3300 1600 60  0000 C CNN
 	1    3200 2650
 	1    0    0    -1  
@@ -746,7 +746,7 @@ U 1 1 5B739F4A
 P 4400 4950
 F 0 "R1" V 4500 4950 50  0000 C BNN
 F 1 "R" V 4400 4950 50  0000 C CNN
-F 2 "SofleKeyboard-footprint:RESISTOR_mini" V 4330 4950 50  0001 C CNN
+F 2 "SofleKeyboard-footprint:R_1206_DoubleSided" V 4330 4950 50  0001 C CNN
 F 3 "" H 4400 4950 50  0001 C CNN
 	1    4400 4950
 	1    0    0    -1  
@@ -757,7 +757,7 @@ U 1 1 5B73A034
 P 4550 4950
 F 0 "R2" V 4650 4950 50  0000 C BNN
 F 1 "R" V 4550 4950 50  0000 C CNN
-F 2 "SofleKeyboard-footprint:RESISTOR_mini" V 4480 4950 50  0001 C CNN
+F 2 "SofleKeyboard-footprint:R_1206_DoubleSided" V 4480 4950 50  0001 C CNN
 F 3 "" H 4550 4950 50  0001 C CNN
 	1    4550 4950
 	1    0    0    -1  
@@ -1153,50 +1153,13 @@ Wire Wire Line
 	3250 4350 3150 4350
 Wire Wire Line
 	3150 4450 3250 4450
-$Comp
-L SofleKeyboard-rescue:i2c_pin-Lily58-cache-Lily58_Pro-rescue P1
-U 1 1 5B8F6780
-P 3550 4000
-F 0 "P1" H 3550 4100 50  0000 C CNN
-F 1 "i2c_pin" V 3650 4000 50  0000 C CNN
-F 2 "SofleKeyboard-footprint:1pin_conn" H 3550 4000 50  0001 C CNN
-F 3 "" H 3550 4000 50  0001 C CNN
-	1    3550 4000
-	0    -1   -1   0   
-$EndComp
-$Comp
-L SofleKeyboard-rescue:i2c_pin-Lily58-cache-Lily58_Pro-rescue P2
-U 1 1 5B8F6980
-P 3550 4750
-F 0 "P2" H 3550 4650 50  0000 C CNN
-F 1 "i2c_pin" V 3650 4750 50  0000 C CNN
-F 2 "SofleKeyboard-footprint:1pin_conn" H 3550 4750 50  0001 C CNN
-F 3 "" H 3550 4750 50  0001 C CNN
-	1    3550 4750
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	3150 4550 3550 4550
-Wire Wire Line
-	3150 4200 3550 4200
 Wire Wire Line
 	3250 4150 3250 4350
 Wire Wire Line
 	3250 4450 3250 4600
-$Comp
-L Device:Jumper W1
-U 1 1 5B900157
-P 3850 4550
-F 0 "W1" H 3850 4500 50  0000 C CNN
-F 1 "jumper" H 3850 4700 50  0000 C CNN
-F 2 "SofleKeyboard-footprint:jumper_data" H 3850 4550 50  0001 C CNN
-F 3 "" H 3850 4550 50  0000 C CNN
-	1    3850 4550
-	-1   0    0    1   
-$EndComp
 Text GLabel 2550 2200 0    50   Input ~ 0
 DATA
-Text GLabel 4150 4550 2    50   Input ~ 0
+Text GLabel 3650 4300 2    50   Input ~ 0
 DATA
 $Comp
 L SofleKeyboard-rescue:OLED-Lily58-cache-Lily58_Pro-rescue J3
@@ -1387,7 +1350,6 @@ Wire Wire Line
 	3850 2200 4150 2200
 Wire Wire Line
 	3850 2400 4150 2400
-Connection ~ 3550 4550
 $Comp
 L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW30
 U 1 1 5D954F78
@@ -1474,4 +1436,58 @@ Text Label 3350 4550 0    50   ~ 0
 i2c_d
 Text Label 3300 4200 0    50   ~ 0
 i2c_c
+$Comp
+L Device:Jumper_NO_Small JP9
+U 1 1 5E98AECB
+P 3600 4100
+F 0 "JP9" V 3554 4148 50  0000 L CNN
+F 1 "I2CSCL" V 3650 4150 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 3600 4100 50  0001 C CNN
+F 3 "~" H 3600 4100 50  0001 C CNN
+	1    3600 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3150 4200 3600 4200
+Text GLabel 3700 4850 2    50   Input ~ 0
+SDA
+Text GLabel 3650 3850 2    50   Input ~ 0
+SCL
+Wire Wire Line
+	3600 3850 3600 4000
+$Comp
+L Device:Jumper_NO_Small JP10
+U 1 1 5E9C09A0
+P 3600 4650
+F 0 "JP10" V 3554 4698 50  0000 L CNN
+F 1 "IC2SDA" V 3645 4698 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 3600 4650 50  0001 C CNN
+F 3 "~" H 3600 4650 50  0001 C CNN
+	1    3600 4650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3150 4550 3600 4550
+Wire Wire Line
+	3600 4750 3600 4850
+$Comp
+L Device:Jumper_NC_Small JP11
+U 1 1 5E9D186B
+P 3600 4450
+F 0 "JP11" V 3554 4525 50  0000 L CNN
+F 1 "Serial" V 3645 4525 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 3600 4450 50  0001 C CNN
+F 3 "~" H 3600 4450 50  0001 C CNN
+	1    3600 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 3600 4550
+Wire Wire Line
+	3600 4350 3600 4300
+Wire Wire Line
+	3600 4300 3650 4300
+Wire Wire Line
+	3600 3850 3650 3850
+Wire Wire Line
+	3600 4850 3700 4850
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-17180328380680560
+17181914931340560
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -70074,7 +70074,7 @@ CherryMX_Hotswap_1.5
 
 
 0
-8
+4
 2
 SofleKeyboard-footprint
 CherryMX_KailhLowProfile_Hotswap
@@ -70152,6 +70152,13 @@ Resitance 3 pas
 R
 0
 2
+2
+SofleKeyboard-footprint
+R_1206_DoubleSided
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
 2
 SofleKeyboard-footprint
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
