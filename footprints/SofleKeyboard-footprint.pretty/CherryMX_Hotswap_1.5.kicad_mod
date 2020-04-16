@@ -1,4 +1,4 @@
-(module CherryMX_Hotswap_1.5 (layer F.Cu) (tedit 5E90A870)
+(module CherryMX_Hotswap_1.5 (layer F.Cu) (tedit 5E989CA9)
   (fp_text reference SW1 (at 7 8.1) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -64,4 +64,14 @@
          (xy 0.3 -1.2) (xy 0.3 1.2) (xy 2.1 1.2) (xy 2.7 0.8) (xy 2.7 -1.2)
 ) (width 0.1))
     ))
+  (model /home/josef/projekty/keyboards/3d/cherry_mx_v28_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model /home/josef/projekty/keyboards/SofleKeyboard/footprints/SofleKeyboard-footprint.pretty/3d/socket_cp.wrl
+    (offset (xyz -1 7.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )

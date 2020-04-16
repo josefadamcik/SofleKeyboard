@@ -1,4 +1,4 @@
-(module MYLIB:MY_SIL-4 (layer F.Cu) (tedit 59FC8837)
+(module OLED_4Pin (layer F.Cu) (tedit 5E98B31A)
   (descr "Connecteur 6 pins")
   (tags "CONN DEV")
   (fp_text reference P3 (at -1.915 1.93 90) (layer F.SilkS)
@@ -19,4 +19,9 @@
   (pad 2 thru_hole circle (at 2.54 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 5.08 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 7.62 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

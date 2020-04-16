@@ -746,7 +746,7 @@ U 1 1 5B739F4A
 P 4400 4950
 F 0 "R1" V 4500 4950 50  0000 C BNN
 F 1 "R" V 4400 4950 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4330 4950 50  0001 C CNN
+F 2 "SofleKeyboard-footprint:R_1206_DoubleSided" V 4330 4950 50  0001 C CNN
 F 3 "" H 4400 4950 50  0001 C CNN
 	1    4400 4950
 	1    0    0    -1  
@@ -757,7 +757,7 @@ U 1 1 5B73A034
 P 4550 4950
 F 0 "R2" V 4650 4950 50  0000 C BNN
 F 1 "R" V 4550 4950 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4480 4950 50  0001 C CNN
+F 2 "SofleKeyboard-footprint:R_1206_DoubleSided" V 4480 4950 50  0001 C CNN
 F 3 "" H 4550 4950 50  0001 C CNN
 	1    4550 4950
 	1    0    0    -1  

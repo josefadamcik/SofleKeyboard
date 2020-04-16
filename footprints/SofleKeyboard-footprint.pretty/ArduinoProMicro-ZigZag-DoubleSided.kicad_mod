@@ -1,4 +1,4 @@
-(module ArduinoProMicro-ZigZag-DoubleSided (layer F.Cu) (tedit 5BDF4FCE)
+(module ArduinoProMicro-ZigZag-DoubleSided (layer F.Cu) (tedit 5E98AEFB)
   (fp_text reference U1 (at 0 1.625) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
@@ -203,9 +203,9 @@
   (pad 23 thru_hole circle (at -11.43 -7.3914) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask))
   (pad 12 thru_hole circle (at 13.97 7.3914) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask))
   (pad 24 thru_hole circle (at -13.97 -7.8486) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask))
-  (model /Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl
-    (offset (xyz -13.96999979019165 -7.619999885559082 -5.841999912261963))
-    (scale (xyz 0.395 0.395 0.395))
-    (rotate (xyz 90 180 180))
+  (model /home/josef/projekty/keyboards/3d/ARDUINO_PRO_MICRO_cp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
   )
 )
