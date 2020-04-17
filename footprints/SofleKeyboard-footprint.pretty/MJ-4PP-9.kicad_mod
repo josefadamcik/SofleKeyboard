@@ -1,4 +1,4 @@
-(module MJ-4PP-9 (layer F.Cu) (tedit 5E98B467)
+(module MJ-4PP-9 (layer F.Cu) (tedit 5E99E7F0)
   (fp_text reference J1 (at -0.889 6.4135) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -35,9 +35,4 @@
     (clearance 0.15))
   (pad "" np_thru_hole circle (at -1.75 1.5) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -1.75 8.5) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  (model /home/josef/projekty/keyboards/3d/AB2_TRS_3p5MM_PTH.wrl
-    (offset (xyz -1.5 -1 0))
-    (scale (xyz 0.4 0.4 0.4))
-    (rotate (xyz 0 0 90))
-  )
 )
