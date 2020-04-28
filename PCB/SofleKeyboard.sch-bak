@@ -19,7 +19,7 @@ U 1 1 5B722440
 P 3200 2650
 F 0 "U1" H 3200 3350 60  0000 C CNN
 F 1 "ProMicro" H 3200 1950 60  0000 C CNN
-F 2 "Keebio:ArduinoProMicro-ZigZag" H 3300 1600 60  0001 C CNN
+F 2 "SofleKeyboard-footprint:ArduinoProMicro-ZigZag-DoubleSided" H 3300 1600 60  0001 C CNN
 F 3 "" H 3300 1600 60  0000 C CNN
 	1    3200 2650
 	1    0    0    -1  
