@@ -59,6 +59,16 @@
          in2="BackgroundImage"
          id="feBlend27708-6" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter27706-3-3">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend27708-6-6" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -73,13 +83,13 @@
      inkscape:window-height="1019"
      id="namedview1066"
      showgrid="false"
-     inkscape:zoom="2.547171"
-     inkscape:cx="277.86864"
-     inkscape:cy="445.6026"
+     inkscape:zoom="1.8011219"
+     inkscape:cx="354.67352"
+     inkscape:cy="269.57104"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:snap-global="true" />
   <title
      id="title2">SVG Picture created as SofleKeyboard-brd.svg date 2020/04/30 21:39:54 </title>
@@ -89,18 +99,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="drills"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       transform="matrix(1.0000011,0,0,1.0000011,-24925.215,-6017.5126)"
+       transform="matrix(1.0000011,0,0,1.0000011,-24846.475,-5863.9689)"
        id="g6040" />
     <g
-       transform="matrix(1.0000011,0,0,1.0000011,-24925.215,-6017.5126)"
+       transform="matrix(1.0000011,0,0,1.0000011,-24846.475,-5863.9689)"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.0003937;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g6042" />
     <g
-       transform="matrix(1.0000011,0,0,1.0000011,-24925.215,-6017.5126)"
+       transform="matrix(1.0000011,0,0,1.0000011,-24846.475,-5863.9689)"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g6086">
       <path
@@ -189,7 +198,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.0000011,0,0,1.0000011,-24925.215,-6017.5126)"
+       transform="matrix(1.0000011,0,0,1.0000011,-24846.475,-5863.9689)"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:78.74019623;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g7952">
       <path
@@ -4416,7 +4425,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.0000011,0,0,1.0000011,-24925.215,-6017.5126)"
+       transform="matrix(1.0000011,0,0,1.0000011,-24846.475,-5863.9689)"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:118.11000061;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g9018">
       <text
@@ -6621,8 +6630,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="tmp"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="translate(-2534.411,-24570.877)"
@@ -8576,7 +8585,9 @@
   <g
      id="g12136"
      style="display:inline"
-     inkscape:label="board">
+     inkscape:label="board"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        transform="translate(-6943.4287,-23590.872)"
        style="display:inline;fill:#848484;fill-opacity:0;stroke:#848484;stroke-width:47.24409866;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -9683,11 +9694,11 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 1"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        transform="translate(-6926.5278,-23613.124)"
-       style="display:inline;fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter11608)"
+       style="display:none;fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter11608)"
        id="g418"
        inkscape:label="clearance">
       <circle
@@ -10335,9 +10346,11 @@
   </g>
   <g
      transform="translate(-6940.1337,-23596.455)"
-     style="display:inline;fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter27706-3)"
+     style="display:none;fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter27706-3)"
      id="g1062-7"
-     inkscape:label="edge">
+     inkscape:label="edge"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        d="M 25896,33682 H 17431"
        id="path848-5"
@@ -10594,5 +10607,269 @@
        id="g1058-7" />
     <g
        id="g1060-2" />
+  </g>
+  <g
+     transform="translate(-6940.1337,-23596.455)"
+     style="display:none;fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter27706-3-3)"
+     id="g1062-7-7"
+     inkscape:label="bottom plate"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       d="M 25896,33682 H 17431"
+       id="path848-5-5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 33573,33682 H 25896"
+       id="path850-3-3"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 33573,32698 v 984"
+       id="path852-5-5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 41053,32698 H 33573"
+       id="path854-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 41053,31714 v 984"
+       id="path856-2-2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 48140,31714 H 41053"
+       id="path858-9-9"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 48140,32698 v -984"
+       id="path860-1-1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 55620,32698 H 48140"
+       id="path862-2-2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 55620,36242 V 32698"
+       id="path864-7-7"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 70581,36242 H 55620"
+       id="path866-0-0"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 70581,66163 V 36242"
+       id="path868-9-9"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 55620,70100 70581,66163"
+       id="path870-3-3"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 33376,70100 H 55620"
+       id="path872-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 26486,73249 6890,-3149"
+       id="path874-0-0"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 19793,77186 6693,-3937"
+       id="path876-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 14085,67344 5708,9842"
+       id="path878-2-2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 16447,65966 -2362,1378"
+       id="path880-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 17431,33682 V 57064"
+       id="path882-1-1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 17431,57064 v 241"
+       id="path884-8-8"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 17431,57305 v 8070"
+       id="path886-7-7"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 17431,65375 -984,591"
+       id="path888-9-9"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g890-2-2" />
+    <g
+       id="g892-0-0" />
+    <g
+       id="g894-2-2" />
+    <g
+       id="g896-3-3" />
+    <g
+       id="g898-7-7" />
+    <g
+       id="g900-5-5" />
+    <g
+       id="g902-9-9" />
+    <g
+       id="g904-2-2" />
+    <g
+       id="g906-2-2" />
+    <g
+       id="g908-8-8" />
+    <g
+       id="g910-9-9" />
+    <g
+       id="g912-7-7" />
+    <g
+       id="g914-3-3" />
+    <g
+       id="g916-6-6" />
+    <g
+       id="g918-1-1" />
+    <g
+       id="g920-2-2" />
+    <g
+       id="g922-9-9" />
+    <g
+       id="g924-3-3" />
+    <g
+       id="g926-1-1" />
+    <g
+       id="g928-9-9" />
+    <g
+       id="g930-4-4" />
+    <g
+       id="g932-7-7" />
+    <g
+       id="g934-8-8" />
+    <g
+       id="g936-4-4" />
+    <g
+       id="g938-5-5" />
+    <g
+       id="g940-0-0" />
+    <g
+       id="g942-3-3" />
+    <g
+       id="g944-6-6" />
+    <g
+       id="g946-1-1" />
+    <g
+       id="g948-0-0" />
+    <g
+       id="g950-6-6" />
+    <g
+       id="g952-3-3" />
+    <g
+       id="g954-2-2" />
+    <g
+       id="g956-0-0" />
+    <g
+       id="g958-6-6" />
+    <g
+       id="g960-1-1" />
+    <g
+       id="g962-5-5" />
+    <g
+       id="g964-5-5" />
+    <g
+       id="g966-4-4" />
+    <g
+       id="g968-7-7" />
+    <g
+       id="g970-6-6" />
+    <g
+       id="g972-5-5" />
+    <g
+       id="g974-6-6" />
+    <g
+       id="g976-9-9" />
+    <g
+       id="g978-3-3" />
+    <g
+       id="g980-7-7" />
+    <g
+       id="g982-4-4" />
+    <g
+       id="g984-5-5" />
+    <g
+       id="g986-2-2" />
+    <g
+       id="g988-5-5" />
+    <g
+       id="g990-4-4" />
+    <g
+       id="g992-7-7" />
+    <g
+       id="g994-4-4" />
+    <g
+       id="g996-4-4" />
+    <g
+       id="g998-3-3" />
+    <g
+       id="g1000-0-0" />
+    <g
+       id="g1002-7-7" />
+    <g
+       id="g1004-8-8" />
+    <g
+       id="g1006-6-6" />
+    <g
+       id="g1008-8-8" />
+    <g
+       id="g1010-8-8" />
+    <g
+       id="g1012-4-4" />
+    <g
+       id="g1014-3-3" />
+    <g
+       id="g1016-1-1" />
+    <g
+       id="g1018-4-4" />
+    <g
+       id="g1020-9-9" />
+    <g
+       id="g1022-2-2" />
+    <g
+       id="g1024-0-0" />
+    <g
+       id="g1026-6-6" />
+    <g
+       id="g1028-8-8" />
+    <g
+       id="g1030-9-9" />
+    <g
+       id="g1032-2-2" />
+    <g
+       id="g1034-6-6" />
+    <g
+       id="g1036-6-6" />
+    <g
+       id="g1038-4-4" />
+    <g
+       id="g1040-9-9" />
+    <g
+       id="g1042-5-5" />
+    <g
+       id="g1044-0-0" />
+    <g
+       id="g1046-4-4" />
+    <g
+       id="g1048-8-8" />
+    <g
+       id="g1050-7-7" />
+    <g
+       id="g1052-1-1" />
+    <g
+       id="g1054-7-7" />
+    <g
+       id="g1056-2-2" />
+    <g
+       id="g1058-7-7" />
+    <g
+       id="g1060-2-2" />
   </g>
 </svg>
