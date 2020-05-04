@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 28)
+    (drawings 30)
     (tracks 1091)
     (zones 0)
     (modules 89)
@@ -5248,6 +5248,12 @@
       (net 34 GND))
   )
 
+  (gr_text https://josefadamcik.github.io/SofleKeyboard/ (at 158.48 131.602) (layer B.SilkS) (tstamp 5EB04CF1)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text https://josefadamcik.github.io/SofleKeyboard/ (at 158.53 131.602) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text "Sofle Keyboard v2.0 by Josef Adamcik" (at 203.93 126.852 15) (layer B.SilkS) (tstamp 5EB04A93)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
