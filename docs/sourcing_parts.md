@@ -3,7 +3,7 @@ layout: default
 title: Sofle Keyboard - sourcing parts
 ---
 
-Sofle Keyboard is supposed to be simple DIY keyboard so it's possible to source all the parts yourself starting with PCBs, case plates and ending with every component on the board. In the case of PCBs and plates it might be more cost effective to buy them through a vendor for you but it's possible to go through manufacturing process as well. For the remaining components, most of them can be bought on Ebay on Aliexpress but buying a kit might be handy.
+Sofle Keyboard is supposed to be simple DIY keyboard so it's possible to source all the parts yourself starting with PCBs, case plates and ending with every component on the board. In the case of PCBs and plates it might be more cost effective to buy them through a vendor but it's possible to go through manufacturing process as well. For the remaining components, most of them can be bought on Ebay on Aliexpress but buying a kit might be handy.
 
 ## Vendors
 
@@ -13,7 +13,7 @@ I am currently not aware of any other vendors selling parts but the keyboard is 
 
 ## PCB manufacturing
 
-If you decide that you wish to go through the PCB manufacturing process, you can. I should be easy enough even for people who don't know much about PCB manufacturing process. But keep in mind, nobody can guarantee that there are not going to be some problems and if you have no idea what are you doing it might be more difficult to deal with any issues along the way.
+If you decide that you wish to go through the PCB manufacturing process, you can. I should be easy enough even for people who don't know much about PCB manufacturing process. But keep in mind, nobody can guarantee that there are not going to be some problems and if you have no idea what are you doing it might be more difficult to deal with any issues along the way. 
 
 ### Getting Gerber files
 
@@ -26,7 +26,7 @@ You can also get source [KiCad projects on Github][soflegithub]. Open them in Ki
 You should have 3 zip files which you need to upload/send to your manufacturer and have them made. There should be nothing special about the parameters you pick for manufacturing: 2-sided PCB, thickness 1.6 mm. Surface finish (keep in mind that the cheapest HASL contains lead. Lead is toxic.) and solder-mask color according to your taste. Other parameters could stay in their default values. You are going to need at least 2 pieces of PCB made from each zip file. Most likely the minimal quantity is going to be either 5 or 10 boards.
 
 
-## Micro controller boards
+## Microcontroller boards
 
 - [Original Pro Micro by SparkFun][promicroorig]. 
 - [Clone from AliExpress][promicro]
@@ -35,19 +35,25 @@ Another alternative would be to use Elite-C which is a board using the same micr
 
 ### Sockets and pin headers for Pro Micro 
 
-There are several ways how to mount Pro Micros to the board. Either the male PIN headers you most likely got with the board from the supplier could be used to solder it directly to the board. 
+![sockets](images/socketing.jpg)
 
-Build guides for Helix, Corne and Lily58 suggest [those spring pin headers][springpinheader] which are very compact and give you non-permanent connection (you can remove or replace Pro Micros). But the link goes to a Japanese e-shop which is not shipping to Europe. ~~I haven't found any other place where those are available. All I can find is Japanese datasheet and this e-shop.~~ They were [briefly available at keycapsss.com][keycapsssockets] but at the time of writing they were already sold-out.
+There are several ways how to mount Pro Micros to the board. Either the male PIN headers you most likely got with the board from the supplier could be used to solder it directly to the board or with high profile female pin headers (on the image in the middle.)
 
-I ended up using low-profile round pin headers which take a bit more height but also allow me to remove Pro Micros and use them elsewhere. But for Corne, I just soldered them permanently. Here are [female ones][roundpinfemale] (soldered to board) and [male ones][roundpinmale] (soldered to Pro-Micro)
+Build guides for Helix, Corne and Lily58 suggest [those spring pin headers][springpinheader](on the image at the top) which are very compact and give you non-permanent connection (you can remove or replace Pro Micros). But the link goes to a Japanese e-shop which is not shipping to Europe. ~~I haven't found any other place where those are available. All I can find is Japanese datasheet and this e-shop.~~ They were [briefly available at keycapsss.com][keycapsssockets] but at the time of writing they were already sold-out.
+
+I ended up using low-profile round pin headers (on the image at the bottom) which take a bit more height but also allow me to remove Pro Micros and use them elsewhere. But for Corne, I just soldered them permanently. Here are [female ones][roundpinfemale] (soldered to board) and [male ones][roundpinmale] (soldered to Pro-Micro)
+
+![sockets 2](images/socketing2.jpg)
 
 Another possible approach [is described at splitkb.com][promicrosocketing].
 
 ## Other parts
 
+Bill of materials is part of the [build guide][buildguide].
+
 Apart from encoders and encoder knobs the parts are exactly the same as for Lilly58. So you can try to find someone who is selling a bit for Lilly58 without PCBs. You can also look for parts at eshops which sell stuff for similar DIY keyboards (Corne, Lilly58a and similar). For example an EU based vendor [keycapsss][keycapsss] has a pretty nice stock
 
-Bill of materials is part of the [build guide][buildguide]. Here you can find links to AliEpress for corresponding articles. Those are usually the same I have ordered and used. The links are not affiliate links.
+Most of the links below are to AliExpress and usually are the same I have ordered and used. They are meant for illustration. They are not affiliate links. It seems AliExpress is going to require you to be registered and logged in to see the detail of the product. I discovered that when putting this together and I am sorry for that but it's out of my control. 
 
 - [Kailh MX Socket (AliExpress)][kailhsocketmx] 
 - [Kailh Choc Socket (AliExpress)][kailhsocketchoc]

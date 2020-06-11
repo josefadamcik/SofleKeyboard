@@ -3,7 +3,7 @@ layout: default
 ---
 # Sofle Keyboard
 
-![SofleKeyboard](images/IMG_20200126_114622.jpg)
+![SofleKeyboard](images/soflek_keyboard.png.jpg)
 
 Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
 
@@ -49,8 +49,12 @@ You can also use [QMK configurator](https://config.qmk.fm/#/sofle/rev1/LAYOUT) b
 
 ## Gallery
 
+![SofleKeyboard](images/IMG_20200126_114622.jpg)
+
 ![SofleKeyboard](images/IMG_20191110_131443.jpg)
 
-![SofleKeyboard Choc](images/chocclear.jpg)
+![SofleKeyboard](images/IMG_20200126_114622.jpg)
+
+![SofleKeyboard Choc](images/sofle_choc.jpg)
 
 ![SofleKeyboard PCB](images/IMG_20191104_202757.jpg)
