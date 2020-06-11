@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-# Sofle Keyboard
 
-![SofleKeyboard](images/soflek_keyboard.png.jpg)
+![SofleKeyboard](images/sofle_keyboard.jpg)
 
 Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
 
