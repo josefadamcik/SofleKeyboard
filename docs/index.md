@@ -11,9 +11,9 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 
 It is still in [development](https://github.com/josefadamcik/SofleKeyboard/tree/develop), but the first version gained some popularity and there was even some group buys.
 
-More details about the keyboard on my blog: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html)
+More details about the keyboard, how and why I made it on my blog: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html)
 
-The current (temporary) build guide and a build log is available here: [SofleKeyboard build log/guide](https://josef-adamcik.cz/electronics/soflekeyboard-build-log-and-build-guide.html)
+[Build guide is here](/build_guide.html).
 
 If you are interested in building the board and don't want to bother with KiCad, the gerber files are available in [releases](https://github.com/josefadamcik/SofleKeyboard/releases).
 
@@ -47,7 +47,7 @@ You can also use [QMK configurator](https://config.qmk.fm/#/sofle/rev1/LAYOUT) b
 
 ![Default layout for SofleKeyboard](images/soflekeyboard.png)
 
-## Images of keyboard
+## Gallery
 
 ![SofleKeyboard](images/IMG_20191110_131443.jpg)
 
