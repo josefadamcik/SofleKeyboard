@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Sofle Keyboard
 
 ![SofleKeyboard](images/IMG_20200126_114622.jpg)
