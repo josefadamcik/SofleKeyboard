@@ -213,4 +213,4 @@ If you don't use OLED only on one half you are need to do **one** of the followi
 [manufacturingproblems]: https://josef-adamcik.cz/electronics/corne-keyboard-build-log.html#manufacturing-at-jlcpcb---update-27112019 "Possible problems when manufacturing top plate for Corne"
 [nooledlag]: https://github.com/qmk/qmk_firmware/issues/7522 "No OLED lag bug"
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
-[sourcing]: </sourcing_parts.html> "Sourcing parts"
+[sourcing]: <{{ site.baseurl }}/sourcing_parts.html> "Sourcing parts"

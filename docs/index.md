@@ -12,7 +12,7 @@ It is still in [development](https://github.com/josefadamcik/SofleKeyboard/tree/
 
 More details about the keyboard, how and why I made it on my blog: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html)
 
-[Build guide is here](/build_guide.html).
+[Build guide is here]({{ baseurl }}/build_guide.html).
 
 If you are interested in building the board and don't want to bother with KiCad, the gerber files are available in [releases](https://github.com/josefadamcik/SofleKeyboard/releases).
 

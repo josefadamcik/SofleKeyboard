@@ -109,7 +109,7 @@ Most of the links below are to AliExpress and usually are the same I have ordere
 {:target="_blank"}
 [nooledlag]: https://github.com/qmk/qmk_firmware/issues/7522 "No OLED lag bug"
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
-[buildguide]: </build_guide.html> "Build guide"
+[buildguide]: <{{ site.baseurl }}/build_guide.html> "Build guide"
 [keycapsss]: <https://keycapsss.com/keyboard-parts/parts/?p=1> "Keycapsss - parts" 
 {:target="_blank"}
 [keycapsssockets]: <https://keycapsss.com/keyboard-parts/parts/91/spring-loaded-pin-headers-12-pin-2pcs-conthrough?c=11> "Keycapss - spring loaded pin headers."
