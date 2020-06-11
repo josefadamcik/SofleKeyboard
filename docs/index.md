@@ -16,7 +16,7 @@ More details about the keyboard, how and why I made it on my blog: [Let me intro
 
 If you are interested in building the board and don't want to bother with KiCad, the gerber files are available in [releases](https://github.com/josefadamcik/SofleKeyboard/releases).
 
-## Licence
+## License
 
 - Hardware source files are licensed under MIT license.
 - The documentation (both on [josefadamcik.github.io/SofleKeyboard/](https://josefadamcik.github.io/SofleKeyboard/) and [https://josef-adamcik.cz/](https://josef-adamcik.cz/)) is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This includes all photos and images in this repository and on the website.
