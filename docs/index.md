@@ -10,7 +10,7 @@ SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The mot
 
 It is still in [development](https://github.com/josefadamcik/SofleKeyboard/tree/develop), but the first version gained some popularity and there was even some group buys.
 
-[Build guide is here]({{ baseurl }}/build_guide.html).
+[Build guide is here]({{ baseurl }}/SofleKeyboard/build_guide.html).
 
 If you are interested in building the board and don't want to bother with KiCad, the gerber files are available in [releases](https://github.com/josefadamcik/SofleKeyboard/releases).
 
