@@ -23,7 +23,7 @@ You can also get source [KiCad projects on Github][soflegithub]. Open them in Ki
 
 ### Manufacturing
 
-You should have 3 zip files which you need to upload/send to your manufacturer and have them made. There should be nothing special about the parameters you pick for manufacturing: 2-sided PCB, thickness 1.6 mm. Surface finish (keep in mind that the cheapest HASL contains lead. Lead is toxic.) and solder-mask color according to your taste. Other parameters could stay in their default values. You are going to need at least 2 pieces of PCB made from each zip file. Most likely the minimal quantity is going to be either 5 or 10 boards.
+You should have 3 zip files which you need to upload/send to your manufacturer and have them made. There should be nothing special about the parameters you pick for manufacturing: 2-sided PCB, thickness 1.6 mm. Surface finish (keep in mind that the cheapest HASL contains lead. Lead is toxic. Consider using lead-free version and lead-free solder) and solder-mask color according to your taste. Other parameters could stay in their default values. You are going to need at least 2 pieces of PCB made from each zip file. Most likely the minimal quantity is going to be either 5 or 10 boards.
 
 
 ## Microcontroller boards
@@ -97,9 +97,9 @@ Most of the links below are to AliExpress and usually are the same I have ordere
 {:target="_blank"}
 [diodes]: <https://www.aliexpress.com/item/32334222067.html> "1N4148W SOD123"
 {:target="_blank"}
-[encoder]: <https://www.aliexpress.com/item/32382989585.html> "Encoder"
+[encoder]: <https://de.aliexpress.com/item/4000891003225.html> "Encoder"
 {:target="_blank"}
-[encoderknob]: <https://www.aliexpress.com/item/32222859399.html> "Encoder Knob"
+[encoderknob]: <https://de.aliexpress.com/item/2028814958.html> "Encoder Knob"
 {:target="_blank"}
 [thtbuttons]: <https://www.aliexpress.com/item/32981768203.html> "Tactile button"
 {:target="_blank"}
