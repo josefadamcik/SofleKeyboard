@@ -3,6 +3,8 @@ layout: default
 title: Sofle Keyboard - build guide
 ---
 
+This build guide for version 1 of SofleKebyoard. There's a development version 2 available but the build guide is not updated yet (apart from one important detail which is clearly marked in the guide).
+
 If you don't have all the necessary parts, please read about [how to source the parts][sourcing].
 
 
@@ -61,7 +63,7 @@ Starting with the diodes. They belong to the backside of the PCB. Make sure you 
 
 ![Step 3](images/build_guide/IMG_20191106_203953.jpg )
 
-Sockets for switches belong again on the back side, the same side as diodes. Make sure they are flush with PCB.
+Sockets for switches belong again on the back side, the same side as diodes. Make sure they are flush with PCB. Watch the markings on the silkscreen which show the correct orientation.
 
 ### Components on the front side
 
@@ -81,7 +83,7 @@ Bridge 4 jumper pads on the top side. You can skip this step if you are sure you
 
 ![Step 7](images/build_guide/promicro.jpg )
 
-Prepare the Pro Micro. There are several ways how to do it. I have used rounded pin headers. A bit more information about [socketing of Pro Micro is on the sourcing parts page][sourcing].
+Prepare the Pro Micro. There are several ways how to do it. I have used rounded pin headers. A bit more information about [socketing of Pro Micro is on the sourcing parts page][sourcing]. Keep in mind the orientation: the Pro Micro board should be mounted "bottom-up". Its clean side should be at the top, visible. The side with chips and other electronics should be at the bottom facing the main PCB. (This is different for version 2 where the above applies only to the pro micro on the left half. The right half has the pro micro mounted up-side up so it's mounted differently on each half).
 
 ![Step 8](images/build_guide/IMG_20191106_210048.jpg )
 
@@ -178,6 +180,12 @@ If you don't use OLED only on one half you are need to do **one** of the followi
 - Solder pull-up resistors (4k7) to the PCB (R1, R2) without OLED.
 - Use a workaround explained [in this issue][nooledlag].
 - Stop using OLED completely and turn it off as described above.
+
+## Modifications
+
+### Inverted silkscreen
+
+If you fancy an [inverted silkscreen there's a great guide available](https://github.com/josefadamcik/SofleKeyboard/issues/3#issuecomment-683192038).
 
 ## Links
 
