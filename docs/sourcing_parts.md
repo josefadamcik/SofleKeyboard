@@ -97,9 +97,9 @@ Most of the links below are to AliExpress and usually are the same I have ordere
 {:target="_blank"}
 [diodes]: <https://www.aliexpress.com/item/32334222067.html> "1N4148W SOD123"
 {:target="_blank"}
-[encoder]: <https://de.aliexpress.com/item/4000891003225.html> "Encoder"
+[encoder]: <https://www.aliexpress.com/item/4000891003225.html> "Encoder"
 {:target="_blank"}
-[encoderknob]: <https://de.aliexpress.com/item/2028814958.html> "Encoder Knob"
+[encoderknob]: <https://www.aliexpress.com/item/2028814958.html> "Encoder Knob"
 {:target="_blank"}
 [thtbuttons]: <https://www.aliexpress.com/item/32981768203.html> "Tactile button"
 {:target="_blank"}
