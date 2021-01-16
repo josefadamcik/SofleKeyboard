@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sofle Keyboard - build guide
+title: Sofle Keyboard - build guide (v1/v2)
 ---
 
 This build guide for version 1 of SofleKebyoard. There's a development version 2 available but the build guide is not updated yet (apart from one important detail which is clearly marked in the guide).

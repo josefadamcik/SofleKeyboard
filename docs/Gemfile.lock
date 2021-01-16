@@ -247,7 +247,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 206)
   jekyll-feed (~> 0.6)
-  jekyll-theme-cayman
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
