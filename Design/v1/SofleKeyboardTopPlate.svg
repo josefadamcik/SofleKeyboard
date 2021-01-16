@@ -14,7 +14,7 @@
    viewBox="0 0 200.0 130.0"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="SofleKeyboardTopPlate.svg">
   <defs
      id="defs2">
@@ -58,11 +58,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="69.491999"
-     inkscape:cy="191.12125"
+     inkscape:zoom="1.979899"
+     inkscape:cx="107.04674"
+     inkscape:cy="245.68728"
      inkscape:document-units="mm"
-     inkscape:current-layer="g824"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
@@ -6685,5 +6685,25 @@
        cx="120.3644"
        cy="41.698936"
        r="1.2" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="OLED">
+      <path
+         d="m 7.0955969,73.458218 a 1.1,1.1 0 1 0 -2.199999,0 1.1,1.1 0 1 0 2.199999,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332"
+         id="path18-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 22.595598,73.458218 a 1.1,1.1 0 1 0 -2.2,0 1.1,1.1 0 1 0 2.2,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332"
+         id="path20"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 2.8380969,19.208211 a 2,2 0 0 1 2.000001,-2.000012 H 22.653097 a 2,2 0 0 1 2.000001,2.000012 v 54.999995 a 2,2 0 0 1 -2.000001,2.000012 H 4.8380979 a 2,2 0 0 1 -2.000001,-2.000012 z"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332"
+         id="path22"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
