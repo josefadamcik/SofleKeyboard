@@ -3,10 +3,9 @@ layout: default
 title: Sofle Keyboard - build guide (v1/v2)
 ---
 
-This build guide for version 1 of SofleKebyoard. There's a development version 2 available but the build guide is not updated yet (apart from one important detail which is clearly marked in the guide).
+This guide suits both v1 and v2. Most of the photos are for v1 and the differences are explained in the text as needed.
 
 If you don't have all the necessary parts, please read about [how to source the parts][sourcing].
-
 
 ## Bill of materials
 
@@ -16,8 +15,8 @@ The following is needed to build the keyboard. You can find [links for the most 
 
 - **2 PCBs** (see [sourcing][sourcing])
 - **2 top plates**, **2 bottom plates** for a sandvich-case build. (see [sourcing][sourcing])
-- **58 keyboard switch sockets by Kailh**. The PCB supports either sockets for traditional MX switches or sockets for Kailh Choc switches (low profile mechanical switches). They are available on Aliexpress, KBDFans and others. **Update: Please see a disclaimer for Kailh Choc switches**
-- **58 keyboard switches** of your preference, either MX or [Kailh Choc][choc]. Just make sure you have matching sockets for them. **Update: Please see a disclaimer for Kailh Choc switches**
+- **58 keyboard switch sockets by Kailh**. The PCB supports either sockets for traditional MX switches or sockets for Kailh Choc switches. **Note that version 2 supports only MX.** They are available on Aliexpress, KBDFans and others. 
+- **58 keyboard switches** of your preference, either MX or [Kailh Choc][choc]. Just make sure you have matching sockets for them. **Note that version 2 supports only MX**.
 - **58 keycaps**. You can use either all in `1u` size but it looks nicer with two `1.5u` for the thumb keys.
 - **58 diodes  1N4148W**. They are surface mount diodes in SOD123 package.
 - **2 TRRS connectors**. The same type which is used for Corne, Lily58 etc. Technically even TRS should work[^1] if you stick to (default) serial communication. 
@@ -44,8 +43,15 @@ That's it. There are no RGB LEDs on the board. But if you really need underglow 
 - solder 
 - good tweezers
 - masking tape
-- isopropyl-alcohol for cleaning
+- isopropyl-alcohol for cleaning 
 - screwdriver
+
+## Warnings and disclaimers
+
+- Think twice, solder once. Desoldering is frustrating and it's easy to mess up things.
+- Don't connect or disconnect the TRRS cable when the keyboard is powered. It may short out. Always disconnect the USB cable first.
+- Be gentle with the USB on your microcontroller. They are easy to break.
+- Keep in mind that this is a prototype of a DIY keyboard. It's not a polished product.
 
 ## Steps
 
@@ -79,23 +85,31 @@ This is how the right half should look from the top.
 
 ![Step 6](images/build_guide/IMG_20191106_205330.jpg )
 
-Bridge 4 jumper pads on the top side. You can skip this step if you are sure you don't want to use OLED displays.
+Bridge 4 jumper pads on the top side. They are necessary for OLED support and if you don't socket you Pro Micro you will not be able to do it later.
 
 ![Step 7](images/build_guide/promicro.jpg )
 
-Prepare the Pro Micro. There are several ways how to do it. I have used rounded pin headers. A bit more information about [socketing of Pro Micro is on the sourcing parts page][sourcing]. Keep in mind the orientation: the Pro Micro board should be mounted "bottom-up". Its clean side should be at the top, visible. The side with chips and other electronics should be at the bottom facing the main PCB. (This is different for version 2 where the above applies only to the pro micro on the left half. The right half has the pro micro mounted up-side up so it's mounted differently on each half).
+Prepare the Pro Micro. There are several ways how to do it. I have used rounded pin headers. A bit more information about [socketing of Pro Micro is on the sourcing parts page][sourcing]. 
+
+**Keep in mind the orientation**: 
+
+![Pro micro orienation](images/build_guide/micro_placement.jpg)
+
+Version 1: the Pro Micro board should be mounted "bottom-up". Its clean side should be at the top, visible. The side with chips and other electronics should be at the bottom facing the main PCB. 
+
+Version 2: The left side as for version 1. The right half has the pro micro mounted up-side up so it's mounted differently on each half. 
 
 ![Step 8](images/build_guide/IMG_20191106_210048.jpg )
 
-And corresponding sockets (if used) on the front side of the board. Make sure you insert them into the holes which are marked by the rectangles.
+And corresponding sockets (if used) on the front side of the board. Version 1: Make sure you insert them into the holes which are marked by the rectangles. Version 2: there's only one option so it is straightforward.
 
 ![Step 9](images/build_guide/IMG_20191106_211040.jpg )
 
-Another socket for OLED display.
+Add socket for OLED display. Keep in mind height of your Pro Micro which may be different based on if/which socket's you have used for Pro Micro. Check everything before soldering.
 
 ![Step 10](images/build_guide/IMG_20191106_211048.jpg )
 
-A look on the backside.
+This is how the backside (bottom) should look at this stage.
 
 ### First test
 
@@ -169,7 +183,7 @@ Suggested approach is to build the firmware yourself. You should be familiar wit
 
 ### Elite-C v3.0
 
-Elite-C v3.0 had problems when used with split bords (on both halves). Those are fixed in version 3.1. For v3.0 add `#define SPLIT_USB_DETECT` to `config.h` file. I don't have Elite-C so this is untested, but should work.
+Elite-C v3.0 had problems when used with split boards (on both halves). Those are fixed in version 3.1. For v3.0 add `#define SPLIT_USB_DETECT` to `config.h` file. I don't have Elite-C so this is untested, but should work.
 
 ### Typing lag when used without OLED 
 
@@ -198,7 +212,7 @@ If you fancy an [inverted silkscreen there's a great guide available](https://gi
 
 [^1]: Serial is the default behaviour. If serial is used, you don't need TRRS cable (4 contacts, used for headphones with a microphone) but just TRS (stereo audio jack). 
 [^2]: This can be changed, look for [setting handednesss][qmkhandedness] in QMK documentation.
-[^3]: There was a design issue where the cutout for the encoder is big enough only for the base of the encoder but not for its legs. That is perfectly ok when you build the board with MX switches since the plate sits above the legs. But for low profile Kailh Choc switches there's no longer any gap between plates. If you have unfixed plate (the problem was fixed in v1.1.) and wish to use an encoder, you'll need to file off a bit of PCB material to get the legs of encdor through (see the guide above).
+[^3]: There was a design issue where the cutout for the encoder is big enough only for the base of the encoder but not for its legs. That is perfectly ok when you build the board with MX switches since the plate sits above the legs. But for low profile Kailh Choc switches there's no longer any gap between plates. If you have unfixed plate (the problem was fixed in v1.1.) and wish to use an encoder, you'll need to file off a bit of PCB material to get the legs of encoder through (see the guide above).
 
 [layoutarticle]: <https://josef-adamcik.cz/electronics/in-search-of-the-best-custom-keyboard-layout.html> "In search of the best custom keyboard layout"
 [introductionarticle]: <https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html> "Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd"
