@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="137.46074mm"
+   height="109.51159mm"
+   viewBox="0 0 137.46074 109.51159"
+   version="1.1"
+   id="svg2017"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="SofleKeyboardBottomPlate_ShapeOnly.svg">
+  <defs
+     id="defs2011" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-171.66079"
+     inkscape:cy="-93.048967"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="-0.6"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2014">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.692393,-14.702537)">
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4233-9-4"
+       d="m 152.96104,99.13093 -18.71307,1.50552 -0.1361,0.0192 -0.13146,0.0348 -0.12564,0.0497 -0.1186,0.0638 -0.11034,0.0772 -0.10088,0.0899 -0.0902,0.10176 -0.0783,0.11293 -8.48532,13.93636 -0.0858,0.12234 -0.0996,0.1089 -0.1118,0.0946 -0.12242,0.0794 -0.13147,0.0633 -0.13893,0.0463 -0.14481,0.0284 -0.14912,0.01 h -15.72371 l -0.80985,-0.0275 -0.8052,-0.0821 -0.79781,-0.1364 -0.78765,-0.1903 -15.491125,-4.30321 -0.45932,-0.11924 -0.4627,-0.10353 -0.46567,-0.0877 -0.46824,-0.0719 -0.4704,-0.056 -0.47217,-0.0401 -0.47353,-0.0241 -0.47448,-0.008 h -15.21857 l -0.48771,0.0116 -0.48577,0.0348 -0.48302,0.0578 -0.47946,0.0806 -0.4751,0.10332 -0.4699,0.12586 -0.46391,0.14822 -0.4571,0.17045 -32.07889,12.84092 -0.20223,0.0603 -0.20467,0.0222 -0.20246,-0.0143 -0.1956,-0.0491 -0.1841,-0.0823 -0.16794,-0.11398 -0.14714,-0.14398 -0.12168,-0.1724 -13.47444,-23.3425 -0.0452,-0.0865 -2.3013,-4.903482 -0.12838,-0.29432 -0.11177,-0.30024 -0.095,-0.30546 -0.0781,-0.30999 -0.061,-0.31379 -0.0438,-0.31688 -0.0264,-0.319291 -0.009,-0.320977 -0.001,-76.704991 0.0234,-0.232173 0.0671,-0.216247 0.10621,-0.195687 0.14067,-0.170496 0.17049,-0.140672 0.19569,-0.106215 0.21624,-0.06713 0.23217,-0.0234 95.084855,7.9e-5 1.03356,0.02784 1.17215,0.07593 1.1692,0.112616 1.02471,0.137907 35.56497,5.765364 0.20168,0.05163 0.18474,0.08468 0.16476,0.114133 0.14169,0.139981 0.11557,0.162225 0.0864,0.180865 0.0541,0.195899 0.0188,0.207331 0.027,75.891391 -0.0209,0.21982 -0.0604,0.20626 -0.096,0.1886 -0.12791,0.16683 -0.15598,0.14092 -0.18026,0.11093 -0.20073,0.0768 -0.21741,0.0386 h 4e-5"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.26458395px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:original-d="m 62763.753,41623.007 -8015.348,644.863 -3593.563,5902.098 H 44067.848 L 36626.857,46102.97 h -7518.992 l -13714.989,5489.996 -5510.9926,-9546.991 -1132,-2411.997 -0.5656,-31165.0577 c 13113.0642,0.061 38760.2572,0.032 38760.2572,0.032 l 15243.256,2471.0527 z" />
+  </g>
+</svg>
