@@ -15,7 +15,7 @@
    viewBox="0 0 150.0 120.0"
    version="1.1"
    id="svg9458"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="top_plate.svg">
   <defs
      id="defs9452">
@@ -47,11 +47,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="-59.864611"
-     inkscape:cy="69.480539"
+     inkscape:zoom="5.6"
+     inkscape:cx="76.64271"
+     inkscape:cy="156.0127"
      inkscape:document-units="mm"
-     inkscape:current-layer="g13972"
+     inkscape:current-layer="svg9458"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
@@ -83,7 +83,7 @@
   </metadata>
   <rect
      id="rect13940"
-     style="display:none;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
      height="120"
      width="150"
      y="0"
@@ -5585,8 +5585,8 @@
        id="path2266-3-5-60-97"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 10.317496,70.957418 H 22.321143 V 82.557553 H 10.319691 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.28399462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.9920235,70.431998 H 22.708003 V 83.048003 H 9.9943485 Z"
        id="path2579"
        inkscape:connector-curvature="0" />
     <path
