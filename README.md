@@ -18,10 +18,6 @@ Sofle uses [QMK firmware](https://qmk.fm/)
 
 ![Default layout for SofleKeyboard](Images/soflekeyboard.png)
 
-## Default layout 
-
-![Default layout for SofleKeyboard](Images/soflekeyboard.png)
-
 ## Images of keyboard
 
 ![SofleKeyboard](Images/IMG_20191110_131443.jpg)
