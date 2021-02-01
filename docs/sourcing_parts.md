@@ -7,9 +7,7 @@ Sofle Keyboard is supposed to be simple DIY keyboard so it's possible to source 
 
 ## Vendors
 
-USA based [MysticMechs were running GB recently and the plan was to have parts in stock](https://mysticmechs.com/collections/sofle). 
-
-I am currently not aware of any other vendors selling parts but the keyboard is open source and anyone can sell them. So try to look around, you might find some.
+There are some vendors who are or were selling Sofle PCBs and/or kits. Things change over time so just google around and you may have luck finding someone.
 
 ## PCB manufacturing
 
