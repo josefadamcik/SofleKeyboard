@@ -48,7 +48,7 @@ The following is needed to build the keyboard.
 	- **A matching knob** for each encoder. 
 	
 - **LEDs**
-	- **SK2812 mini rgb leds** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your varient is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
+	- **SK6812 mini rgb leds** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your varient is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
 		- **1x forward facing layer indicator**
 		- **6x rear facing drop lights**
 		- **29x per key lights** 
@@ -96,6 +96,7 @@ Using the base pattern is the only consistent pattern between at least two diffe
 This version of the led has a different numbering pattern. But shows the same pattern and net lables on the bottom.
 
 The sofle RGB uses the following table, with the silkscreen marking at pin 1 (Dout) 
+
 | pin | net | net | pin |
 |---|---|---|---|
 | 1 | Dout | Vcc | 4 | 
