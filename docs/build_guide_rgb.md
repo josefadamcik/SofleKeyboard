@@ -18,7 +18,7 @@ For the most part, this guide is the same as the Sofle. I have shamelessly stole
 The following is needed to build the keyboard.
 
 
-- **2 PCBs**
+- **2 PCBs**, ** NOTE: ** There is an issue with the v2.0 boards. See the Troubleshooting section at the bottom of the page for further details if you were unlucky enough to get a board made with these files. 
 - **2 top plates**, **2 bottom plates** for a sandvich-case build.
 
 - **2 Pro Micro** board or clone. With 2x12 pins and ATmega32U4 microcontroller. Just make sure you **don't** buy something like Arduino Micro (a different pinout) or Arduino Mini (different microcontroller). You could also use Elite-C which basically Pro Micro with USB-C.
@@ -48,7 +48,7 @@ The following is needed to build the keyboard.
 	- **A matching knob** for each encoder. 
 	
 - **LEDs**
-	- **SK2812 mini rgb leds** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your varient is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
+	- **SK6812 mini rgb leds** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your varient is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
 		- **1x forward facing layer indicator**
 		- **6x rear facing drop lights**
 		- **29x per key lights** 
@@ -96,6 +96,7 @@ Using the base pattern is the only consistent pattern between at least two diffe
 This version of the led has a different numbering pattern. But shows the same pattern and net lables on the bottom.
 
 The sofle RGB uses the following table, with the silkscreen marking at pin 1 (Dout) 
+
 | pin | net | net | pin |
 |---|---|---|---|
 | 1 | Dout | Vcc | 4 | 
@@ -208,6 +209,18 @@ Suggested approach is to build the firmware yourself. You should be familiar wit
 ## Troubleshooting
 
 See the Sofle build guide.
+
+###
+V2.0 Boards - There is a known issue on V2.0 boards with the LED circuit - a trace is missing to a via on the underside of the board (on top on the left half)
+
+Symptoms: only the first 4 underglow LEDs will work, this will occur on both halves of the board, 
+
+Remedy: This can be easily corrected by adding a wire between the via and the trace immediately above it in the picture. You may need to scrape off the solder mask on the via depending on which manufacturer you used. 
+The other end can either be attatched to the trace (after removing some mask), or the footprint/led itself. 
+
+![Problem Via, In the thumb cluster on the left half of the board. ](./images/V2Issue.png)
+
+This has been corrected in the v2.1 boards, and hopefully hasn't caught too many people out. Thanks to jmo808 for finding it, and apologies once again. 
 
 ## Links
 

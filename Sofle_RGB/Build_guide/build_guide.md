@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sofle RGB Keyboard - build guide
+title: Sofle Keyboard - build guide (RGB)
 ---
 
 The Sofle RGB is a copy of the Sofle v2 with the addition of up to 36 RGB leds per side. If you are just looking to try out that layout, and are using the cherry sockets only, then this will work for you. 
@@ -10,14 +10,15 @@ I also rolled back to the original pro-micro pinout, and completely redid the ro
 The OLED placement and OLED cover plate holes have not changed, and a plate has been designed. I haven't yet had one manufactured yet, but will in the next few weeks and refine if needed.
 
 ## This Build Guide
-For the most part, this guide is the same as the sofle. I have shamelessly stolen Josef's build guide, and abreviated it heavily to cover mostly the differences. If you need more detail, please refer to his [guide at https://josefadamcik.github.io/SofleKeyboard/](https://josefadamcik.github.io/SofleKeyboard/)
+
+For the most part, this guide is the same as the Sofle. I have shamelessly stolen Josef's build guide, and abreviated it heavily to cover mostly the differences. If you need more detail, please refer to the main [build guide]({{ site.baseurl }}/build_guide.html)
 
 ## Bill of materials
 
 The following is needed to build the keyboard.
 
 
-- **2 PCBs**
+- **2 PCBs**, ** NOTE: ** There is an issue with the v2.0 boards. See the Troubleshooting section at the bottom of the page for further details if you were unlucky enough to get a board made with these files. 
 - **2 top plates**, **2 bottom plates** for a sandvich-case build.
 
 - **2 Pro Micro** board or clone. With 2x12 pins and ATmega32U4 microcontroller. Just make sure you **don't** buy something like Arduino Micro (a different pinout) or Arduino Mini (different microcontroller). You could also use Elite-C which basically Pro Micro with USB-C.
@@ -40,15 +41,14 @@ The following is needed to build the keyboard.
 - **OLED/s**
 	- **2 ssd1306 128x32 OLED display module**. Very common everywhere. 
 	- **2x 4 pin header (and optionally socket)** for OLEDs. I have used the most common 1x4 female pin sockets which are quite tall but they also fit the height of ProMicro with the sockets I have used. Unfortunately, the pin headers on my OLED modules (again those very common square male headers you would get with the modules) are loose in the sockets. It works but it's fiddly. I'll have to find a better solution.
-	- **2 OLED cover** This is available in [../../Case/Sofle_RGB/oled_cover.svg ](../../Case/Sofle_RGB/oled_cover.svg )
+	- **2 OLED cover** This is available in [the repository (oled_cover.svg)](https://github.com/josefadamcik/SofleKeyboard/tree/master/Sofle_RGB/Case/)
 	
 - **Rotary encoders**
 	- **2 Rotary encoders EC11**, If you are not sure take EC11E. Some other variants (EC11K) may have some additional plastic pins for and require mounting holes for them (which are not included on the PCB).
 	- **A matching knob** for each encoder. 
 	
 - **LEDs**
-	- **SK6812 mini rgb leds (these sometimes sized as 3535)** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your varient is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
-    
+	- **SK2812 mini rgb leds** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your varient is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
 		- **1x forward facing layer indicator**
 		- **6x rear facing drop lights**
 		- **29x per key lights** 
@@ -71,7 +71,7 @@ The following is needed to build the keyboard.
 Make sure you know which side you are working on, and don't make two left hand sides by mistake 
 
 ### The LEDs
-![SofleKeyboard](./led-layout.jpg)
+![SofleKeyboard](images/build_guide_rgb/led-layout.jpg)
 
 
 Work out what leds you wish to have, I have endeavoured to provide plenty of flexibility, and all led configurations are available using the headers available. If you wish to experiment, use 2.54mm headers and jumpers. If you know what you want, use a solder bridge to enable the leds required.  
@@ -81,7 +81,7 @@ Make sure you know which way around your leds are, different brands have differe
 
 #### LED pinouts
 
-![LED pinout from the crkbd build guide. I've found this to be the only consistent method](./led-pinout.jpg)
+![LED pinout from the crkbd build guide. I've found this to be the only consistent method](images/build_guide_rgb/led-pinout.jpg)
 
 The above picture is from the crkbd guide shows pin 4 on the following table (the table is viewed from the top of the LED). 
 
@@ -92,7 +92,7 @@ Using the base pattern is the only consistent pattern between at least two diffe
 | 1 | Dout | Vcc | 4 | 
 | 2 | Gnd  | Din | 3 | 
 
-![datasheet](./LED-datasheet.png)
+![datasheet](images/build_guide_rgb/LED-datasheet.png)
 This version of the led has a different numbering pattern. But shows the same pattern and net lables on the bottom.
 
 The sofle RGB uses the following table, with the silkscreen marking at pin 1 (Dout) 
@@ -127,11 +127,11 @@ If the part of the string stops working, resolder the last working one, and the 
 
 #### LED Layouts 
 Indicator + drop lighting
-![LED layout underlighting](./board-underlighting.png)
+![LED layout underlighting](images/build_guide_rgb/board-underlighting.png)
 Indicator + per key lighting
-![LED layout per key ](./board-perkey.png)
+![LED layout per key ](images/build_guide_rgb/board-perkey.png)
 Indicator + drop lighting + per key lighting
-![LED layout both ](./board-both.png)
+![LED layout both ](images/build_guide_rgb/board-both.png)
 
 
 ### Components on the backside
@@ -209,6 +209,18 @@ Suggested approach is to build the firmware yourself. You should be familiar wit
 
 See the Sofle build guide.
 
+###
+V2.0 Boards - There is a known issue on V2.0 boards with the LED circuit - a trace is missing to a via on the underside of the board (on top on the left half)
+
+Symptoms: only the first 4 underglow LEDs will work, this will occur on both halves of the board, 
+
+Remedy: This can be easily corrected by adding a wire between the via and the trace immediately above it in the picture. You may need to scrape off the solder mask on the via depending on which manufacturer you used. 
+The other end can either be attatched to the trace (after removing some mask), or the footprint/led itself. 
+
+![Problem Via, In the thumb cluster on the left half of the board. ](./images/V2Issue.png)
+
+This has been corrected in the v2.1 boards, and hopefully hasn't caught too many people out. Thanks to jmo808 for finding it, and apologies once again. 
+
 ## Links
 
 - [Github with KiCad projects][soflegithub]
@@ -226,15 +238,15 @@ SofleRGB uses [QMK firmware](https://qmk.fm/), it can use any Sofle keymap.
 
 The default layout for the SofleRGB is in the qmk repo, and demonstrates some LED functions. 
 
-![Default layout for SofleRGB Keyboard](../../Images/soflekeyboard.png)
+![Default layout for SofleRGB Keyboard](./images/soflekeyboard.png)
 
 ## Images of keyboard
 
-![SofleRGBKeyboard](../../Images/SofleRGB_1.png)
+![SofleRGBKeyboard](./images/SofleRGB_1.png)
 
-![SofleRGBKeyboard](../../Images/SofleRGB_2.png)
+![SofleRGBKeyboard](./images/SofleRGB_2.png)
 
-![SofleRGBKeyboard PCB](../../Images/SofleRGB_boards.png)
+![SofleRGBKeyboard PCB](./images/SofleRGB_boards.png)
 
 ## Footnotes
 [layoutarticle]: <https://josef-adamcik.cz/electronics/in-search-of-the-best-custom-keyboard-layout.html> "In search of the best custom keyboard layout"
