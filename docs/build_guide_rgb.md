@@ -217,7 +217,7 @@ Symptoms: only the first 4 underglow LEDs will work, this will occur on both hal
 Remedy: This can be easily corrected by adding a wire between the via and the trace immediately above it in the picture. You may need to scrape off the solder mask on the via depending on which manufacturer you used. 
 The other end can either be attatched to the trace (after removing some mask), or the footprint/led itself. 
 
-![Problem Via, In the thumb cluster on the left half of the board. ](images/v2.0Issue.png)
+![Problem Via, In the thumb cluster on the left half of the board. ](images/v2.0Issue.jpg)
 
 This has been corrected in the v2.1 boards, and hopefully hasn't caught too many people out. Thanks to jmo808 for finding it, and apologies once again. 
 
