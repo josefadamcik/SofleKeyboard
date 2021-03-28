@@ -1,0 +1,14 @@
+(module breakaway-mousebites (layer F.Cu) (tedit 5B90EF0D)
+  (fp_text reference REF** (at 0 -3.048) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value breakaway-mousebites (at 0 -4.75) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -2.794 0) (end 2.794 0) (layer Dwgs.User) (width 0.15))
+  (pad "" np_thru_hole circle (at 0 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 1.27 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 2.54 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -1.27 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -2.54 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask))
+)

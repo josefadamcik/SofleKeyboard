@@ -1,0 +1,16 @@
+(module MX-Alps_FMask-2u (layer F.Cu) (tedit 5C4A87BA)
+  (fp_text reference REF** (at 0.25 10.05) (layer Eco2.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MX-Alps_Switch_Cutout (at 0 -15.24) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -19.025 -9.5) (end -0.025 -9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -19.025 9.5) (end -19.025 -9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -0.025 9.5) (end -19.025 9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 19.025 9.5) (end 0.025 9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 0.025 -9.5) (end 19.025 -9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 19.025 -9.5) (end 19.025 9.5) (layer Dwgs.User) (width 0.15))
+  (pad 1 smd roundrect (at 0 0 180) (size 36.45 15.8) (layers F.Cu F.Mask) (roundrect_rratio 0.063))
+  (pad 1 smd roundrect (at 0 0 180) (size 36.45 15.8) (layers B.Cu B.Mask) (roundrect_rratio 0.063))
+)

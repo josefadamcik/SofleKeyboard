@@ -1,0 +1,18 @@
+(module LED_TH (layer F.Cu) (tedit 561B687B)
+  (descr "LED 3mm - Lead pitch 100mil (2,54mm)")
+  (tags "LED led 3mm 3MM 100mil 2,54mm")
+  (fp_text reference LED*** (at 0 -1.9) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value LED_TH (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_circle (center -1.27 0) (end -1.27 -1.27) (layer F.SilkS) (width 0.3))
+  (pad 1 thru_hole circle (at -1.27 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 1.27 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (model discret/leds/led3_vertical_verde.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

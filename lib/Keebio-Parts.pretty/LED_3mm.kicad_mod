@@ -1,0 +1,12 @@
+(module LED_3mm (layer F.Cu) (tedit 4DA3599D)
+  (fp_text reference LED_3MM? (at 0 -2.54) (layer B.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (fp_text value VAL*** (at 0 3.556) (layer B.SilkS)
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (fp_line (start 1.8288 1.27) (end 1.8288 -1.27) (layer F.SilkS) (width 0.2032))
+  (fp_arc (start 0.254 0) (end 1.8288 -1.3208) (angle -280) (layer F.SilkS) (width 0.2032))
+  (pad 1 thru_hole oval (at -1.27 0) (size 1.905 2.159) (drill 0.9906) (layers *.Cu F.Paste F.SilkS F.Mask))
+  (pad 2 thru_hole rect (at 1.27 0) (size 1.905 2.159) (drill 0.9906) (layers *.Cu F.Paste F.SilkS F.Mask))
+)

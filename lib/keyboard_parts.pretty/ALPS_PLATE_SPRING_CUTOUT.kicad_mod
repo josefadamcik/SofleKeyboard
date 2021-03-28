@@ -1,0 +1,12 @@
+(module ALPS_PLATE_SPRING_CUTOUT (layer F.Cu) (tedit 59548634)
+  (fp_text reference REF** (at 0.01 8.95) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ALPS_PLATE_SPRING_CUTOUT (at 0.01 -8.8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 8.05 8.05) (end 8.05 -8.05) (layer F.Fab) (width 0.15))
+  (fp_line (start -8.05 8.05) (end 8.05 8.05) (layer F.Fab) (width 0.15))
+  (fp_line (start -8.05 -8.05) (end -8.05 8.05) (layer F.Fab) (width 0.15))
+  (fp_line (start 8.05 -8.05) (end -8.05 -8.05) (layer F.Fab) (width 0.15))
+)

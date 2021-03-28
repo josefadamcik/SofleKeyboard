@@ -1,0 +1,12 @@
+(module L_7x7MM (layer F.Cu)
+  (fp_text reference L_7x7MM (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value L** (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end -4.4 0) (layer F.SilkS) (width 0.2))
+  (fp_circle (center 0 0) (end 4.025 0) (layer F.SilkS) (width 0.2))
+  (pad 2 smd rect (at 0 -2.325) (size 7.3 2.65) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 0 2.325) (size 7.3 2.65) (layers F.Cu F.Paste F.Mask))
+)

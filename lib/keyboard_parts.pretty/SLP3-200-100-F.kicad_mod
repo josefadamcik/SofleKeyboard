@@ -1,0 +1,17 @@
+(module SLP3-200-100-F (layer F.Cu) (tedit 54175F4C)
+  (fp_text reference SLP3-200-100-F (at 0 -8.925) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_line (start -1.4986 -7.747) (end 1.4986 -7.747) (layer Dwgs.User) (width 0.2))
+  (fp_line (start 1.4986 -5.207) (end 1.4986 -7.747) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -1.4986 -5.207) (end -1.4986 -7.747) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -2.2606 -4.4704) (end 2.2606 -4.4704) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -2.2606 -0.9144) (end 2.2606 -0.9144) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -2.2606 -5.207) (end 2.2606 -5.207) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -2.2606 1.143) (end 2.2606 1.143) (layer Dwgs.User) (width 0.2))
+  (fp_line (start 2.2606 -5.207) (end 2.2606 1.143) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -2.2606 1.143) (end -2.2606 -5.207) (layer Dwgs.User) (width 0.2))
+)

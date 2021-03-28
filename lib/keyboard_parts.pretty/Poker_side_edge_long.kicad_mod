@@ -1,0 +1,9 @@
+(module Poker_side_edge_long (layer F.Cu) (tedit 53EE2864)
+  (fp_text reference Poker_side_edge_long (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" thru_hole oval (at 0 0) (size 13.6 5.2) (drill oval 10.6 2.2) (layers *.Cu *.Mask))
+)

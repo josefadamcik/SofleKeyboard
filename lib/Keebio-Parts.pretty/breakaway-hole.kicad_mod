@@ -1,0 +1,10 @@
+(module breakaway-hole (layer F.Cu) (tedit 5CDDCC9D)
+  (fp_text reference REF** (at 0 -3.048) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value breakaway-hole (at 0 -4.75) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -0.595312 0) (end 0.595312 0) (layer Dwgs.User) (width 0.15))
+  (pad "" np_thru_hole circle (at 0 -0.254) (size 0.3937 0.3937) (drill 0.3937) (layers *.Cu *.Mask))
+)
