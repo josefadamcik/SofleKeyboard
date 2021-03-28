@@ -1,0 +1,10 @@
+(module MD_Diode (layer F.Cu) (tedit 4EC3E830)
+  (fp_text reference D? (at 0 5.08) (layer F.SilkS)
+    (effects (font (thickness 0.254)))
+  )
+  (fp_text value DIODE (at 0 5.08) (layer F.SilkS) hide
+    (effects (font (thickness 0.254)))
+  )
+  (pad 1 thru_hole circle (at -3.81 5.08) (size 1.778 1.778) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+  (pad 2 thru_hole rect (at 3.81 5.08) (size 1.778 1.778) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+)

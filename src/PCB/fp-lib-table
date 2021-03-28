@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri /home/enochc/Documents/KiCad/SofleKeyboard/footprints/SofleKeyboard-footprint.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /home/enochc/Documents/KiCad/SofleKeyboard/footprints/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/enochc/Documents/KiCad/SofleKeyboard/footprints/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name choc)(type KiCad)(uri /home/enochc/Documents/KiCad/SofleKeyboard/footprints/choc.pretty)(options "")(descr ""))
+)

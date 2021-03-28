@@ -1,0 +1,10 @@
+(module PIN_1_SQUARE (layer F.Cu) (tedit 548561A4)
+  (tags "CONN pin 1 square")
+  (fp_text reference P? (at 0 -1.55) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value CONN_1 (at 0 -1.55) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+)

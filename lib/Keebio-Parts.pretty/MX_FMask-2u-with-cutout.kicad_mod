@@ -1,0 +1,18 @@
+(module "MX_FMask-2u-with-cutout" (layer F.Cu) (tedit 5DDC4D91)
+  (fp_text reference "REF**" (at 0.25 10.05) (layer Eco2.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "MX_FMask-2u-with-cutout" (at 0 -15.24) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 16.525 7) (end 16.525 -7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -16.525 7) (end 16.525 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -16.525 -7) (end -16.525 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 16.525 -7) (end -16.525 -7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -19.025 -9.5) (end 19.025 -9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -19.025 9.5) (end -19.025 -9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 19.025 9.5) (end -19.025 9.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 19.025 -9.5) (end 19.025 9.5) (layer Dwgs.User) (width 0.15))
+  (pad "1" smd roundrect (at 0 0 180) (size 35.05 16) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.063))
+  (pad "1" smd roundrect (at 0 0 180) (size 35.05 16) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.063))
+)

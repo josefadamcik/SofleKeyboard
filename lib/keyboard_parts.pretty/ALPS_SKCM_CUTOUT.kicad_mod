@@ -1,0 +1,12 @@
+(module ALPS_SKCM_CUTOUT (layer F.Cu) (tedit 53DDA1BD)
+  (fp_text reference ALPS_SKCM_CUTOUT (at 0 1.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 7.75 -6.4) (end -7.75 -6.4) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -7.75 -6.4) (end -7.75 6.4) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -7.75 6.4) (end 7.75 6.4) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start 7.75 6.4) (end 7.75 -6.4) (layer Edge.Cuts) (width 0.1))
+)

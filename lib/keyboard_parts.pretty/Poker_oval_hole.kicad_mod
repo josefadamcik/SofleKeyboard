@@ -1,0 +1,9 @@
+(module Poker_oval_hole (layer F.Cu) (tedit 53EE2BFE)
+  (fp_text reference Poker_oval_hole (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 6.1 6.1) (drill oval 4.6 2.5) (layers *.Cu *.Mask))
+)

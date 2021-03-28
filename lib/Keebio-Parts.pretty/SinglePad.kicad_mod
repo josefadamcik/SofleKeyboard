@@ -1,0 +1,9 @@
+(module SinglePad (layer F.Cu) (tedit 597B4593)
+  (fp_text reference J6 (at 0 -1.778) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value D2 (at 0 1.778) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (pad 1 thru_hole circle (at 0 0 270) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask))
+)
