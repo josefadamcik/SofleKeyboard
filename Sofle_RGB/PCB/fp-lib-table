@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sofle)(type KiCad)(uri F:/Git/SofleKeyboard/Sofle_RGB/PCB/SofleRGB.pretty)(options "")(descr ""))
+)
