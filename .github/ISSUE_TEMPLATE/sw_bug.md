@@ -1,7 +1,7 @@
 ---
 name: SW Bug
 about: Please report any software bugs here
-title: 'SW'
+title: SW: summarise your issue here.
 labels: 'QMK issue'
 assignees: ''
 
