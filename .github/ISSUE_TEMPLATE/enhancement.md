@@ -1,7 +1,7 @@
 ---
 name: Enhancement
 about: Please suggest any features you'd like to see in future here 
-title: 'EN'
+title: Enhance: 
 labels: 'enhancement'
 assignees: ''
 
