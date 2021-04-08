@@ -108,15 +108,15 @@ I have added a single LED to the top surface to act as a layer indicator, this i
 To enable drop lighting, short pins 1-2 of J4(Light select), to enable only per key lighting short pins 2-3 of J4. 
 If you wish to use per key lighting, you also need to short pins 1-2 of 5. 
 
-| Indicator | Drop lighting | Per key 	| j6 	| j4 	|j5 	| 
-| ---		| ---			| ---		| --- 	| ---  	| --- 	| 
-| Y			|  N			|   N		| 2-3	|		| 		| 
-|	Y		|  Y			|	N		|	2-3	|	1-2 | 		|
-|	Y		|	Y			|	Y		|	2-3 |  1-2	| 1-2	|
-|	Y		|	N			|	Y 		| 	2-3 |	2-3 | 1-2	|
-|	N		|   N			|   Y 		|  1-2	|   2-3 | 1-2   | 
-|   N		|   Y			| 	N 		|  1-2	|   1-2 | 		|
-|	N 		|	Y 			|   Y 		|  1-2	| 	1-2	| 1-2 	| 	
+| Indicator | Drop lighting | Per key 	| j6(Ind Bypass) 	| j4(Light select) 	|j5(Backlight) 	| 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Y | N	| N | 2-3 |	|     |
+| Y | Y	| N | 2-3 | 2-3 |     |
+| Y | Y	| Y | 2-3 | 2-3	| 1-2 |
+| Y | N	| Y | 2-3 | 1-2 | 1-2 |
+| N | N	| Y | 1-2 | 1-2 | 1-2 |
+| N | Y	| N | 1-2 | 2-3 |     |
+| N | Y | Y | 1-2 | 2-3	| 1-2 |
 
 
 The per key lighting is painful and slow. For these it is definitely best to do them in order, and test regularly. Use as low a temperature as you can manage, place the board flat on a table, and drop an led in. Create a solder bridge from the led to the board, not spending too much time with the iron on the led (few seconds) otherwise it will burn out. 
