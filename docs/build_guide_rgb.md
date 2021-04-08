@@ -86,7 +86,7 @@ The above picture is from the crkbd guide shows pin 4 on the table (the table is
 
 **The sofle RGB uses the following table, with the silkscreen marking at pin 1 (Dout)**
 | pin | net | net | pin |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1 | Dout | Vcc | 4 | 
 | 2 | Gnd  | Din | 3 | 
 
