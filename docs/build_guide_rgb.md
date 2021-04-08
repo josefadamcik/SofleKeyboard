@@ -105,7 +105,7 @@ The surface mount LEDs are easier to solder, and there are only 1+6 of them on e
 
 I have added a single LED to the top surface to act as a layer indicator, this is enabled by bridging 2-3 on J6(indicator bypass).
 
-To enable drop lighting, short pins 1-2 of J4(Light select), to enable only per key lighting short pins 2-3 of J4. 
+To enable drop lighting, short pins 2-3 of J4(Light select), to enable only per key lighting short pins 1-2 of J4. 
 If you wish to use per key lighting, you also need to short pins 1-2 of 5. 
 
 | Indicator | Drop lighting | Per key 	| j6(Ind Bypass) 	| j4(Light select) 	|j5(Backlight) 	| 
