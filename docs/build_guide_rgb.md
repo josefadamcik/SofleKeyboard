@@ -112,7 +112,7 @@ If you wish to use per key lighting, you also need to short pins 1-2 of 5.
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Y | N	| N | 2-3 |	|     |
 | Y | Y	| N | 2-3 | 2-3 |     |
-| Y | Y	| Y | 2-3 | 2-3	|     |
+| Y | Y	| Y | 2-3 | 2-3	| 1-2 |
 | Y | N	| Y | 2-3 | 1-2 | 1-2 |
 | N | N	| Y | 1-2 | 1-2 | 1-2 |
 | N | Y	| N | 1-2 | 2-3 |     |
