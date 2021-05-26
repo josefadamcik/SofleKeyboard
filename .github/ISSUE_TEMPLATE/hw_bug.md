@@ -1,7 +1,7 @@
 ---
 name: HW Bug
 about: Please report any hardware bugs here 
-title: HW: summarise your issue here.
+title: "HW: summarise your issue here."
 labels: 'bug'
 assignees: ''
 
