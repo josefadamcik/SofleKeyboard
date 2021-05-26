@@ -1,7 +1,7 @@
 ---
 name: Help me!
 about: Please only use if this is an assembly issue or you need support
-title: Help: summarise your issue here.
+title: "Help: summarise your issue here."
 labels: 'Assistance'
 assignees: ''
 
