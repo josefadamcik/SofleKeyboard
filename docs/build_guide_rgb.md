@@ -198,7 +198,7 @@ Suggested approach is to build the firmware yourself. You should be familiar wit
 
 - Make sure your QMK environment [is setup][qmkintro].
 - Make sure halves are not connected together with TRRS cable.
-- Connect one half to USB, flash the firmware (always fallow the actuall instructions in the QMK documentation! The command might look something like this: `qmk flash -kb sofle/rev1 -km default`). Use the reset button to reset the keyboard when you are asked to in console. 
+- Connect one half to USB, flash the firmware (always follow the actuall instructions in the QMK documentation! The command might look something like this: `qmk flash -kb sofle/rev1 -km default`). Use the reset button to reset the keyboard when you are asked to in console. 
 - Connect the second half and flash it in the same way as the previous one.
 - Disconnect the USB cable. Connect both halves together with TRRS cable.
 - Connect USB cable to the **left** side. 
