@@ -229,7 +229,7 @@ If you fancy an [inverted silkscreen there's a great guide available](https://gi
 {:target="_blank"}
 [promicrosocketing]: <https://docs.splitkb.com/hc/en-us/articles/360011263059> "How do I socket a microcontroller? by splitkb.com"
 {:target="_blank"}
-[qmkintro]: <https://beta.docs.qmk.fm/newbs/newbs_getting_started> "QMK getting started"
+[qmkintro]: <https://beta.docs.qmk.fm/tutorial/newbs_getting_started> "QMK getting started"
 {:target="_blank"}
 [qmkhandedness]: <https://docs.qmk.fm/#/feature_split_keyboard?id=setting-handedness> "QMK firmware - setting handedness"
 {:target="_blank"}
