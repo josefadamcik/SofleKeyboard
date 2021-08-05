@@ -1,4 +1,4 @@
-(module Choc_Hotswap_SK6812MiniE (layer F.Cu) (tedit 600DB6D7)
+(module Choc_Hotswap_SK6812MiniE (layer F.Cu) (tedit 610B7B14)
   (fp_text reference SW4 (at 6.85 8.45 -180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -211,8 +211,10 @@
   (pad "" np_thru_hole circle (at 0 -5.9 270) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5 -3.7 270) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad 5 smd rect (at -2.8 -5.9) (size 1.6 2.2) (layers B.Cu B.Paste B.Mask))
-  (pad 6 smd rect (at 7.8 -3.7) (size 1.6 2.2) (layers B.Cu B.Paste B.Mask))
-  (pad 6 smd rect (at -7.9 -3.7) (size 1.6 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 7.8 -3.7) (size 1.6 2.2) (layers B.Cu B.Paste B.Mask)
+    (clearance 0.3))
+  (pad 6 smd rect (at -7.9 -3.7) (size 1.6 2.2) (layers F.Cu F.Paste F.Mask)
+    (clearance 0.5))
   (pad 5 smd rect (at 2.8 -5.9) (size 1.6 2.2) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -5 -3.7 90) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.22 4.2) (size 1 1) (drill 1) (layers *.Cu *.Mask))
