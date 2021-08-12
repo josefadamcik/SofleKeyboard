@@ -57,6 +57,22 @@ The OLED placement and OLED cover plate holes have not changed, and a plate has 
 
 [Build guide is available here]({{ baseurl }}/SofleKeyboard/build_guide_rgb.html).
 
+### Choc
+
+![Sofle Choc ](./images/SofleChoc_1.jpg)
+
+The Sofle Choc is a variation of the Sofle with:
+
+   - low-profile, Kailh Choc switches
+   - hotswap sockets
+   - per-key RGB
+   - thin, 15mm from desktop to top of keycaps
+   - Sofle v2 switch layout with the more aggressive pinky stagger
+
+The Sofle Choc was contributed by [Brian Low](https://github.com/brianlow) and based on the excellent Sofle RGB by [Dane Evans](https://github.com/DaneEvans).
+
+[Build guide is available here]({{ baseurl }}/SofleKeyboard/build_guide_choc.html).
+
 ## License
 
 - Hardware source files are licensed under MIT license.
