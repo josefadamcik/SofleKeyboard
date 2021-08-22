@@ -11,11 +11,11 @@ Thise version rolles back the original pro-micro pinout (as for V1) and improves
 
 This build guide is based on a copy of the main [build guide](/docs/build_guide.md). We suggest to revisit the main [build guide](/docs/build_guide.md) for general process and tips about technique. But this build guide is the main source of importand details for your build - like ProMicro orientation, component placement, briding of pads.
 
-**⚠ Keyhive version: Please read if you purchased Sofle RGB from Keyhive**
+**⚠ Keyhive version: Pay attention, if you purchased Sofle RGB from Keyhive**
 
-One bigger vendor - Keyhive - is selling their own fork of Sofle RGB. This version is **modified** in way that makes it **incompatible** with the **firmware** for the official designs. Also this build guide no longer applies to their version. 
+One keyboard vendor - Keyhive - is selling their own fork of Sofle RGB. This version is **modified** in way that makes it **incompatible** with the **firmware** for the official designs. Also this build guide no longer applies to their version. 
 
-**⚠ You have to use the firmware provided by the vendor and build guide provided by them as well. ⚠**
+**⚠ If you purchased their modified version, you have to use the firmware provided by the vendor and build guide provided by them as well.⚠**
 
 Please, don't report problems with the desing by Keyhive and or firmware to the official Sofle Keyboard repository. Their modification is not part of the repository and therefore we can't fix any problems and we can't help with any problems you might have with the design.. Contact the vendor instead. In the end, you are their client.
 
