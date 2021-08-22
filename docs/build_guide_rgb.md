@@ -5,7 +5,7 @@ title: Sofle Keyboard - build guide (RGB)
 
 The Sofle RGB is a copy of the Sofle V2 with the addition of up to 36 RGB leds per side. If you are just looking to try out that layout, and are using the cherry sockets only, then this will work for you. Please mind that the layout has slight modifications, mainly the pinkie stagger is less aggresive than for non-RGB Sofle V2.
 
-Thise version rolles back the original pro-micro pinout (as for V1) and improves routing.
+Thise version rolls back the original pro-micro pinout (to the state it was for V1) and improves routing.
 
 ## This Build Guide
 
