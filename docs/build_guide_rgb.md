@@ -9,7 +9,7 @@ This version rolls back the original pro-micro pinout (to the state it was for V
 
 ## This Build Guide
 
-This build guide is based on a copy of the main [build guide](/docs/build_guide.md). We suggest to revisit the main [build guide](/docs/build_guide.md) for general process and tips about technique. But this build guide is the main source of importand details for your build - like Pro-Micro orientation, component placement etc.
+This build guide is based on a copy of the main [build guide][buildguide]. We suggest to revisit the main [build guide][buildguide] for general process and tips about technique. But this build guide is the main source of importand details for your build - like Pro-Micro orientation, component placement etc.
 
 **&#9888; Keyhive version: Pay attention, if you purchased Sofle RGB from Keyhive**
 
@@ -271,3 +271,4 @@ The default layout for the SofleRGB is in the qmk repo, and demonstrates some LE
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
 [sourcing]: <{{ site.baseurl }}/sourcing_parts.html> "Sourcing parts"
 [keyhivebuildguide]: <https://github.com/keyhive/build_guides/blob/master/docs/keyboards/sofle-rgb.md> "Sofle RGB Keyhive build guide"
+[buildguide]: <{{ site.baseurl }}/build_guide.html> "Sofle V1/V2 build guide"
