@@ -3,15 +3,22 @@ layout: default
 title: Sofle Keyboard - build guide (RGB)
 ---
 
-The Sofle RGB is a copy of the Sofle v2 with the addition of up to 36 RGB leds per side. If you are just looking to try out that layout, and are using the cherry sockets only, then this will work for you. 
+The Sofle RGB is a copy of the Sofle V2 with the addition of up to 36 RGB leds per side. If you are just looking to try out that layout, and are using the cherry sockets only, then this will work for you. Please mind that the layout has slight modifications, mainly the pinkie stagger is less aggresive than for non-RGB Sofle V2.
 
-I also rolled back to the original pro-micro pinout, and completely redid the routing. 
-
-The OLED placement and OLED cover plate holes have not changed, and a plate has been designed. I haven't yet had one manufactured yet, but will in the next few weeks and refine if needed.
+This version rolls back the original pro-micro pinout (to the state it was for V1) and improves routing.
 
 ## This Build Guide
 
-For the most part, this guide is the same as the Sofle. I have shamelessly stolen Josef's build guide, and abreviated it heavily to cover mostly the differences. If you need more detail, please refer to the main [build guide](/docs/build_guide.md)
+This build guide is based on a copy of the main [build guide](/docs/build_guide.md). We suggest to revisit the main [build guide](/docs/build_guide.md) for general process and tips about technique. But this build guide is the main source of importand details for your build - like Pro-Micro orientation, component placement etc.
+
+**&#9888; Keyhive version: Pay attention, if you purchased Sofle RGB from Keyhive**
+
+One keyboard vendor - Keyhive - is selling their own fork of Sofle RGB. This version is **modified** in way that makes it **incompatible** with the **firmware** for the official designs. Also this build guide no longer applies to their version. 
+
+**&#9888; If you purchased their modified version, you have to use the firmware provided by the vendor and [the build guide provided by them as well][keyhivebuildguide].**
+
+Please, don't report problems with the desing by Keyhive and or firmware to the official Sofle Keyboard repository. Their modification is not part of the repository and therefore we can't fix any problems and we can't help with any problems you might have with the design. Contact the vendor instead. In the end, you are their client.
+
 ## Bill of materials
 
 The following is needed to build the keyboard.
@@ -263,3 +270,4 @@ The default layout for the SofleRGB is in the qmk repo, and demonstrates some LE
 [nooledlag]: https://github.com/qmk/qmk_firmware/issues/7522 "No OLED lag bug"
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
 [sourcing]: <{{ site.baseurl }}/sourcing_parts.html> "Sourcing parts"
+[keyhivebuildguide]: <https://github.com/keyhive/build_guides/blob/master/docs/keyboards/sofle-rgb.md> "Sofle RGB Keyhive build guide"
