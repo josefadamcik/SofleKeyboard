@@ -9,7 +9,7 @@ This version rolls back the original pro-micro pinout (to the state it was for V
 
 ## This Build Guide
 
-This build guide is based on a copy of the main [build guide](/docs/build_guide.md). We suggest to revisit the main [build guide](/docs/build_guide.md) for general process and tips about technique. But this build guide is the main source of importand details for your build - like ProMicro orientation, component placement, briding of pads.
+This build guide is based on a copy of the main [build guide](/docs/build_guide.md). We suggest to revisit the main [build guide](/docs/build_guide.md) for general process and tips about technique. But this build guide is the main source of importand details for your build - like Pro-Micro orientation, component placement etc.
 
 **&#9888; Keyhive version: Pay attention, if you purchased Sofle RGB from Keyhive**
 
