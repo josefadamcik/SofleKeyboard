@@ -44,7 +44,7 @@ Since the development was not moving forward for several months and there were m
 
 ### RGB
 
-**If you bouth Sofle RGB for Keyhive, see below, please.**
+**&#9888; If you bought Sofle RGB from Keyhive, see the disclamer below, please.**
 
 ![SofleKeyboard RGB](images/SofleRGB_1.png)
 
@@ -58,7 +58,7 @@ The OLED placement and OLED cover plate holes have not changed, and a plate has 
 
 [Build guide is available here]({{ baseurl }}/SofleKeyboard/build_guide_rgb.html).
 
-### Keyhive RGB
+###	&#9888; Keyhive RGB
 
 One bigger vendor - Keyhive - is selling their own fork of Sofle RGB. This version is **modified** in way that makes it **incompatible** with the firmware for the official designs. You have to use the firmware provided by the vendor and build guide provided by them as well. Please, don't report problems with the desing and or firmware to this repository. Their modification is not part of the repository and therefore we cannot fix the problems or help you with solution. Contact the vendor instead. In the end, you are their client.
 
