@@ -3,7 +3,9 @@ layout: default
 title: Sofle Keyboard - build guide (v1/v2)
 ---
 
-This guide suits both version **V1** and **V2** of the standard (**non-RGB**) Sofle Keyboardn. The **RGB** version has [dedicated build guide][rgbbuildguide]. Most of the photos are for v1 and the differences are explained in the text as needed.
+This guide suits both version **V1** and **V2** of the standard (**non-RGB**) Sofle Keyboard. Most of the photos are for v1 and the differences are explained in the text as needed.
+
+The **RGB** version has [dedicated build guide][rgbbuildguide].
 
 If you don't have all the necessary parts, please read about [how to source the parts][sourcing].
 
