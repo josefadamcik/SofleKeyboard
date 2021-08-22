@@ -15,7 +15,7 @@ This build guide is based on a copy of the main [build guide](/docs/build_guide.
 
 One keyboard vendor - Keyhive - is selling their own fork of Sofle RGB. This version is **modified** in way that makes it **incompatible** with the **firmware** for the official designs. Also this build guide no longer applies to their version. 
 
-**⚠ If you purchased their modified version, you have to use the firmware provided by the vendor and build guide provided by them as well.⚠**
+**⚠ If you purchased their modified version, you have to use the firmware provided by the vendor and build guide provided by them as well.**
 
 Please, don't report problems with the desing by Keyhive and or firmware to the official Sofle Keyboard repository. Their modification is not part of the repository and therefore we can't fix any problems and we can't help with any problems you might have with the design.. Contact the vendor instead. In the end, you are their client.
 
