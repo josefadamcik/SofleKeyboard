@@ -75,7 +75,7 @@ The Sofle Choc is a variation of the Sofle with:
    - hotswap sockets
    - per-key RGB
    - thin, 15mm from desktop to top of keycaps
-   - Sofle v2 switch layout with the more aggressive pinky stagger
+   - Sofle RGB switch layout with pinky stagger in between v1 and v2
 
 The Sofle Choc was contributed by [Brian Low](https://github.com/brianlow) and based on the excellent Sofle RGB by [Dane Evans](https://github.com/DaneEvans).
 

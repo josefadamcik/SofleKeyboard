@@ -12,7 +12,7 @@ The Sofle Choc is a variation of the Sofle with:
    - hotswap sockets
    - per-key RGB
    - thin, 15mm from desktop to top of keycaps
-   - Sofle v2 switch layout with the more aggressive pinky stagger
+   - Sofle RGB switch layout with pinky stagger in between v1 and v2
 
 This version supports any [Kailh Choc v1 switches](https://deskthority.net/wiki/Kailh_PG1350_series). Kailh hotswap sockets are required. Per-key RGB is optional and uses the relativey easy to solder SK6812 MINI-E LEDs.
 
