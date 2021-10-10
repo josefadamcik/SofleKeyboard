@@ -12,6 +12,7 @@ _Bug / Assembly / Software / HELP!_
 
 **Which Board?**
 _Original / RGB_  
+_Please note that Keyhive is selling a customised and incompatible Sofle RGB version which is not part of this repository and therefore not supported here._
 
 **Which Board Revision?**
 _This is the one written on main pcb that you are using. 

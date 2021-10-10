@@ -3,7 +3,9 @@ layout: default
 title: Sofle Keyboard - build guide (v1/v2)
 ---
 
-This guide suits both v1 and v2. Most of the photos are for v1 and the differences are explained in the text as needed.
+This guide suits both version **V1** and **V2** of the standard (**non-RGB**) Sofle Keyboard. Most of the photos are for v1 and the differences are explained in the text as needed.
+
+The **RGB** version has [dedicated build guide][rgbbuildguide].
 
 If you don't have all the necessary parts, please read about [how to source the parts][sourcing].
 
@@ -237,3 +239,4 @@ If you fancy an [inverted silkscreen there's a great guide available](https://gi
 [nooledlag]: https://github.com/qmk/qmk_firmware/issues/7522 "No OLED lag bug"
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
 [sourcing]: <{{ site.baseurl }}/sourcing_parts.html> "Sourcing parts"
+[rgbbuildguide]: <{{ site.baseurl }}/build_guide_rgb.html> "Sofle RBG build guide"
