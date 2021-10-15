@@ -1,6 +1,6 @@
 # Sofle Keyboard 3D Printed case
 
-I added 3D printable STL files for Sofle Keyboard. Unfortunately, while I was trying to make sure that the board fits, Sofle v2 was launched and it doesn't work with the case I designed. If you still would like to use my case, you can find them under [Sofle_v1/case/3D_print](/Sofle_v1/case/3D_print) along with palm rests.
+I added 3D printable STL files for Sofle Keyboard. Unfortunately, while I was trying to make sure that the board fits, Sofle v2 was launched and it doesn't work with the case I designed. If you still would like to use my case, you can find them under [Sofle_v1/case/3D_print](../3D_print) along with palm rests.
 
 ![sample image](images/Sofle_custom_case_with_palm_rest.png)
 
