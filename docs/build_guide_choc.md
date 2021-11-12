@@ -142,18 +142,19 @@ Make sure that you use the through holes with the outline marks on whichever sid
 
 Install the OLED so it overhangs the Pro Micro. I added electrican's tape to the bottom of the OLED module where it might contact the Pro Micro.
 
+### Solder misc components
 
-### Keyboard switches and plates
+Solder the reset switch and encoder if you haven't already.
 
-- Mount the stand-offs to the top plate.
+### Assemble
 
-- Snap first switches into corners of the plate.
+- Snap a few switches into the top plate, the corner switches work best
 
-- Carefully snap the first switches to the sockets. Be careful so you don't bend their contacts.
+- Carerfully lower the top plate with switches on the main PCB and push into sockets. Ensure pins are aligned.
 
-- Add the rest of the switches
+- Snap the remaining switches into the top plate pressing into the sockets
 
-### Finishing touches
+- There are no standoff between the PCB and top plate
 
 - Install the rotary encoder knob.
 
@@ -186,7 +187,10 @@ To flash:
 - Connect USB cable to the **left** side.
 - Enjoy SofleKeyboard!
 
-There is also a firmware version that uses [VIA](https://caniusevia.com/). VIA allows you to quickly change your keymap without flashing or a QMK build environment. I highly recommend it for experimenting. The two downsides is it doesn't support custom logic like a key for switching betwen Mac/Win and the exporting/importing keymaps has some problems with some multi-chord keys though typically you don't need to export/import.
+There is also a firmware version that uses [VIA](https://caniusevia.com/). VIA allows you to quickly change your keymap without flashing or a QMK build environment. I highly recommend it for experimenting. There are few downsides:
+- it doesn't support custom logic like a key for switching betwen Mac/Win
+- the exporting/importing keymaps has some problems with some multi-chord keys though typically I don't find I need to export/import
+- lighting configuration keys only seem to affect lighting on the master side. If you don't change lighting much, a workaround is to plug just the right side in to the computer, change the lighting then plug everrything back normally
 
 To use the VIA firmware
 
