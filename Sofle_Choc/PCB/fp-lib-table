@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name SofleChoc)(type KiCad)(uri ${KIPRJMOD}/SofleChoc.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /Users/brian/dev/tmp/keyswitches.pretty)(options "")(descr "")(disabled))
+  (lib (name kbd)(type KiCad)(uri /Users/brian/dev/tmp/kbd/kicad-footprints/kbd.pretty)(options "")(descr "")(disabled))
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri /Users/brian/dev/SofleKeyboard/SofleKeyboard-footprint.pretty)(options "")(descr "")(disabled))
+)
