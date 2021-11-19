@@ -5,3 +5,7 @@ I added 3D printable STL files for Sofle Keyboard. Unfortunately, while I was tr
 ![sample image](images/Sofle_custom_case_with_palm_rest.png)
 
 Case was CNC cut from STL file, palm rest was printed with ANYCUBIC i3 MEGA, PLA, 0.3mm layered.
+
+![plugging hole](images/trrs_and_usb_plug.png)
+
+I adjusted plug holes according to original sofle board. Instead of making it tight, I made the space large enough for better compatatibility.
