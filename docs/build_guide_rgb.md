@@ -55,9 +55,9 @@ The following is needed to build the keyboard.
 	
 - **LEDs**
 	- **SK6812 mini rgb leds (3.5mmx3.5mm size)** make sure that you get the style with irregular shaped pads that are flush to the led, and make very sure that you know what the pinout for your variant is. There are at least  2 common pinouts, thankfully just rotated 180 degrees, but for you the pin 1 marking may be on pin 3.
-		- **1x forward facing layer indicator**
-		- **6x rear facing drop lights**
-		- **29x per key lights** 
+		- **2x forward facing layer indicator**
+		- **12x rear facing drop lights**
+		- **58x per key lights** 
 
 
 
