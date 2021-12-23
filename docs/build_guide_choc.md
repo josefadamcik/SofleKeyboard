@@ -226,7 +226,7 @@ The default layout for the Sofle is in the qmk repo, and demonstrates some LED f
 
 ## Version History
 
-* v2.1.1 - Moved the version number text to less visible location on the top plate. (note: pcb is still v2.1)
+* v2.1.1 - Top plate: moved the version label to less visible location, widened the area above the encoder. PCB version remains at v2.1
 * v2.1 - First published version
 
 ## Footnotes
