@@ -130,7 +130,7 @@ The LEDs are wired in one long chain. If a LED is not working, replace the LED a
 
 ![OLED Jumpers](images/build_guide_choc/oled_jumper.jpg )
 
-These jumpers should be bridged if using an OLED dispay. The jumpers may not be accessible later in the build depending on how the Pro Micro is attached.
+These jumpers should be bridged if using an OLED dispay. The jumpers may not be accessible later in the build depending on how the Pro Micro is attached. Bridge the jumpers on the top side of the board, the same side the ProMicro will be mounted on.
 
 
 ### Pro Micro and OLED
@@ -224,6 +224,10 @@ The default layout for the Sofle is in the qmk repo, and demonstrates some LED f
 
 ![Keyboard Photo 2](./images/SofleChoc_3.jpg)
 
+## Version History
+
+* v2.1.1 - Top plate: moved the version label to less visible location, widened the area above the encoder. PCB version remains at v2.1
+* v2.1 - First published version
 
 ## Footnotes
 [layoutarticle]: <https://josef-adamcik.cz/electronics/in-search-of-the-best-custom-keyboard-layout.html> "In search of the best custom keyboard layout"
