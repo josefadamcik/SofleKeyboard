@@ -140,14 +140,35 @@ The LEDs are wired in one long chain. If a LED is not working, replace the LED a
 These jumpers should be bridged if using an OLED dispay. The jumpers may not be accessible later in the build depending on how the Pro Micro is attached. Bridge the jumpers on the top side of the board, the same side the ProMicro will be mounted on.
 
 
-### Pro Micro and OLED
+### Pro Micro
 
 ![Pro Micro](images/build_guide_choc/promicro.jpeg)
 
-The Pro Micro must be installed upside down: with the components facing the PCB and the plain back facing out.
-Make sure that you use the through holes with the outline marks on whichever side of the board that you mount the micro on.
+The Pro Micro is installed on the top of the board, upside down and in the marked holes.
+
+* Top of the board: this is the side of the PCB opposite the diodes, LEDS and switch sockets
+* Upside down: the Pro Micro components should face the PCB with the mostly plain back facing out
+* Marked holes: there are two sets of holes in the PCB, use the holes with the rectangular outline on the top of the board
+
+Double-check your work here. This step is hard to reverse if a mistake is made.
+
+To install a socketed Pro Micro using the diode leg approach [from splitkb.com][promicrosocketing]:
+
+  1. Install the 12-pin female headers on the top of the board in the outlined through holes. Use some tape to temporarily tack them in place. Flip the board over onto a flat, hard surface. While soldering the first pins, push down on the PCB to ensure the headers are perpendicular and fully seated.
+
+  2. Flip the board upright again. Optionally place some tape over the sockets to protect again fusing parts together. Place the Pro Micro upside down on top. Push diodes though the Pro Micro holes, through the tape and seated into the socket below.
+
+  3. Solder the legs to the Pro Micro. Snip off the legs above the Pro Micro.
+
+If you ever need to remove the Pro Micro: do it by gently prying the board up in small increments, working your way around the board. Avoid pressure on the USB connector. The diode leags are quite weak and will usually bend if you pull the Pro Micro off in one action.
+
+
+### OLED
 
 Install the OLED so it overhangs the Pro Micro. I added electrican's tape to the bottom of the OLED module where it might contact the Pro Micro.
+
+If you are socketing the OLED, install the 4 pin, half height female header on the top of the PCB. Then push the OLED pins into the socket. You may need to trim the OLED pins so the insulation on the female and male headers mate and the OLED sits just above the Pro Micro. The downside to socketing is the OLED isn't as secure in the half height socket. When turning the keyboard upside down I find the OLED will lever away from the Pro Micro somewhat.
+
 
 ### Solder misc components
 
