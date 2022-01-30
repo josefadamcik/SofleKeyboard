@@ -95,12 +95,12 @@ Building a Sofle Choc is simiar to the Sofle and Sofle RGB. This guide is abrevi
 
 Make sure you know which side you are working on, and don't make two left hand sides by mistake.
 
+I generally install shortest to tallest so the board lays flat making soldering easier. This means installing all the components on the back before working on the ProMicro and remaining components on the front. You can also install a few components at time and test along the way.
+
 The order of assemby does not matter **except** for these 3 components because they stack on top of one another:
   1. the four OLED jumpers
   2. the Pro Micro
   3. the OLED screen
-
-The remaining components I generally install shortest to tallest so the board lays flat making soldering easier. You can also install a few components at time and test along the way.
 
 Components installed on the back of the PCB:
   - switch sockets
@@ -151,7 +151,8 @@ Install the OLED so it overhangs the Pro Micro. I added electrican's tape to the
 
 ### Solder misc components
 
-Solder the reset switch and encoder if you haven't already.
+Solder the reset switch, TRRS connector and encoder if you haven't already.
+
 
 ### Assemble
 
@@ -244,7 +245,7 @@ The default layout for the Sofle is in the qmk repo, and demonstrates some LED f
 [qmk_firmware]: https://github.com/qmk/qmk_firmware/ "QMK firmware"
 
 [qmk_configurator]: https://config.qmk.fm/#/sofle/rev1/LAYOUT "QMK configurator"
-[springpinheader]: <https://yushakobo.jp/shop/a01mc-00/> "Spring pin headers - Japaneese"
+[springpinheader]: <https://yushakobo.jp/shop/a01mc-00/> "Spring pin headers - Japanese"
 [qmkprotonc]: https://qmk.fm/proton-c/ "QMK Proton-C"
 [promicrosocketing]: <https://docs.splitkb.com/hc/en-us/articles/360011263059> "How do I socket a microcontroller? by splitkb.com"
 [qmkintro]: <https://beta.docs.qmk.fm/newbs/newbs_getting_started> "QMK getting started"
