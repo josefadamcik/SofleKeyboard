@@ -28,9 +28,9 @@ The following is needed to build the keyboard:
 
 - **2 top plates**. Send the zip `/Gerbers/Choc_v2/choc-v2-gerber-top.zip` to a PCB fabrication service. The top plate holds the switches in place. See [sourcing][sourcing].
 
-- **2 Pro Micro** boards or clones. 5v, 2x12 pins, ATmega32U4 microcontroller. **Don't** buy the Arduino Micro (a different pinout) or Arduino Mini (different microcontroller). You could also use Elite-C which basically Pro Micro wi	th USB-C.
+- **2 Pro Micro** boards or clones. 5v, 2x12 pins, ATmega32U4 microcontroller. **Don't** buy the Arduino Micro (a different pinout) or Arduino Mini (different microcontroller). You could also use Elite-C which basically Pro Micro with USB-C.
 
-- **4x12 pin header (and optional sockets)** for Pro Micros. There are several ways how to mount Pro Micros to the board. Either the male pin headers you most likely got with the board from the supplier could be used to solder it directly to the board. Build guides for Helix, Corne and Lily58 suggest [those spring pin headers][springpinheader] which are very compact and give you non-permanent connection (you can remove or replace Pro Micros). I used the diode legs approach [described at splitkb.com][promicrosocketing] with an ED5624-ND socket (Digi-Key part 115-93-624-41-003000).
+- **4x 12 pin headers (and optional sockets)** for Pro Micros. There are several ways to mount Pro Micros to the board. The male pin headers you most likely got with the board can be used to solder it directly to the board. This makes it hard to replace the board if it fails. The micro-USB connector is known to tear off. I socketed the Pro Micro using the diode legs approach [described at splitkb.com][promicrosocketing] with two 12-pin female headers. This is the option descibed in the build guide here. Lastly, [these spring pin headers][springpinheader] are used on similar keyboards and should give a compact, non-permanent connection but have been out of stock for a long time.
 
 - **58 Kailh Choc keyboard switches**. Must be [Kailh Choc v1 switches (PG1350)](https://deskthority.net/wiki/Kailh_PG1350_series) of any color. The `PG` prefix is often omitted. **Don't** buy [Kailh Choc v2](https://deskthority.net/wiki/Kailh_PG1353_series), [Kailh Mini Choc](https://deskthority.net/wiki/Kailh_PG1232_series) or [Cherry MX](https://deskthority.net/wiki/Cherry_MX).
 
@@ -55,7 +55,7 @@ Optional components:
 
 - **OLED/s**
   - **2 SSD1306 128x32 OLED display module**. 4-pin, I2C, 0.91". Very common.
-  - **2x 4 pin header (and optionally socket)** for OLEDs. These came pre-soldered to the OLED unit. Ideally, use a socket but the common 1x4 female pin sockets are quite tall and would need remove the any pre-soldered pins.
+  - **2x 4 pin header (and optionally socket)** for OLEDs. These came pre-soldered to the OLED unit. You can solder the OLED directly to the board. Ideally use a socket so you can replace and/or get at the ProMicro underneath. I found 4 pin female headers with half height (~4mm) insulation worked well
   - **2 OLED covers** This should be compatible with the Sofle RGB cover but have not verified
 
 
@@ -74,10 +74,12 @@ Components that are common on other Sofle variants but are **not** used on this 
 - soldering iron
 - solder
 - no-clean flux makes soldering easier
+- solder wick or desoldering pump to correct mistakes
 - good tweezers
-- masking tape
+- masking, kapton or electrical tape
 - isopropyl-alcohol for cleaning
 - screwdriver
+- mulitmeter for troubleshooting
 
 
 ## Steps
