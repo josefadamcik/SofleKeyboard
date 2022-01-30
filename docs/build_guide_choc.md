@@ -69,6 +69,11 @@ Optional components:
 
 Components that are common on other Sofle variants but are **not** used on this Softle Choc: bottom plate, M2 spacers, M2 spacers
 
+## Kits
+
+I may have kits available here: [http://sofle.brianlow.com](http://sofle.brianlow.com)
+
+
 ## Tools and materials
 
 - soldering iron
