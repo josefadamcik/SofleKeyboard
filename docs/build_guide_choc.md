@@ -224,8 +224,8 @@ There is also a firmware version that uses [VIA](https://caniusevia.com/). VIA a
 To use the VIA firmware
 
 - Clone https://github.com/brianlow/qmk_firmware
-- Switch to the `choc_brian` branch with `git checkout choc`
-- When flashing use the `choc_brian` keymap: `qmk flash -kb sofle/rev1 -km choc_brian`
+- Switch to the `choc-brian` branch with `git checkout choc-brian`
+- When flashing use the `choc_brian` keymap: `qmk flash -kb sofle/rev1 -km choc-brian`
 - Download the VIA app from https://caniusevia.com/, it should recognize the keyboard when it opens
 
 ## Troubleshooting
