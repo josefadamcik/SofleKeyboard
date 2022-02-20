@@ -7,6 +7,8 @@ This guide suits both version **V1** and **V2** of the standard (**non-RGB**) So
 
 The **RGB** version has [dedicated build guide][rgbbuildguide].
 
+The **Choc** version has [dedicated build guide][chocbuildguide].
+
 If you don't have all the necessary parts, please read about [how to source the parts][sourcing].
 
 ## Bill of materials
