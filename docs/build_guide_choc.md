@@ -14,7 +14,7 @@ The Sofle Choc is a variation of the Sofle with:
    - thin, 15mm from desktop to top of keycaps
    - Sofle RGB switch layout with pinky stagger in between v1 and v2
 
-This version supports any [Kailh Choc v1 switches](https://deskthority.net/wiki/Kailh_PG1350_series). Kailh hotswap sockets are required. Per-key RGB is optional and uses the relativey easy to solder SK6812 MINI-E LEDs.
+This version supports [Kailh Choc v1 switches](https://deskthority.net/wiki/Kailh_PG1350_series). Kailh hotswap sockets are required. Per-key RGB is optional and uses the relativey easy to solder SK6812 MINI-E LEDs.
 
 The top plates are not compatible with Sofle v1, v2 or RGB versions. There is no bottom plate to minimize thickness.
 
@@ -24,9 +24,9 @@ The Sofle Choc was designed by [Brian Low](https://github.com/brianlow) and base
 
 The following is needed to build the keyboard:
 
-- **2 PCBs**. Send the zip from `/Gerbers/Choc_v2/choc-v2-gerber-pcb.zip` to a PCB fabrication service. I used JLCPCB's defaults setting only customizing the PCB color and surface finish. See [sourcing][sourcing].
+- **2 PCBs**. Send the zip from `/Gerbers/Choc_v2/choc-v2-gerber-pcb.zip` to a PCB fabrication service. The PCB should be 1.6mm thick [though 1.2mm may be better](https://github.com/josefadamcik/SofleKeyboard/issues/136#issuecomment-1045965676). Otherwise I used JLCPCB's default settings only customizing the PCB color. See [sourcing][sourcing].
 
-- **2 top plates**. Send the zip `/Gerbers/Choc_v2/choc-v2-gerber-top.zip` to a PCB fabrication service. The top plate holds the switches in place. See [sourcing][sourcing].
+- **2 top plates**. Send the zip `/Gerbers/Choc_v2/choc-v2-gerber-top.zip` to a PCB fabrication service. The top plate holds the switches in place. The top plate should be 1.2mm thick. Otherwise I used JLCPCB's default settings only customizing the PCB color. See [sourcing][sourcing].
 
 - **2 Pro Micro** boards or clones. 5v, 2x12 pins, ATmega32U4 microcontroller. **Don't** buy the Arduino Micro (a different pinout) or Arduino Mini (different microcontroller). You could also use Elite-C which basically Pro Micro with USB-C.
 
@@ -67,7 +67,10 @@ Optional components:
 - **LEDs**
   - **58 SK6812 MINI-E RGB LEDs**. The LED body 3.2x2.8x1.7mm and with legs is 5.8x2.8. Avoid the non-MINI-E version without the legs. Purchase extra as they are delicate. I ended up replacing 6 during my build.
 
-Components that are common on other Sofle variants but are **not** used on this Softle Choc: bottom plate, M2 spacers, M2 spacers
+- **Resistors**
+  - **2x 4.7kOhm through hole resistors** These only needed if you want to use the less common I2C communication protocol between halves. They are installed in the R1/R2 spots. I have not tested an I2C setup. The firmware on this page uses serial communication and does not require the resistors.
+
+Components that are common on other Sofle variants but are **not** used on this Softle Choc: bottom plate, M2 spacers and screws.
 
 ## Kits
 
@@ -76,39 +79,45 @@ I may have kits available here: [http://sofle.brianlow.com](http://sofle.brianlo
 
 ## Tools and materials
 
-- soldering iron
-- solder
+- soldering iron and solder
 - no-clean flux makes soldering easier
 - solder wick or desoldering pump to correct mistakes
 - good tweezers
+- flush cutters to trim diode legs when socketing the ProMicro
 - masking, kapton or electrical tape
 - isopropyl-alcohol for cleaning
 - screwdriver
+- 1.5mm hex key for the set screw on the encoder knob
 - mulitmeter for troubleshooting
 
 
 ## Steps
 
-Building a Sofle Choc is simiar to the Sofle and Sofle RGB. This guide is abreviated to cover mostly the differences. Refer to the [Sofle build guide](/docs/build_guide.md) for more details.
-
 ### Prepare
 
-Make sure you know which side you are working on, and don't make two left hand sides by mistake.
+Make sure you know which side you are working on, and don't make two left hand sides by mistake. Stick a piece of tape on the front side of both PCBs to help remember.
 
-I generally install shortest to tallest so the board lays flat making soldering easier. This means installing all the components on the back before working on the ProMicro and remaining components on the front. You can also install a few components at time and test along the way.
+This guide is written in the order I like to install components.
+
+We will start with the components on the back, shortest to tallest:
+  - diodes
+  - LEDs
+  - switch sockets
+
+Then install the components on the front:
+  - OLED jumpers
+  - ProMicro & socket
+  - OLED & socket
+  - reset switch
+  - TRRS connector
+  - encoder
 
 The order of assemby does not matter **except** for these 3 components because they stack on top of one another:
   1. the four OLED jumpers
   2. the Pro Micro
   3. the OLED screen
 
-Components installed on the back of the PCB:
-  - switch sockets
-  - diodes
-  - LEDs
-
-Components installed on the front:
-  - everything else
+The build guides for the Sofle and Sofle RGB have some good tips and photos. However there are differences so use this page as your primary reference. In particular, use the ProMicro orientation described on this page.
 
 ### Switch Sockets and Diodes
 
@@ -118,7 +127,7 @@ These components are placed on the back of the PCB.
 
 Diodes must be oriented with the white band in the direction of the "arrow" symbol on the PCB. I typically tin one pad, place the diode on, apply the soldering iron to the diode leg until it melts the solder underneath and sinks flush with the PCB. Then come back and solder the other leg.
 
-The sockets are the largest and easiest to solder. They are installed on the back of the PCB facing up towards the front of the PCB. Make sure they are flush with the PCB.
+The sockets are the largest and easiest to solder. They are installed on the back of the PCB facing up towards the front of the PCB. Make sure they are flush with the PCB. Heat the metal connector, apply solder and look for the solder to wick down to the PCB. You want a solid joint since this may take some mechanical strain from switch installation and removal.
 
 ### The LEDs
 
@@ -128,7 +137,7 @@ LEDs are placed on the back of the PCB. The lens should point up through the PCB
 
 To solder: tin one pad, place the LED and hold using tweezers, apply heat to the leg until the solder melts and the LED is flush with the board. Now the remaining legs can be soldered without the component moving. The LEDs are sensitive to heat. Let the LED cool between soldering each leg. Use the lowest heat needed for your solder.
 
-The LEDs are wired in one long chain. If a LED is not working, replace the LED and the LED preceeding it. Sometimes just the output a LED is damaged. The full chain does not need to be installed if you want to test a partially built board.
+The LEDs are wired in one long chain. If a LED is not working, replace the LED and the LED preceeding it. Sometimes just the output of a LED is damaged. The full chain does not need to be installed if you want to test a partially built board.
 
 ![LED](images/build_guide_choc/led_sequence.jpg)
 
@@ -137,7 +146,9 @@ The LEDs are wired in one long chain. If a LED is not working, replace the LED a
 
 ![OLED Jumpers](images/build_guide_choc/oled_jumper.jpg )
 
-These jumpers should be bridged if using an OLED dispay. The jumpers may not be accessible later in the build depending on how the Pro Micro is attached. Bridge the jumpers on the top side of the board, the same side the ProMicro will be mounted on.
+Now we move to the front of the PCB.
+
+The jumpers in the photo should be bridged if using an OLED dispay. The jumpers may not be accessible later in the build depending on how the Pro Micro is attached. Bridge the jumpers on the top side of the board, the same side the ProMicro will be mounted on.
 
 
 ### Pro Micro
@@ -146,7 +157,7 @@ These jumpers should be bridged if using an OLED dispay. The jumpers may not be 
 
 The Pro Micro is installed on the top of the board, upside down and in the marked holes.
 
-* Top of the board: this is the side of the PCB opposite the diodes, LEDS and switch sockets
+* Top of the board: this is the side of the PCB opposite the diodes, LEDs and switch sockets
 * Upside down: the Pro Micro components should face the PCB with the mostly plain back facing out
 * Marked holes: there are two sets of holes in the PCB, use the holes with the rectangular outline on the top of the board
 
@@ -172,20 +183,28 @@ If you are socketing the OLED, install the 4 pin, half height female header on t
 
 ### Solder misc components
 
-Solder the reset switch, TRRS connector and encoder if you haven't already.
+Use tape to tack each component in place while flipping the board over to solder.
+
+Solder the reset switch.
+
+Solder the TRRS connector. You may need to bend the TRRS connector pins 90 degrees so they point down into the PCB. The R1 and R2 locations should remain empty.
+
+Solder the encoder.
 
 
 ### Assemble
 
 - Snap a few switches into the top plate, the corner switches work best
 
-- Carerfully lower the top plate with switches on the main PCB and push into sockets. Ensure pins are aligned.
+- Place the PCB on a flat surface. This will save some strain on the solder joints in the next step (though they should be able handle it).
 
-- Snap the remaining switches into the top plate pressing into the sockets
+- Carefully lower the top plate with switches on the main PCB and push into sockets. Ensure pins are aligned.
+
+- Snap the remaining switches into the top plate pressing into the sockets.
 
 - There are no standoff between the PCB and top plate
 
-- Install the rotary encoder knob.
+- Place the encoder knob on the shaft. Tighten the set screw with a hex key. A small screwdriver for glasses may do in a pinch.
 
 - Optionally add oled covers
 
@@ -210,7 +229,7 @@ To flash:
 - Switch to the `choc` branch with `git checkout choc`
 - Make sure your QMK environment [is setup][qmkintro].
 - Make sure halves are not connected together with TRRS cable.
-- Connect one half to USB, flash the firmware (always follow the actuall instructions in the QMK documentation! The command might look something like this: `qmk flash -kb sofle/rev1 -km choc`). Use the reset button to reset the keyboard when you are asked to in console. Some Pro Micros require double-clicking the reset button to enter bootloader mode.-
+- Connect one half to USB, flash the firmware (always follow the actuall instructions in the QMK documentation! The command might look something like this: `qmk flash -kb sofle/rev1 -km choc`). Use the reset button to reset the keyboard when you are asked to in console. Some Pro Micros require double-clicking the reset button to enter bootloader mode.
 - Connect the second half and flash it in the same way as the previous one.
 - Disconnect the USB cable. Connect both halves together with TRRS cable.
 - Connect USB cable to the **left** side.
