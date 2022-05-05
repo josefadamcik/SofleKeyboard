@@ -20,6 +20,13 @@ The top plates are not compatible with Sofle v1, v2 or RGB versions. There is no
 
 The Sofle Choc was designed by [Brian Low](https://github.com/brianlow) and based on the excellent Sofle RGB by [Dane Evans](https://github.com/DaneEvans) which was based on the original Sofle v2 by [Josef Adamčík](https://github.com/josefadamcik).
 
+## Updated Build Guide and Kits
+
+I am maintaining a newer version of the build guide and usually have kits available at:
+
+[http://choc.brianlow.com](http://choc.brianlow.com)
+
+
 ## Bill of materials
 
 The following is needed to build the keyboard:
@@ -68,10 +75,6 @@ Optional components:
   - **58 SK6812 MINI-E RGB LEDs**. The LED body 3.2x2.8x1.7mm and with legs is 5.8x2.8. Avoid the non-MINI-E version without the legs. Purchase extra as they are delicate. I ended up replacing 6 during my build.
 
 Components that are common on other Sofle variants but are **not** used on this Softle Choc: bottom plate, M2 spacers, M2 spacers
-
-## Kits
-
-I may have kits available here: [http://sofle.brianlow.com](http://sofle.brianlow.com)
 
 
 ## Tools and materials
