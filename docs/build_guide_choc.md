@@ -20,6 +20,13 @@ The top plates are not compatible with Sofle v1, v2 or RGB versions. There is no
 
 The Sofle Choc was designed by [Brian Low](https://github.com/brianlow) and based on the excellent Sofle RGB by [Dane Evans](https://github.com/DaneEvans) which was based on the original Sofle v2 by [Josef Adamčík](https://github.com/josefadamcik).
 
+## Updated Build Guide and Kits
+
+I am maintaining a newer version of the build guide and usually have kits available at:
+
+[http://choc.brianlow.com](http://choc.brianlow.com)
+
+
 ## Bill of materials
 
 The following is needed to build the keyboard:
@@ -71,10 +78,6 @@ Optional components:
   - **2x 4.7kOhm through hole resistors** These only needed if you want to use the less common I2C communication protocol between halves. They are installed in the R1/R2 spots. I have not tested an I2C setup. The firmware on this page uses serial communication and does not require the resistors.
 
 Components that are common on other Sofle variants but are **not** used on this Softle Choc: bottom plate, M2 spacers and screws.
-
-## Kits
-
-I may have kits available here: [http://sofle.brianlow.com](http://sofle.brianlow.com)
 
 
 ## Tools and materials
