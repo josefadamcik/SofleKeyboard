@@ -69,7 +69,7 @@ Optional components:
 - **Rotary encoders**
   - **2 Rotary encoders EC11**. If you are not sure take EC11E. Some other variants (EC11K) may have some additional plastic pins for and require mounting holes for them which are not included on the PCB. Perfer short shaft. I used encoders with 10mm, D-shaped shaft and 30 positions from AliExpress. I also tried a high quality Bourns encoder (PEC11 series) but found it required a bit too much effort to twist.
   - **2 matching knobs** for each encoder. Make sure the knob matches the encoder's shaft diameter, depth and shape.
-
+  - **2 diodes 1N4148W** the encoder shafts are pushable and can be used as configurable keys.
 
 - **LEDs**
   - **58 SK6812 MINI-E RGB LEDs**. The LED body 3.2x2.8x1.7mm and with legs is 5.8x2.8. Avoid the non-MINI-E version without the legs. Purchase extra as they are delicate. I ended up replacing 6 during my build.
@@ -161,7 +161,7 @@ The jumpers in the photo should be bridged if using an OLED dispay. The jumpers 
 The Pro Micro is installed on the top of the board, upside down and in the marked holes.
 
 * Top of the board: this is the side of the PCB opposite the diodes, LEDs and switch sockets
-* Upside down: the Pro Micro components should face the PCB with the mostly plain back facing out
+* Upside down: both Pro Micro components should face the PCB with the mostly plain back facing out
 * Marked holes: there are two sets of holes in the PCB, use the holes with the rectangular outline on the top of the board
 
 Double-check your work here. This step is hard to reverse if a mistake is made.
@@ -170,7 +170,7 @@ To install a socketed Pro Micro using the diode leg approach [from splitkb.com][
 
   1. Install the 12-pin female headers on the top of the board in the outlined through holes. Use some tape to temporarily tack them in place. Flip the board over onto a flat, hard surface. While soldering the first pins, push down on the PCB to ensure the headers are perpendicular and fully seated.
 
-  2. Flip the board upright again. Optionally place some tape over the sockets to protect again fusing parts together. Place the Pro Micro upside down on top. Push diodes though the Pro Micro holes, through the tape and seated into the socket below.
+  2. Flip the board upright again. Optionally place some tape over the sockets to protect against fusing parts together. Place the Pro Micro upside down on top. Push diodes though the Pro Micro holes, through the tape and seated into the socket below.
 
   3. Solder the legs to the Pro Micro. Snip off the legs above the Pro Micro.
 
@@ -222,17 +222,17 @@ Solder the encoder.
 
 ## Firmware and programming
 
-The Sofle Choc uses [QMK Firmware][qmk_firmware]. Support is not in the main QMK repository yet. Instead use the [brianlow/qmk_firmware](https://github.com/brianlow/qmk_firmware) fork.
 
+The Sofle Choc uses [QMK Firmware][qmk_firmware]. Support is not in the main QMK repository [yet](https://github.com/qmk/qmk_firmware/pull/16736). Instead use the [brianlow/qmk_firmware](https://github.com/brianlow/qmk_firmware) fork.
 Suggested approach is to build the firmware yourself. You should be familiar with QMK and be able to make it work on your local environment. If not, please [follow the instructions in the documentation][qmkintro]. Note QMK setup is fairly invasive (upgrade every homebrew package on your system) so you might want to consider the [QMK Docker image](https://beta.docs.qmk.fm/using-qmk/guides/development-environments/getting_started_docker) for compiling.
 
 To flash:
 
 - Clone [https://github.com/brianlow/qmk_firmware](https://github.com/brianlow/qmk_firmware)
-- Switch to the `choc` branch with `git checkout choc`
+- Switch to the `choc2` branch with `git checkout choc2`
 - Make sure your QMK environment [is setup][qmkintro].
 - Make sure halves are not connected together with TRRS cable.
-- Connect one half to USB, flash the firmware (always follow the actuall instructions in the QMK documentation! The command might look something like this: `qmk flash -kb sofle/rev1 -km choc`). Use the reset button to reset the keyboard when you are asked to in console. Some Pro Micros require double-clicking the reset button to enter bootloader mode.
+- Connect one half to USB, flash the firmware (always follow the current instructions in the QMK documentation! The command might look something like this: `qmk flash -kb sofle_choc -km default`). Use the reset button to reset the keyboard when you are asked to in console. Some Pro Micros require double-clicking the reset button to enter bootloader mode.
 - Connect the second half and flash it in the same way as the previous one.
 - Disconnect the USB cable. Connect both halves together with TRRS cable.
 - Connect USB cable to the **left** side.
@@ -258,16 +258,16 @@ See the Sofle build guide.
 ## Links
 
 - [Github with KiCad projects][soflegithub]
-- [Layout in KeyboardLayout editor][soflelayout]
+- [Layout in KeyboardLayout editor][soflechoclayout]
 - [QMK Firmware][qmk_firmware]
 - [QMK Configurator][qmk_configurator]
 
 
 ## Default layout
 
-The default layout for the Sofle is in the qmk repo, and demonstrates some LED functions.
+The default layout for the Sofle Choc is in the QMK fork and demonstrates some LED functions.
 
-![Default layout for SofleRGB Keyboard](./images/soflekeyboard.png)
+![Default layout for Sofle Choc Keyboard](./images/sofle-choc-keyboard-layout.png)
 
 ## Images of keyboard
 
@@ -284,6 +284,7 @@ The default layout for the Sofle is in the qmk repo, and demonstrates some LED f
 [layoutarticle]: <https://josef-adamcik.cz/electronics/in-search-of-the-best-custom-keyboard-layout.html> "In search of the best custom keyboard layout"
 [introductionarticle]: <https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html> "Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd"
 [soflelayout]: http://www.keyboard-layout-editor.com/#/gists/76efb423a46cbbea75465cb468eef7ff "Sofle Keyboard layout at keyboard-layout-editor.com"
+[soflechoclayout]: http://www.keyboard-layout-editor.com/#/gists/5604075ad16c10a8c634828c5911d2b6 "Sofle Choc Keyboard layout at keyboard-layout-editor.com"
 [soflegerber]: https://github.com/josefadamcik/SofleKeyboard/releases "SofleKeyboard - gerber files"
 [qmk_firmware]: https://github.com/qmk/qmk_firmware/ "QMK firmware"
 
