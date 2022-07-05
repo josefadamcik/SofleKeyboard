@@ -241,4 +241,5 @@ If you fancy an [inverted silkscreen there's a great guide available](https://gi
 [nooledlag]: https://github.com/qmk/qmk_firmware/issues/7522 "No OLED lag bug"
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
 [sourcing]: <{{ site.baseurl }}/sourcing_parts.html> "Sourcing parts"
-[rgbbuildguide]: <{{ site.baseurl }}/build_guide_rgb.html> "Sofle RBG build guide"
+[rgbbuildguide]: <{{ site.baseurl }}/build_guide_rgb.html> "Sofle RGB build guide"
+[chocbuildguide]: <{{ site.baseurl }}/build_guide_choc.html> "Sofle Choc build guide"

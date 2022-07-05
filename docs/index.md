@@ -83,7 +83,7 @@ The Sofle Choc was contributed by [Brian Low](https://github.com/brianlow) and b
 
 ## Modifications
 
-- [Sofle V2 with RJ12 intsead of TRRS](https://gitlab.com/LayeredRx/Sofle_V2_Rj12/) by Layered RX
+- [Sofle V2 with RJ12 instead of TRRS](https://gitlab.com/LayeredRx/Sofle_V2_Rj12/) by Layered RX
 
 ## License
 

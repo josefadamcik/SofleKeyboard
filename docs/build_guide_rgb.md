@@ -92,6 +92,7 @@ Make sure you know which way around your leds are, different brands have differe
 The above picture is from the crkbd guide shows pin 4 on the table (the table is viewed from the top of the LED). 
 
 **The sofle RGB uses the following table, with the silkscreen marking at pin 1 (Dout)**
+
 | pin | net | net | pin |
 | --- | --- | --- | --- |
 | 1 | Dout | Vcc | 4 | 
