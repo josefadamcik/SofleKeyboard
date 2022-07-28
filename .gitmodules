@@ -1,3 +1,6 @@
 [submodule "footprints/Keebio-Parts.pretty"]
 	path = footprints/Keebio-Parts.pretty
 	url = git@github.com:keebio/Keebio-Parts.pretty.git
+[submodule "footprints/MX_Alps_Hybrid"]
+	path = footprints/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git

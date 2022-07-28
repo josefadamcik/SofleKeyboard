@@ -10,6 +10,8 @@ SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The mot
 
 Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
 
+Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
+
 ## Firmware 
 
 Sofle uses [QMK firmware](https://qmk.fm/)
