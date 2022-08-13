@@ -5,3 +5,8 @@ Case/PCBTop/gerb*
 Sofle_RGB/PCB/gerb*
 Case/Sofle_RGB/PCBTop/gerb*
 Case/Sofle_RGB/PCBBottom/gerb*
+
+Sofle_soldered/PCB/gerb*
+Sofle_soldered/PCB/SofleKeyboard-backups
+Case/Sofle_soldered/PCBTop/gerb*
+Case/Sofle_soldered/PCBBottom/gerb*
