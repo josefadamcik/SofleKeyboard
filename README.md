@@ -8,6 +8,9 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 
 SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The motivation and process is covered in following blog-post: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2D03MR)
+
+
 Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
 
 Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
