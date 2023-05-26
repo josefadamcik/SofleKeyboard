@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "SofleKeyboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard-rescue.kicad_sym")(options "")(descr ""))
-  (lib (name "SofleKeyboard")(type "Legacy")(uri "${KIPRJMOD}/SofleKeyboard.lib")(options "")(descr ""))
-)
