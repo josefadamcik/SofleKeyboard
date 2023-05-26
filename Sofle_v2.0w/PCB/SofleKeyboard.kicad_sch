@@ -3855,7 +3855,7 @@
     (property "Datasheet" "" (at 67.31 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5f4825eb-62fa-4867-b006-7ea09f75fda7))
+    (pin "1" (uuid ffe8a537-52ba-4421-ab2a-d5c6cfa93100))
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
@@ -3961,7 +3961,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 72.39 71.755 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid a0504926-a1b6-4910-8544-f305065ad4b4)
     (property "Reference" "BATJ2" (at 74.295 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3975,8 +3975,8 @@
     (property "Datasheet" "~" (at 72.39 71.755 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 70decccd-8803-4f43-a2cc-fde5db6fffd4))
-    (pin "2" (uuid 80e733d1-4393-4821-a8c1-35f8bd64742f))
+    (pin "1" (uuid 80a59554-cc4b-4ce4-a25a-1072de856f5a))
+    (pin "2" (uuid 25511acc-3f95-4d19-bc7e-68e80154ddf0))
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
