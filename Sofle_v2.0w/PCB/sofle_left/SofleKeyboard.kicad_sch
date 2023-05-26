@@ -1685,7 +1685,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 121.92 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722582)
-    (property "Reference" "SW26" (at 121.92 85.09 0)
+    (property "Reference" "SW110" (at 121.92 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 121.92 91.44 0)
@@ -1702,7 +1702,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW26") (unit 1)
+          (reference "SW110") (unit 1)
         )
       )
     )
@@ -1711,7 +1711,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 101.6 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7225da)
-    (property "Reference" "SW1" (at 101.6 19.05 0)
+    (property "Reference" "SW102" (at 101.6 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 101.6 25.4 0)
@@ -1728,7 +1728,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW1") (unit 1)
+          (reference "SW102") (unit 1)
         )
       )
     )
@@ -1737,7 +1737,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 109.22 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7226e7)
-    (property "Reference" "D1" (at 111.2266 25.5016 90)
+    (property "Reference" "D101" (at 111.2266 25.5016 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 111.2266 27.813 90)
@@ -1754,7 +1754,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D1") (unit 1)
+          (reference "D101") (unit 1)
         )
       )
     )
@@ -1763,7 +1763,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 121.92 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7227cd)
-    (property "Reference" "SW2" (at 121.92 19.05 0)
+    (property "Reference" "SW106" (at 121.92 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 121.92 25.4 0)
@@ -1780,7 +1780,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW2") (unit 1)
+          (reference "SW106") (unit 1)
         )
       )
     )
@@ -1789,7 +1789,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 129.54 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722847)
-    (property "Reference" "D2" (at 131.5466 25.5016 90)
+    (property "Reference" "D106" (at 131.5466 25.5016 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 131.5466 27.813 90)
@@ -1806,7 +1806,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D2") (unit 1)
+          (reference "D106") (unit 1)
         )
       )
     )
@@ -1815,7 +1815,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 142.24 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7228f7)
-    (property "Reference" "SW3" (at 142.24 19.05 0)
+    (property "Reference" "SW111" (at 142.24 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 142.24 25.4 0)
@@ -1832,7 +1832,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW3") (unit 1)
+          (reference "SW111") (unit 1)
         )
       )
     )
@@ -1841,7 +1841,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 149.86 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722950)
-    (property "Reference" "D3" (at 151.8666 25.5016 90)
+    (property "Reference" "D111" (at 151.8666 25.5016 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 151.8666 27.813 90)
@@ -1858,7 +1858,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D3") (unit 1)
+          (reference "D111") (unit 1)
         )
       )
     )
@@ -1867,7 +1867,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 162.56 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722a11)
-    (property "Reference" "SW4" (at 162.56 19.05 0)
+    (property "Reference" "SW116" (at 162.56 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 162.56 25.4 0)
@@ -1884,7 +1884,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW4") (unit 1)
+          (reference "SW116") (unit 1)
         )
       )
     )
@@ -1893,7 +1893,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 170.18 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722a8f)
-    (property "Reference" "D4" (at 172.1866 25.5016 90)
+    (property "Reference" "D116" (at 172.1866 25.5016 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 172.1866 27.813 90)
@@ -1910,7 +1910,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D4") (unit 1)
+          (reference "D116") (unit 1)
         )
       )
     )
@@ -1919,7 +1919,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 182.88 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722b51)
-    (property "Reference" "SW5" (at 182.88 19.05 0)
+    (property "Reference" "SW121" (at 182.88 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 182.88 25.4 0)
@@ -1936,7 +1936,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW5") (unit 1)
+          (reference "SW121") (unit 1)
         )
       )
     )
@@ -1945,7 +1945,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 190.5 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722bad)
-    (property "Reference" "D5" (at 192.5066 25.5016 90)
+    (property "Reference" "D121" (at 192.5066 25.5016 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 192.5066 27.813 90)
@@ -1962,7 +1962,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D5") (unit 1)
+          (reference "D121") (unit 1)
         )
       )
     )
@@ -1971,7 +1971,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 203.2 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722ca9)
-    (property "Reference" "SW6" (at 203.2 19.05 0)
+    (property "Reference" "SW126" (at 203.2 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 203.2 24.13 0)
@@ -1988,7 +1988,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW6") (unit 1)
+          (reference "SW126") (unit 1)
         )
       )
     )
@@ -1997,7 +1997,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 210.82 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b722fe1)
-    (property "Reference" "D6" (at 212.8266 25.5016 90)
+    (property "Reference" "D126" (at 212.8266 25.5016 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 212.8266 27.813 90)
@@ -2014,7 +2014,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D6") (unit 1)
+          (reference "D126") (unit 1)
         )
       )
     )
@@ -2023,7 +2023,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 121.92 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723388)
-    (property "Reference" "SW8" (at 121.92 35.56 0)
+    (property "Reference" "SW107" (at 121.92 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 121.92 41.91 0)
@@ -2040,7 +2040,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW8") (unit 1)
+          (reference "SW107") (unit 1)
         )
       )
     )
@@ -2049,7 +2049,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 142.24 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723731)
-    (property "Reference" "SW9" (at 142.24 35.56 0)
+    (property "Reference" "SW112" (at 142.24 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 142.24 41.91 0)
@@ -2066,7 +2066,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW9") (unit 1)
+          (reference "SW112") (unit 1)
         )
       )
     )
@@ -2075,7 +2075,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 162.56 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7237a6)
-    (property "Reference" "SW10" (at 162.56 35.56 0)
+    (property "Reference" "SW117" (at 162.56 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 162.56 41.91 0)
@@ -2092,7 +2092,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW10") (unit 1)
+          (reference "SW117") (unit 1)
         )
       )
     )
@@ -2101,7 +2101,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 182.88 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b72387d)
-    (property "Reference" "SW11" (at 182.88 35.56 0)
+    (property "Reference" "SW122" (at 182.88 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 182.88 41.91 0)
@@ -2118,7 +2118,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW11") (unit 1)
+          (reference "SW122") (unit 1)
         )
       )
     )
@@ -2127,7 +2127,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 203.2 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723ad3)
-    (property "Reference" "SW12" (at 203.2 35.56 0)
+    (property "Reference" "SW127" (at 203.2 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 203.2 41.91 0)
@@ -2144,7 +2144,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW12") (unit 1)
+          (reference "SW127") (unit 1)
         )
       )
     )
@@ -2153,7 +2153,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 101.6 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723c9d)
-    (property "Reference" "SW7" (at 101.6 35.56 0)
+    (property "Reference" "SW103" (at 101.6 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 101.6 41.91 0)
@@ -2170,7 +2170,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW7") (unit 1)
+          (reference "SW103") (unit 1)
         )
       )
     )
@@ -2179,7 +2179,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 109.22 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723d94)
-    (property "Reference" "D7" (at 111.2266 42.0116 90)
+    (property "Reference" "D102" (at 111.2266 42.0116 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 111.2266 44.323 90)
@@ -2196,7 +2196,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D7") (unit 1)
+          (reference "D102") (unit 1)
         )
       )
     )
@@ -2205,7 +2205,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 129.54 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723e5f)
-    (property "Reference" "D8" (at 131.5466 42.0116 90)
+    (property "Reference" "D107" (at 131.5466 42.0116 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 131.5466 44.323 90)
@@ -2222,7 +2222,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D8") (unit 1)
+          (reference "D107") (unit 1)
         )
       )
     )
@@ -2231,7 +2231,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 149.86 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b723fa1)
-    (property "Reference" "D9" (at 151.8666 42.0116 90)
+    (property "Reference" "D112" (at 151.8666 42.0116 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 151.8666 44.323 90)
@@ -2248,7 +2248,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D9") (unit 1)
+          (reference "D112") (unit 1)
         )
       )
     )
@@ -2257,7 +2257,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 170.18 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7240ea)
-    (property "Reference" "D10" (at 172.1866 42.0116 90)
+    (property "Reference" "D117" (at 172.1866 42.0116 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 172.1866 44.323 90)
@@ -2274,7 +2274,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D10") (unit 1)
+          (reference "D117") (unit 1)
         )
       )
     )
@@ -2283,7 +2283,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 190.5 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b72424d)
-    (property "Reference" "D11" (at 192.5066 42.0116 90)
+    (property "Reference" "D122" (at 192.5066 42.0116 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 192.5066 44.323 90)
@@ -2300,7 +2300,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D11") (unit 1)
+          (reference "D122") (unit 1)
         )
       )
     )
@@ -2309,7 +2309,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 210.82 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7243c0)
-    (property "Reference" "D12" (at 212.8266 42.0116 90)
+    (property "Reference" "D127" (at 212.8266 42.0116 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 212.8266 44.323 90)
@@ -2326,7 +2326,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D12") (unit 1)
+          (reference "D127") (unit 1)
         )
       )
     )
@@ -2335,7 +2335,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 101.6 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7250ad)
-    (property "Reference" "SW13" (at 101.6 52.07 0)
+    (property "Reference" "SW104" (at 101.6 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 101.6 58.42 0)
@@ -2352,7 +2352,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW13") (unit 1)
+          (reference "SW104") (unit 1)
         )
       )
     )
@@ -2361,7 +2361,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 121.92 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b725133)
-    (property "Reference" "SW14" (at 121.92 52.07 0)
+    (property "Reference" "SW108" (at 121.92 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 121.92 58.42 0)
@@ -2378,7 +2378,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW14") (unit 1)
+          (reference "SW108") (unit 1)
         )
       )
     )
@@ -2387,7 +2387,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 142.24 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7251bf)
-    (property "Reference" "SW15" (at 142.24 52.07 0)
+    (property "Reference" "SW113" (at 142.24 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 142.24 58.42 0)
@@ -2404,7 +2404,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW15") (unit 1)
+          (reference "SW113") (unit 1)
         )
       )
     )
@@ -2413,7 +2413,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 162.56 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b72524e)
-    (property "Reference" "SW16" (at 162.56 52.07 0)
+    (property "Reference" "SW118" (at 162.56 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 162.56 58.42 0)
@@ -2430,7 +2430,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW16") (unit 1)
+          (reference "SW118") (unit 1)
         )
       )
     )
@@ -2439,7 +2439,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 182.88 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7252f1)
-    (property "Reference" "SW17" (at 182.88 52.07 0)
+    (property "Reference" "SW123" (at 182.88 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 182.88 58.42 0)
@@ -2456,7 +2456,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW17") (unit 1)
+          (reference "SW123") (unit 1)
         )
       )
     )
@@ -2465,7 +2465,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 203.2 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b725398)
-    (property "Reference" "SW18" (at 203.2 52.07 0)
+    (property "Reference" "SW128" (at 203.2 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 203.2 58.42 0)
@@ -2482,7 +2482,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW18") (unit 1)
+          (reference "SW128") (unit 1)
         )
       )
     )
@@ -2491,7 +2491,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 109.22 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7254ee)
-    (property "Reference" "D13" (at 111.2266 58.5216 90)
+    (property "Reference" "D103" (at 111.2266 58.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 111.2266 60.833 90)
@@ -2508,7 +2508,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D13") (unit 1)
+          (reference "D103") (unit 1)
         )
       )
     )
@@ -2517,7 +2517,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 129.54 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7255ff)
-    (property "Reference" "D14" (at 131.5466 58.5216 90)
+    (property "Reference" "D108" (at 131.5466 58.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 131.5466 60.833 90)
@@ -2534,7 +2534,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D14") (unit 1)
+          (reference "D108") (unit 1)
         )
       )
     )
@@ -2543,7 +2543,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 149.86 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b72571c)
-    (property "Reference" "D15" (at 151.8666 58.5216 90)
+    (property "Reference" "D113" (at 151.8666 58.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 151.8666 60.833 90)
@@ -2560,7 +2560,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D15") (unit 1)
+          (reference "D113") (unit 1)
         )
       )
     )
@@ -2569,7 +2569,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 170.18 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b725841)
-    (property "Reference" "D16" (at 172.1866 58.5216 90)
+    (property "Reference" "D118" (at 172.1866 58.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 172.1866 60.833 90)
@@ -2586,7 +2586,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D16") (unit 1)
+          (reference "D118") (unit 1)
         )
       )
     )
@@ -2595,7 +2595,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 190.5 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b72596d)
-    (property "Reference" "D17" (at 192.5066 58.5216 90)
+    (property "Reference" "D123" (at 192.5066 58.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 192.5066 60.833 90)
@@ -2612,7 +2612,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D17") (unit 1)
+          (reference "D123") (unit 1)
         )
       )
     )
@@ -2621,7 +2621,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 210.82 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b725aa2)
-    (property "Reference" "D18" (at 212.8266 58.5216 90)
+    (property "Reference" "D128" (at 212.8266 58.5216 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 212.8266 60.833 90)
@@ -2638,7 +2638,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D18") (unit 1)
+          (reference "D128") (unit 1)
         )
       )
     )
@@ -2647,7 +2647,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 142.24 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b726f89)
-    (property "Reference" "SW21" (at 142.24 68.58 0)
+    (property "Reference" "SW114" (at 142.24 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 142.24 74.93 0)
@@ -2664,7 +2664,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW21") (unit 1)
+          (reference "SW114") (unit 1)
         )
       )
     )
@@ -2673,7 +2673,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 162.56 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727035)
-    (property "Reference" "SW22" (at 162.56 68.58 0)
+    (property "Reference" "SW119" (at 162.56 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 162.56 74.93 0)
@@ -2690,7 +2690,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW22") (unit 1)
+          (reference "SW119") (unit 1)
         )
       )
     )
@@ -2699,7 +2699,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 182.88 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7270f6)
-    (property "Reference" "SW23" (at 182.88 68.58 0)
+    (property "Reference" "SW124" (at 182.88 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 182.88 74.93 0)
@@ -2716,7 +2716,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW23") (unit 1)
+          (reference "SW124") (unit 1)
         )
       )
     )
@@ -2725,7 +2725,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 203.2 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7271a5)
-    (property "Reference" "SW24" (at 203.2 68.58 0)
+    (property "Reference" "SW129" (at 203.2 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 203.2 74.93 0)
@@ -2742,7 +2742,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW24") (unit 1)
+          (reference "SW129") (unit 1)
         )
       )
     )
@@ -2751,7 +2751,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 121.92 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727256)
-    (property "Reference" "SW20" (at 121.92 68.58 0)
+    (property "Reference" "SW109" (at 121.92 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 121.92 74.93 0)
@@ -2768,7 +2768,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW20") (unit 1)
+          (reference "SW109") (unit 1)
         )
       )
     )
@@ -2777,7 +2777,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 101.6 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727312)
-    (property "Reference" "SW19" (at 101.6 68.58 0)
+    (property "Reference" "SW105" (at 101.6 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 101.6 74.93 0)
@@ -2794,7 +2794,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW19") (unit 1)
+          (reference "SW105") (unit 1)
         )
       )
     )
@@ -2803,7 +2803,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 109.22 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b72767a)
-    (property "Reference" "D19" (at 111.2266 75.0316 90)
+    (property "Reference" "D104" (at 111.2266 75.0316 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 111.2266 77.343 90)
@@ -2820,7 +2820,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D19") (unit 1)
+          (reference "D104") (unit 1)
         )
       )
     )
@@ -2829,7 +2829,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 129.54 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7277ce)
-    (property "Reference" "D20" (at 131.5466 75.0316 90)
+    (property "Reference" "D109" (at 131.5466 75.0316 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 131.5466 77.343 90)
@@ -2846,7 +2846,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D20") (unit 1)
+          (reference "D109") (unit 1)
         )
       )
     )
@@ -2855,7 +2855,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 149.86 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727929)
-    (property "Reference" "D21" (at 151.8666 75.0316 90)
+    (property "Reference" "D114" (at 151.8666 75.0316 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 151.8666 77.343 90)
@@ -2872,7 +2872,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D21") (unit 1)
+          (reference "D114") (unit 1)
         )
       )
     )
@@ -2881,7 +2881,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 170.18 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727a89)
-    (property "Reference" "D22" (at 172.1866 75.0316 90)
+    (property "Reference" "D119" (at 172.1866 75.0316 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 172.1866 77.343 90)
@@ -2898,7 +2898,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D22") (unit 1)
+          (reference "D119") (unit 1)
         )
       )
     )
@@ -2907,7 +2907,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 190.5 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727bfe)
-    (property "Reference" "D23" (at 192.5066 75.0316 90)
+    (property "Reference" "D124" (at 192.5066 75.0316 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 192.5066 77.343 90)
@@ -2924,7 +2924,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D23") (unit 1)
+          (reference "D124") (unit 1)
         )
       )
     )
@@ -2933,7 +2933,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 210.82 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b727d79)
-    (property "Reference" "D24" (at 212.8266 75.0316 90)
+    (property "Reference" "D129" (at 212.8266 75.0316 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 212.8266 77.343 90)
@@ -2950,7 +2950,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D24") (unit 1)
+          (reference "D129") (unit 1)
         )
       )
     )
@@ -2959,7 +2959,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 142.24 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7293b0)
-    (property "Reference" "SW27" (at 142.24 85.09 0)
+    (property "Reference" "SW115" (at 142.24 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 142.24 91.44 0)
@@ -2976,7 +2976,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW27") (unit 1)
+          (reference "SW115") (unit 1)
         )
       )
     )
@@ -2985,7 +2985,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 162.56 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b734347)
-    (property "Reference" "SW28" (at 162.56 85.09 0)
+    (property "Reference" "SW120" (at 162.56 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 162.56 91.44 0)
@@ -3002,7 +3002,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW28") (unit 1)
+          (reference "SW120") (unit 1)
         )
       )
     )
@@ -3011,7 +3011,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 182.88 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b73449b)
-    (property "Reference" "SW29" (at 182.88 85.09 0)
+    (property "Reference" "SW125" (at 182.88 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 182.88 91.44 0)
@@ -3028,7 +3028,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW29") (unit 1)
+          (reference "SW125") (unit 1)
         )
       )
     )
@@ -3037,7 +3037,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 109.22 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b734844)
-    (property "Reference" "D25" (at 111.2266 91.5416 90)
+    (property "Reference" "D105" (at 111.2266 91.5416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 111.2266 93.853 90)
@@ -3054,7 +3054,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D25") (unit 1)
+          (reference "D105") (unit 1)
         )
       )
     )
@@ -3063,7 +3063,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 129.54 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b7349d1)
-    (property "Reference" "D26" (at 131.5466 91.5416 90)
+    (property "Reference" "D110" (at 131.5466 91.5416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 131.5466 93.853 90)
@@ -3080,7 +3080,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D26") (unit 1)
+          (reference "D110") (unit 1)
         )
       )
     )
@@ -3089,7 +3089,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 149.86 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b734b62)
-    (property "Reference" "D27" (at 151.8666 91.5416 90)
+    (property "Reference" "D115" (at 151.8666 91.5416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 151.8666 93.853 90)
@@ -3106,7 +3106,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D27") (unit 1)
+          (reference "D115") (unit 1)
         )
       )
     )
@@ -3115,7 +3115,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 170.18 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b734cf9)
-    (property "Reference" "D28" (at 172.1866 91.5416 90)
+    (property "Reference" "D120" (at 172.1866 91.5416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 172.1866 93.853 90)
@@ -3132,7 +3132,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D28") (unit 1)
+          (reference "D120") (unit 1)
         )
       )
     )
@@ -3141,7 +3141,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 190.5 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b734f9e)
-    (property "Reference" "D29" (at 192.5066 91.5416 90)
+    (property "Reference" "D125" (at 192.5066 91.5416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 192.5066 93.853 90)
@@ -3158,7 +3158,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D29") (unit 1)
+          (reference "D125") (unit 1)
         )
       )
     )
@@ -3167,7 +3167,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:LED-Lily58-cache-Lily58_Pro-rescue") (at 77.47 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74ae32)
-    (property "Reference" "J2" (at 77.47 15.24 0)
+    (property "Reference" "J102" (at 77.47 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED" (at 77.47 25.4 0)
@@ -3185,7 +3185,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "J2") (unit 1)
+          (reference "J102") (unit 1)
         )
       )
     )
@@ -3369,7 +3369,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74ce27)
-    (property "Reference" "TH1" (at 228.6 97.79 0)
+    (property "Reference" "TH107" (at 228.6 97.79 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 97.79 0)
@@ -3384,7 +3384,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH1") (unit 1)
+          (reference "TH107") (unit 1)
         )
       )
     )
@@ -3393,7 +3393,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 88.9 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74d0c7)
-    (property "Reference" "TH2" (at 228.6 88.9 0)
+    (property "Reference" "TH106" (at 228.6 88.9 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 88.9 0)
@@ -3408,7 +3408,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH2") (unit 1)
+          (reference "TH106") (unit 1)
         )
       )
     )
@@ -3417,7 +3417,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 63.5 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74d1c0)
-    (property "Reference" "TH4" (at 228.6 63.5 0)
+    (property "Reference" "TH104" (at 228.6 63.5 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 63.5 0)
@@ -3432,7 +3432,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH4") (unit 1)
+          (reference "TH104") (unit 1)
         )
       )
     )
@@ -3441,7 +3441,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74d78b)
-    (property "Reference" "TH5" (at 228.6 54.61 0)
+    (property "Reference" "TH103" (at 228.6 54.61 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 54.61 0)
@@ -3456,7 +3456,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH5") (unit 1)
+          (reference "TH103") (unit 1)
         )
       )
     )
@@ -3465,7 +3465,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 45.72 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74d88c)
-    (property "Reference" "TH6" (at 228.6 45.72 0)
+    (property "Reference" "TH102" (at 228.6 45.72 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 45.72 0)
@@ -3480,7 +3480,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH6") (unit 1)
+          (reference "TH102") (unit 1)
         )
       )
     )
@@ -3489,7 +3489,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 36.83 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74d98f)
-    (property "Reference" "TH7" (at 228.6 36.83 0)
+    (property "Reference" "TH101" (at 228.6 36.83 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 36.83 0)
@@ -3504,7 +3504,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH7") (unit 1)
+          (reference "TH101") (unit 1)
         )
       )
     )
@@ -3513,7 +3513,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue") (at 228.6 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b74da95)
-    (property "Reference" "TH3" (at 228.6 72.39 0)
+    (property "Reference" "TH105" (at 228.6 72.39 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HOLE" (at 231.14 72.39 0)
@@ -3528,7 +3528,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "TH3") (unit 1)
+          (reference "TH105") (unit 1)
         )
       )
     )
@@ -3537,7 +3537,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_RST-Lily58-cache-Lily58_Pro-rescue") (at 24.13 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b8ce7e7)
-    (property "Reference" "RSW1" (at 24.13 76.0476 0)
+    (property "Reference" "RSW101" (at 24.13 76.0476 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "SW_RST" (at 24.13 78.1558 0)
@@ -3554,7 +3554,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "RSW1") (unit 1)
+          (reference "RSW101") (unit 1)
         )
       )
     )
@@ -3563,7 +3563,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue") (at 203.2 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d954f78)
-    (property "Reference" "SW30" (at 203.2 85.09 0)
+    (property "Reference" "SW130" (at 203.2 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_PUSH" (at 203.2 91.44 0)
@@ -3580,7 +3580,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW30") (unit 1)
+          (reference "SW130") (unit 1)
         )
       )
     )
@@ -3589,7 +3589,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue") (at 210.82 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d956fe1)
-    (property "Reference" "D30" (at 212.8266 91.5416 90)
+    (property "Reference" "D130" (at 212.8266 91.5416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (at 212.8266 93.853 90)
@@ -3606,7 +3606,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "D30") (unit 1)
+          (reference "D130") (unit 1)
         )
       )
     )
@@ -3615,7 +3615,7 @@
   (symbol (lib_id "SofleKeyboard-rescue:Rotary_Encoder_Switch-Device") (at 43.18 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005da04574)
-    (property "Reference" "SW25" (at 43.18 89.7382 0)
+    (property "Reference" "SW101" (at 43.18 89.7382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Rotary_Encoder_Switch" (at 43.18 92.0496 0)
@@ -3635,7 +3635,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "SW25") (unit 1)
+          (reference "SW101") (unit 1)
         )
       )
     )
@@ -3729,7 +3729,7 @@
   (symbol (lib_id "kbd:ProMicro") (at 40.64 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d8dddbe-95b9-4bcc-964f-4d56c19c82a5)
-    (property "Reference" "U1" (at 40.64 13.97 0)
+    (property "Reference" "U101" (at 40.64 13.97 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "ProMicro" (at 40.64 45.72 0)
@@ -3768,7 +3768,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "U1") (unit 1)
+          (reference "U101") (unit 1)
         )
       )
       (project "corne-ultralight"
@@ -3782,7 +3782,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 71.12 59.69 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d68e1bf-2536-495c-80ae-ce970c06c1a3)
-    (property "Reference" "BATJ1" (at 70.485 53.34 0)
+    (property "Reference" "BATJ101" (at 70.485 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x02_Female" (at 70.485 55.88 0)
@@ -3799,7 +3799,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "BATJ1") (unit 1)
+          (reference "BATJ101") (unit 1)
         )
       )
       (project "corne-ultralight"
@@ -3963,7 +3963,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 72.39 71.755 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0504926-a1b6-4910-8544-f305065ad4b4)
-    (property "Reference" "BATJ2" (at 74.295 72.39 0)
+    (property "Reference" "BATJ102" (at 74.295 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02_Female" (at 74.295 74.93 0)
@@ -3980,7 +3980,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "BATJ2") (unit 1)
+          (reference "BATJ102") (unit 1)
         )
       )
       (project "corne-ultralight"
@@ -4024,7 +4024,7 @@
   (symbol (lib_id "Switch:SW_SPDT") (at 48.895 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d54b90d0-162a-4b43-9e43-d828650723ea)
-    (property "Reference" "PSW1" (at 48.895 50.8 0)
+    (property "Reference" "PSW101" (at 48.895 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 48.895 53.34 0)
@@ -4042,7 +4042,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "PSW1") (unit 1)
+          (reference "PSW101") (unit 1)
         )
       )
       (project "corne-ultralight"
@@ -4086,7 +4086,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x05") (at 15.24 59.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9204d05-5ec3-4d42-bd8e-054cfeb033b8)
-    (property "Reference" "J1" (at 15.24 50.8 0)
+    (property "Reference" "J101" (at 15.24 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "OLED" (at 15.24 66.04 0)
@@ -4106,7 +4106,7 @@
     (instances
       (project "SofleKeyboard"
         (path "/33dbc594-2886-43fd-bf3f-ab8b18a7907e"
-          (reference "J1") (unit 1)
+          (reference "J101") (unit 1)
         )
       )
       (project "corne-ultralight"
