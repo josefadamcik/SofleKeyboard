@@ -81,6 +81,26 @@ The Sofle Choc was contributed by [Brian Low](https://github.com/brianlow) and b
 
 [Build guide is available here]({{ baseurl }}/SofleKeyboard/build_guide_choc.html).
 
+### Sofle Pico
+
+![Sofle Pico ](./images/SoflePico_1.jpg) @todo add hero image
+
+The Sofle Pico is based largely on the Sofle V2 switch layout, and rebuilt specifically for the RP2040 Pico MCU. 
+
+   - MX switch hotswap sockets (does _not_ support choc switches).
+   - per-key RGB
+   - 64x128 OLED's
+   - through-hole or SMD diodes for easier building 
+   - RP2040 'drag and drop' flashing
+   - VIA support
+   - Tenting puck mounting holes
+   - patch bay for easy tinkering
+
+Sofle Pico was contributed by [Ryan Neff](https://github.com/JellyTitan).
+
+@todo - where will this build guide live?
+[Build guide is available here]({{ baseurl }}/SofleKeyboard/build_guide_choc.html).
+
 ## Modifications
 
 - [Sofle V2 with RJ12 instead of TRRS](https://gitlab.com/LayeredRx/Sofle_V2_Rj12/) by Layered RX
