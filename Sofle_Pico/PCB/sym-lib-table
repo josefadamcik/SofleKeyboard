@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SofleKeyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/Sofle_Pico-rescue.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard")(type "Legacy")(uri "${KIPRJMOD}/Sofle_Pico.lib")(options "")(descr ""))
+  (lib (name "Sofle_Pico")(type "KiCad")(uri "${KIPRJMOD}/Sofle_Pico.kicad_sym")(options "")(descr ""))
+)

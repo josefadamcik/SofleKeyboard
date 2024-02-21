@@ -1,0 +1,121 @@
+
+(rules PCB SofleKeyboard
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (eu.mihosoft.freerouting.autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 18)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.3)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.8)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_400:300_um"
+    (shape
+      (circle F.Cu 400.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 400.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_400:300_um" "Via[0-1]_400:300_um" default
+  )
+  (via 
+    "Via[0-1]_400:300_um-kicad_default" "Via[0-1]_400:300_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_400:300_um-GND" "Via[0-1]_400:300_um" GND
+  )
+  (via 
+    "Via[0-1]_400:300_um-VCC" "Via[0-1]_400:300_um" VCC
+  )
+  (via_rule
+    default "Via[0-1]_400:300_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_400:300_um-kicad_default"
+  )
+  (via_rule
+    GND "Via[0-1]_400:300_um-GND"
+  )
+  (via_rule
+    VCC "Via[0-1]_400:300_um-VCC"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    "Net-(D1-Pad2)" row4 "Net-(D2-Pad2)" "Net-(D3-Pad2)" row0 "Net-(D4-Pad2)" row1 "Net-(D5-Pad2)"
+    row2 "Net-(D6-Pad2)" row3 "Net-(D7-Pad2)" "Net-(D8-Pad2)" "Net-(D9-Pad2)" "Net-(D10-Pad2)" "Net-(D11-Pad2)"
+    "Net-(D12-Pad2)" "Net-(D13-Pad2)" "Net-(D14-Pad2)" "Net-(D15-Pad2)" "Net-(D16-Pad2)" "Net-(D17-Pad2)" "Net-(D18-Pad2)" "Net-(D19-Pad2)"
+    "Net-(D20-Pad2)" "Net-(D21-Pad2)" "Net-(D22-Pad2)" "Net-(D23-Pad2)" "Net-(D24-Pad2)" "Net-(D26-Pad2)" "Net-(D27-Pad2)" "Net-(D28-Pad2)"
+    col0 col1 col2 col3 col4 SDA LED SCL
+    RESET "Net-(D29-Pad2)" "Net-(U1-Pad24)" "Net-(U1-Pad7)" DATA "Net-(J3-Pad1)" "Net-(J3-Pad2)" "Net-(J3-Pad3)"
+    "Net-(J3-Pad4)" "Net-(D30-Pad2)" SW25B SW25A ENCB ENCA "/i2c_c" "/i2c_d"
+    "Net-(D31-Pad1)" "Net-(D31-Pad3)" "Net-(D32-Pad3)" /underglow "Net-(D34-Pad1)" "Net-(D35-Pad1)" "Net-(D36-Pad1)" lights
+    "Net-(D37-Pad3)" /backlight "Net-(J5-Pad3)" "Net-(SW1-Pad3)" "Net-(SW1-Pad1)" "Net-(SW2-Pad3)" "Net-(SW3-Pad3)" "Net-(SW3-Pad1)"
+    "Net-(SW10-Pad1)" "Net-(SW5-Pad3)" "Net-(SW11-Pad3)" "Net-(SW12-Pad1)" "Net-(SW13-Pad3)" "Net-(SW14-Pad1)" "Net-(SW15-Pad3)" "Net-(SW10-Pad3)"
+    "Net-(SW11-Pad1)" "Net-(SW12-Pad3)" "Net-(SW13-Pad1)" "Net-(SW14-Pad3)" "Net-(SW15-Pad1)" "Net-(SW16-Pad3)" "Net-(SW17-Pad1)" "Net-(SW18-Pad3)"
+    "Net-(SW19-Pad1)" "Net-(SW20-Pad3)" "Net-(SW21-Pad1)" "Net-(SW22-Pad3)" "Net-(SW23-Pad1)" "Net-(SW24-Pad3)" "Net-(SW26-Pad3)" "Net-(SW28-Pad3)"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class GND
+    GND
+    (clearance_class GND)
+    (via_rule GND)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class VCC
+    VCC
+    (clearance_class VCC)
+    (via_rule VCC)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

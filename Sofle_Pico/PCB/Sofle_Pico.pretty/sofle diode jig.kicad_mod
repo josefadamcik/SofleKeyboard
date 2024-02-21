@@ -1,0 +1,47 @@
+(footprint "sofle diode jig" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at -6.53 1.6 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f4a630c9-720b-42af-b2e9-c6fc5e3c923e)
+  )
+  (fp_text value "sofle diode jig" (at -5.15 -1.5 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 446b9f32-6eda-4438-a8ce-38c608faf022)
+  )
+  (fp_line (start 0 0) (end -10.01 0)
+    (stroke (width 0.12) (type default)) (layer "B.SilkS") (tstamp 1b8323ad-7006-4f1b-944e-12a9a9ee7410))
+  (fp_line (start -9.99 0) (end -2.56 0)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp c3516a95-69ba-426e-9bc2-12501ef2e267))
+  (fp_line (start -3.130407 3.47) (end -3.130407 2.57)
+    (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp c0385f7a-013e-4b69-a943-cf23c7afc50a))
+  (fp_line (start -2.320407 2.079593) (end -2.64 2.079593)
+    (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp 268124fe-035c-4a2f-8313-dda09e7a4a84))
+  (fp_line (start -1.83 3.47) (end -1.83 2.57)
+    (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp db7c20ed-1eca-4882-9c6a-8a7a944523e5))
+  (fp_arc (start -3.130407 2.57) (mid -2.98677 2.22323) (end -2.64 2.079593)
+    (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp 1b0d56d4-73f1-4af7-93a1-6e4965a7a0f4))
+  (fp_arc (start -2.320407 2.079593) (mid -1.973637 2.22323) (end -1.83 2.57)
+    (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp f01d33ef-c11e-4e31-9b2b-8dd90dbaaacb))
+  (fp_poly
+    (pts
+      (xy -1.58 1.6)
+      (xy -2.5 0.73)
+      (xy -2.51 0.73)
+      (xy -3.38 1.6)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 48536627-44e0-4e6c-bb27-f2840e82af38))
+  (pad "" np_thru_hole circle (at -10 0) (size 0.8 0.8) (drill 0.8) (layers "F&B.Cu" "*.Mask") (tstamp f027be27-4444-48f1-8780-47830f3c1ebf))
+  (pad "" np_thru_hole circle (at -8 0) (size 0.8 0.8) (drill 0.8) (layers "F&B.Cu" "*.Mask") (tstamp 1906f8c7-446a-43c0-a505-356c93eef2ea))
+  (pad "" np_thru_hole circle (at -2.54 0) (size 0.8 0.8) (drill 0.8) (layers "F&B.Cu" "*.Mask") (tstamp 7de63afb-8681-43b4-beb4-05a34ea6c098))
+  (pad "" np_thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.8) (layers "F&B.Cu" "*.Mask") (tstamp 4a74bc0a-38b8-48ac-ac60-56f2fa06000b))
+  (group "" (id 15305483-ac6a-433b-b21c-5d6f77fae385)
+    (members
+      1b0d56d4-73f1-4af7-93a1-6e4965a7a0f4
+      268124fe-035c-4a2f-8313-dda09e7a4a84
+      c0385f7a-013e-4b69-a943-cf23c7afc50a
+      db7c20ed-1eca-4882-9c6a-8a7a944523e5
+      f01d33ef-c11e-4e31-9b2b-8dd90dbaaacb
+    )
+  )
+)

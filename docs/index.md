@@ -81,7 +81,7 @@ The Sofle Choc was contributed by [Brian Low](https://github.com/brianlow) and b
 
 [Build guide is available here]({{ baseurl }}/SofleKeyboard/build_guide_choc.html).
 
-### Sofle Pico
+### Pico
 
 ![Sofle Pico ](https://raw.githubusercontent.com/JellyTitan/Sofle-Pico/main/docs/images/qmk/sofle_pico_hero_image.jpeg)
 
