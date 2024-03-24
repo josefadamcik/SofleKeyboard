@@ -1,0 +1,295 @@
+(footprint "SK6803_MINIE_v3.5.4" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -2.26) (layer "B.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (tstamp 1e6f7c72-9932-4bb7-9b0c-2b0e39f0ea61)
+  )
+  (fp_text value "SK6803_MINIE_v3.5.4" (at 0.01 -3.85) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9f2f5f03-bfc4-40d6-9a77-189ea0448363)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -2.27) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c4ce9e6a-5ca2-40fd-b14d-251876967c65)
+  )
+  (fp_line (start -3.510006 -1.3) (end -3.510006 -0.2)
+    (stroke (width 0.25) (type solid)) (layer "B.SilkS") (tstamp fdc3ec3d-b602-4969-a1ea-6716568f8314))
+  (fp_line (start -1.740006 -1.3) (end -3.510006 -1.3)
+    (stroke (width 0.25) (type solid)) (layer "B.SilkS") (tstamp b228fd11-3521-4388-bbec-7b377f801a06))
+  (fp_line (start -1.740006 -0.2) (end -3.510006 -0.2)
+    (stroke (width 0.25) (type solid)) (layer "B.SilkS") (tstamp 6e7961e8-4d4f-4900-9ee0-6ceb5be669cc))
+  (fp_circle (center -4.090006 -0.75) (end -4.340006 -0.75)
+    (stroke (width 0.25) (type default)) (fill none) (layer "B.SilkS") (tstamp 1098627b-215f-456a-a075-6e390b696a3b))
+  (fp_circle (center -3.260006 -1.072) (end -3.360006 -1.072)
+    (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 2033dd26-13be-4b12-96ab-c02197fdd06b))
+  (fp_line (start -3.510006 1.3) (end -3.510006 0.2)
+    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp ac514159-d2df-4acc-a6de-96bc37f6bfaa))
+  (fp_line (start -1.740006 0.2) (end -3.510006 0.2)
+    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp 00ed52a6-5f30-495d-b5a8-85bf8f8b6636))
+  (fp_line (start -1.740006 1.3) (end -3.510006 1.3)
+    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp 9487be39-ef98-4527-9502-651164b0f5d8))
+  (fp_circle (center -4.090006 0.75) (end -4.340006 0.75)
+    (stroke (width 0.25) (type default)) (fill none) (layer "F.SilkS") (tstamp 603a0c68-3283-42da-974f-8d9bf7fb903d))
+  (fp_circle (center -3.260006 1.072) (end -3.360006 1.072)
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4a21dfc9-1059-4f16-a6cc-8d486831870a))
+  (fp_line (start 0.029988 -0.3) (end 0.029988 0.3)
+    (stroke (width 0.1) (type solid)) (layer "Dwgs.User") (tstamp ec5d9e1c-535e-4dd6-83c1-29d59287aed4))
+  (fp_line (start 0.329988 0) (end -0.270012 0)
+    (stroke (width 0.1) (type solid)) (layer "Dwgs.User") (tstamp 07ba1dca-09d8-405e-8ef7-e629c18fcff9))
+  (fp_rect (start 1.729988 -1.5) (end -1.670012 1.5)
+    (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bca8ed3b-7a13-4875-bcc6-9382db32a5b1))
+  (fp_circle (center 0.029988 0) (end 0.029988 1.5)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 8820f771-6db7-4e26-9c0b-cdd6a41fca0b))
+  (pad "1" smd custom (at 2.540006 -0.75 180) (size 0.82 0.82) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.85 -0.41)
+          (xy -0.727 -0.41)
+          (xy -0.77407 -0.400637)
+          (xy -0.813974 -0.373974)
+          (xy -0.840637 -0.33407)
+          (xy -0.85 -0.287)
+          (xy -0.85 0.287)
+          (xy -0.840637 0.33407)
+          (xy -0.813974 0.373974)
+          (xy -0.77407 0.400637)
+          (xy -0.727 0.41)
+          (xy 0.85 0.41)
+        )
+        (width 0) (fill yes))
+      (gr_arc (start -0.778482 -0.289144) (mid -0.899992 -0.139997) (end -1.088917 -0.176284) (width 0.15))
+      (gr_arc (start -0.64 0.159999) (mid -1.283467 -0.106534) (end -1.55 -0.750001) (width 0.5))
+    ) (tstamp cdb5bd90-59c0-4c5f-b1da-bfd37e742e6e))
+  (pad "1" smd roundrect (at 2.540006 -0.75 180) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0) (chamfer top_right bottom_right)
+    (thermal_bridge_angle 45) (tstamp ec8b7d2c-f789-4456-bef0-d07f5afb9cd9))
+  (pad "1" smd custom (at 2.540006 0.75) (size 0.82 0.82) (layers "B.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.85 -0.287)
+          (xy 0.840637 -0.33407)
+          (xy 0.813974 -0.373974)
+          (xy 0.77407 -0.400637)
+          (xy 0.727 -0.41)
+          (xy -0.85 -0.41)
+          (xy -0.85 0.41)
+          (xy 0.727 0.41)
+          (xy 0.77407 0.400637)
+          (xy 0.813974 0.373974)
+          (xy 0.840637 0.33407)
+          (xy 0.85 0.287)
+        )
+        (width 0) (fill yes))
+      (gr_arc (start 1.55 -0.749999) (mid 1.283467 -0.106532) (end 0.64 0.16) (width 0.5))
+      (gr_arc (start 1.101823 -0.182277) (mid 0.902748 -0.140006) (end 0.770001 -0.294265) (width 0.15))
+    ) (tstamp 0308e5f3-a043-40cc-9c19-f162ec1f105e))
+  (pad "1" smd roundrect (at 2.540006 0.75) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0) (chamfer top_left bottom_left)
+    (thermal_bridge_angle 45) (tstamp e4126714-4cc2-49f4-bac1-1c4023bc7c4d))
+  (pad "1" thru_hole circle (at 4.090006 0.000001) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 44b29b62-d41b-4191-b2b7-5306565944dd))
+  (pad "2" thru_hole circle (at 2.540006 -1.75) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 7614de4a-825d-4494-bfba-0437a44f3141))
+  (pad "2" smd custom (at 2.540006 -0.75) (size 0.82 0.82) (layers "B.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.85 -0.287)
+          (xy 0.840637 -0.33407)
+          (xy 0.813974 -0.373974)
+          (xy 0.77407 -0.400637)
+          (xy 0.727 -0.41)
+          (xy -0.85 -0.41)
+          (xy -0.85 0.41)
+          (xy 0.727 0.41)
+          (xy 0.77407 0.400637)
+          (xy 0.813974 0.373974)
+          (xy 0.840637 0.33407)
+          (xy 0.85 0.287)
+        )
+        (width 0) (fill yes))
+      (gr_arc (start -0.000001 -1) (mid -0.178867 -0.544455) (end -0.535033 -0.208807) (width 0.6))
+      (gr_arc (start 0.729342 -0.1) (mid 0.205229 -0.42079) (end 0.000003 -1) (width 0.6))
+      (gr_arc (start 0.775915 0.285915) (mid 0.854993 0.094997) (end 1.045909 0.015915) (width 0.15))
+      (gr_line (start 0 0.01) (end 0 -1) (width 0.6))
+      (gr_line (start 0.352733 -0.159999) (end 1.642733 -0.159999) (width 0.5))
+      (gr_arc (start 1.642733 -0.159999) (mid 2.286198 0.106535) (end 2.552729 0.750001) (width 0.5))
+    ) (tstamp f6131c96-7638-426f-a8de-cbdfc132a579))
+  (pad "2" smd roundrect (at 2.540006 -0.75) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0) (chamfer top_left bottom_left)
+    (thermal_bridge_angle 45) (tstamp 722d84c0-284d-41d5-a9ee-ae5792be6535))
+  (pad "2" smd custom (at 2.540006 0.75 180) (size 0.82 0.82) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.85 -0.41)
+          (xy -0.727 -0.41)
+          (xy -0.77407 -0.400637)
+          (xy -0.813974 -0.373974)
+          (xy -0.840637 -0.33407)
+          (xy -0.85 -0.287)
+          (xy -0.85 0.287)
+          (xy -0.840637 0.33407)
+          (xy -0.813974 0.373974)
+          (xy -0.77407 0.400637)
+          (xy -0.727 0.41)
+          (xy 0.85 0.41)
+        )
+        (width 0) (fill yes))
+      (gr_line (start 0.140006 -0.160001) (end -1.639999 -0.160001) (width 0.5))
+      (gr_arc (start -2.550001 0.749999) (mid -2.283467 0.106531) (end -1.639999 -0.160001) (width 0.5))
+      (gr_arc (start -1.044994 0.01592) (mid -0.854078 0.094999) (end -0.775 0.285915) (width 0.15))
+      (gr_line (start 0 0.01) (end 0 -1) (width 0.6))
+      (gr_arc (start -0.002735 -1) (mid -0.216563 -0.42195) (end -0.755097 -0.122208) (width 0.6))
+      (gr_arc (start 0.529437 -0.207237) (mid 0.175235 -0.544467) (end -0.002734 -0.999999) (width 0.6))
+    ) (tstamp 089501fa-d987-4c63-baae-335fbd3c9676))
+  (pad "2" smd roundrect (at 2.540006 0.75 180) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0) (chamfer top_right bottom_right)
+    (thermal_bridge_angle 45) (tstamp dfe4bd31-69d3-48f0-9493-015cceae0e9a))
+  (pad "2" thru_hole circle (at 2.540006 1.75) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp ba8c33d5-c52a-42b3-af3e-fd81a0b33bc1))
+  (pad "2" thru_hole circle (at 5.090006 0.000001) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp a904e778-ff77-4967-b589-15506ef7ec04))
+  (pad "3" thru_hole circle (at -4.119994 0) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 3713c6a7-a43b-450b-98ea-823975e163f4))
+  (pad "3" smd custom (at -2.559994 -0.75) (size 0.82 0.82) (layers "B.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_rect (start 0 -0.41) (end 0.85 0.41) (width 0) (fill yes))
+      (gr_line (start -0.15 -0.16) (end -0.65 -0.16) (width 0.5))
+      (gr_arc (start -1.56 0.75) (mid -1.29347 0.10653) (end -0.65 -0.16) (width 0.5))
+      (gr_arc (start -1.105632 0.162936) (mid -0.893184 0.135381) (end -0.770007 0.310654) (width 0.15))
+    ) (tstamp cefe269a-e74d-4844-84f6-4bcd6d7cf1b1))
+  (pad "3" smd roundrect (at -2.559994 -0.75) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0.5) (chamfer top_left)
+    (thermal_bridge_angle 45) (tstamp 725cffb5-333f-42bc-8a3e-1a02b584cdca))
+  (pad "3" smd custom (at -2.559994 0.75 180) (size 0.82 0.82) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_rect (start -0.85 -0.41) (end 0 0.41) (width 0) (fill yes))
+      (gr_line (start 0.120006 -0.16) (end 0.65 -0.16) (width 0.5))
+      (gr_arc (start 0.65 -0.16) (mid 1.293466 0.106534) (end 1.56 0.75) (width 0.5))
+      (gr_arc (start 0.770007 0.3) (mid 0.909926 0.133188) (end 1.121785 0.183385) (width 0.15))
+    ) (tstamp 6a465962-7b7b-41f4-93a9-a0cf5eed91af))
+  (pad "3" smd roundrect (at -2.559994 0.75 180) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0.5) (chamfer top_right)
+    (thermal_bridge_angle 45) (tstamp 09083e90-9819-4abd-94c8-7472907f8f66))
+  (pad "4" thru_hole circle (at -5.119994 0) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 8eb6504e-1206-4479-8849-33f4f67c13e8))
+  (pad "4" thru_hole circle (at -2.559994 -1.75) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 92f170f2-bfea-40f2-88c8-d1aa4e002a66))
+  (pad "4" smd custom (at -2.559994 -0.75 180) (size 0.82 0.82) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.85 -0.287)
+          (xy 0.840637 -0.33407)
+          (xy 0.813974 -0.373974)
+          (xy 0.77407 -0.400637)
+          (xy 0.727 -0.41)
+          (xy -0.85 -0.41)
+          (xy -0.85 0.41)
+          (xy 0.727 0.41)
+          (xy 0.77407 0.400637)
+          (xy 0.813974 0.373974)
+          (xy 0.840637 0.33407)
+          (xy 0.85 0.287)
+        )
+        (width 0) (fill yes))
+      (gr_arc (start 1.045921 -0.015921) (mid 0.854998 -0.094994) (end 0.775921 -0.285915) (width 0.15))
+      (gr_line (start 0.36 0.16) (end 1.65 0.16) (width 0.5))
+      (gr_arc (start 2.56 -0.75) (mid 2.29347 -0.10653) (end 1.65 0.16) (width 0.5))
+      (gr_line (start 0 -0.01) (end 0 1) (width 0.6))
+      (gr_arc (start -0.560627 0.182775) (mid -0.187314 0.527589) (end 0 1) (width 0.6))
+      (gr_arc (start -0.000001 1) (mid 0.197569 0.428057) (end 0.70603 0.100001) (width 0.6))
+    ) (tstamp 0c7a656b-254d-4862-9533-4e59c25374b0))
+  (pad "4" smd roundrect (at -2.559994 -0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0) (chamfer top_right bottom_right)
+    (thermal_bridge_angle 45) (tstamp b0ef7bd0-b893-4e05-8ff8-acaef52a02a3))
+  (pad "4" smd custom (at -2.559994 0.75) (size 0.82 0.82) (layers "B.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_arc (start 0 1) (mid 0.178868 0.544456) (end 0.535034 0.208808) (width 0.6))
+      (gr_arc (start -0.729342 0.1) (mid -0.205227 0.42079) (end 0 1) (width 0.6))
+      (gr_poly
+        (pts
+          (xy 0.85 -0.41)
+          (xy -0.727 -0.41)
+          (xy -0.77407 -0.400637)
+          (xy -0.813974 -0.373974)
+          (xy -0.840637 -0.33407)
+          (xy -0.85 -0.287)
+          (xy -0.85 0.287)
+          (xy -0.840637 0.33407)
+          (xy -0.813974 0.373974)
+          (xy -0.77407 0.400637)
+          (xy -0.727 0.41)
+          (xy 0.85 0.41)
+        )
+        (width 0) (fill yes))
+      (gr_arc (start -0.775921 -0.285915) (mid -0.854998 -0.094994) (end -1.045921 -0.015921) (width 0.15))
+      (gr_line (start -0.36 0.16) (end -1.65 0.16) (width 0.5))
+      (gr_arc (start -1.65 0.16) (mid -2.293466 -0.106534) (end -2.56 -0.75) (width 0.5))
+      (gr_line (start 0 1) (end 0 0) (width 0.6))
+    ) (tstamp 30face94-11d9-4d31-869f-d73c5bd72084))
+  (pad "4" smd roundrect (at -2.559994 0.75 180) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.15)
+    (chamfer_ratio 0) (chamfer top_left bottom_left)
+    (thermal_bridge_angle 45) (tstamp 06f12c29-ff68-4f83-a547-4c69de7a1549))
+  (pad "4" thru_hole circle (at -2.559994 1.75) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 507dfc92-f92e-4e55-a5e7-647ebc5b260b))
+  (group "" (id 10a69432-c1d5-4bff-905c-6533181f12ab)
+    (members
+      00ed52a6-5f30-495d-b5a8-85bf8f8b6636
+      0308e5f3-a043-40cc-9c19-f162ec1f105e
+      06f12c29-ff68-4f83-a547-4c69de7a1549
+      07ba1dca-09d8-405e-8ef7-e629c18fcff9
+      089501fa-d987-4c63-baae-335fbd3c9676
+      09083e90-9819-4abd-94c8-7472907f8f66
+      0c7a656b-254d-4862-9533-4e59c25374b0
+      1098627b-215f-456a-a075-6e390b696a3b
+      2033dd26-13be-4b12-96ab-c02197fdd06b
+      30face94-11d9-4d31-869f-d73c5bd72084
+      3713c6a7-a43b-450b-98ea-823975e163f4
+      44b29b62-d41b-4191-b2b7-5306565944dd
+      4a21dfc9-1059-4f16-a6cc-8d486831870a
+      507dfc92-f92e-4e55-a5e7-647ebc5b260b
+      603a0c68-3283-42da-974f-8d9bf7fb903d
+      6a465962-7b7b-41f4-93a9-a0cf5eed91af
+      6e7961e8-4d4f-4900-9ee0-6ceb5be669cc
+      722d84c0-284d-41d5-a9ee-ae5792be6535
+      725cffb5-333f-42bc-8a3e-1a02b584cdca
+      7614de4a-825d-4494-bfba-0437a44f3141
+      8820f771-6db7-4e26-9c0b-cdd6a41fca0b
+      8eb6504e-1206-4479-8849-33f4f67c13e8
+      92f170f2-bfea-40f2-88c8-d1aa4e002a66
+      9487be39-ef98-4527-9502-651164b0f5d8
+      a904e778-ff77-4967-b589-15506ef7ec04
+      ac514159-d2df-4acc-a6de-96bc37f6bfaa
+      b0ef7bd0-b893-4e05-8ff8-acaef52a02a3
+      b228fd11-3521-4388-bbec-7b377f801a06
+      ba8c33d5-c52a-42b3-af3e-fd81a0b33bc1
+      bca8ed3b-7a13-4875-bcc6-9382db32a5b1
+      cdb5bd90-59c0-4c5f-b1da-bfd37e742e6e
+      cefe269a-e74d-4844-84f6-4bcd6d7cf1b1
+      dfe4bd31-69d3-48f0-9493-015cceae0e9a
+      e4126714-4cc2-49f4-bac1-1c4023bc7c4d
+      ec5d9e1c-535e-4dd6-83c1-29d59287aed4
+      ec8b7d2c-f789-4456-bef0-d07f5afb9cd9
+      f6131c96-7638-426f-a8de-cbdfc132a579
+      fdc3ec3d-b602-4969-a1ea-6716568f8314
+    )
+  )
+  (model "${KIPRJMOD}/Sofle_Pico.3dshapes/YS-SK6812MINI-E.step"
+    (offset (xyz 0 0 0.1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 180))
+  )
+)

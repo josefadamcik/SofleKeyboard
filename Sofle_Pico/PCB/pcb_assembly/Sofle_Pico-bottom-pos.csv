@@ -1,0 +1,94 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"","","e4819d78-7681-430c-a61d-7ce8f9aac4b4",-68.515000,40.265000,0.000000,bottom
+"D1","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-37.920000,24.525000,0.000000,bottom
+"D2","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-18.870000,27.025000,0.000000,bottom
+"D3","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",0.180000,29.490000,0.000000,bottom
+"D4","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",19.230000,27.025000,0.000000,bottom
+"D5","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",38.280000,22.125000,0.000000,bottom
+"D6","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",57.330000,22.125000,0.000000,bottom
+"D7","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-37.920000,5.425000,0.000000,bottom
+"D8","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-18.870000,7.975000,0.000000,bottom
+"D9","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",0.180000,10.475000,0.000000,bottom
+"D10","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",19.230000,7.975000,0.000000,bottom
+"D11","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",38.280000,3.075000,0.000000,bottom
+"D12","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",57.330000,3.075000,0.000000,bottom
+"D13","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-37.920000,-13.575000,0.000000,bottom
+"D14","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-18.870000,-11.075000,0.000000,bottom
+"D15","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",0.180000,-8.575000,0.000000,bottom
+"D16","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",19.230000,-11.075000,0.000000,bottom
+"D17","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",38.280000,-15.975000,0.000000,bottom
+"D18","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",57.330000,-15.975000,0.000000,bottom
+"D19","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-37.920000,-32.625000,0.000000,bottom
+"D20","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-18.870000,-30.125000,0.000000,bottom
+"D21","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",0.180000,-27.625000,0.000000,bottom
+"D22","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",19.230000,-30.125000,0.000000,bottom
+"D23","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",38.312500,-34.910000,0.000000,bottom
+"D24","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",57.330000,-35.025000,0.000000,bottom
+"D25","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-58.650000,-29.940000,0.000000,bottom
+"D26","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-53.892912,-56.362582,27.000000,bottom
+"D27","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-38.565259,-53.431756,15.000000,bottom
+"D28","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-18.870000,-49.175000,0.000000,bottom
+"D29","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",0.180000,-46.675000,0.000000,bottom
+"D30","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",19.230000,-49.175000,0.000000,bottom
+"D31","D","D_SOD-123_DO-35_Hybrid_DoubleSided_V2",-75.348750,42.502500,90.000000,bottom
+"D51","Dummy 6812miniE","Dummy 6812miniE",-38.100000,38.030000,180.000000,bottom
+"D52","Dummy 6812miniE","Dummy 6812miniE",-19.050000,40.530000,180.000000,bottom
+"D53","Dummy 6812miniE","Dummy 6812miniE",0.000000,43.030000,180.000000,bottom
+"D54","Dummy 6812miniE","Dummy 6812miniE",19.050000,40.530000,180.000000,bottom
+"D55","Dummy 6812miniE","Dummy 6812miniE",38.100000,35.630000,180.000000,bottom
+"D56","Dummy 6812miniE","Dummy 6812miniE",57.150000,35.630000,180.000000,bottom
+"D57","Dummy 6812miniE","Dummy 6812miniE",-38.100000,18.980000,180.000000,bottom
+"D58","Dummy 6812miniE","Dummy 6812miniE",-19.050000,21.480000,180.000000,bottom
+"D59","Dummy 6812miniE","Dummy 6812miniE",-38.100000,-19.120000,180.000000,bottom
+"D59","Dummy 6812miniE","Dummy 6812miniE",0.000000,23.980000,180.000000,bottom
+"D60","Dummy 6812miniE","Dummy 6812miniE",19.050000,21.480000,180.000000,bottom
+"D61","Dummy 6812miniE","Dummy 6812miniE",38.100000,16.580000,180.000000,bottom
+"D62","Dummy 6812miniE","Dummy 6812miniE",57.150000,16.580000,180.000000,bottom
+"D63","Dummy 6812miniE","Dummy 6812miniE",-38.100000,-0.070000,180.000000,bottom
+"D64","Dummy 6812miniE","Dummy 6812miniE",-19.050000,2.430000,180.000000,bottom
+"D65","Dummy 6812miniE","Dummy 6812miniE",0.000000,4.930000,180.000000,bottom
+"D66","Dummy 6812miniE","Dummy 6812miniE",19.050000,2.430000,180.000000,bottom
+"D67","Dummy 6812miniE","Dummy 6812miniE",38.100000,-2.470000,180.000000,bottom
+"D68","Dummy 6812miniE","Dummy 6812miniE",57.150000,-2.470000,180.000000,bottom
+"D70","Dummy 6812miniE","Dummy 6812miniE",-19.050000,-16.620000,180.000000,bottom
+"D71","Dummy 6812miniE","Dummy 6812miniE",0.000000,-14.120000,180.000000,bottom
+"D72","Dummy 6812miniE","Dummy 6812miniE",19.050000,-16.620000,180.000000,bottom
+"D73","Dummy 6812miniE","Dummy 6812miniE",38.100000,-21.520000,180.000000,bottom
+"D74","Dummy 6812miniE","Dummy 6812miniE",57.150000,-21.520000,180.000000,bottom
+"D76","Dummy 6812miniE","Dummy 6812miniE",-57.461592,-48.502636,117.000000,bottom
+"D77","Dummy 6812miniE","Dummy 6812miniE",-42.325978,-40.537986,-165.000000,bottom
+"D78","Dummy 6812miniE","Dummy 6812miniE",-19.050000,-35.670000,180.000000,bottom
+"D79","Dummy 6812miniE","Dummy 6812miniE",0.000000,-33.170000,180.000000,bottom
+"D80","Dummy 6812miniE","Dummy 6812miniE",19.050000,-35.670000,180.000000,bottom
+"REF**","Sofle Pico Logo text only","Sofle Pico Logo text only",41.220003,-39.153068,180.000000,bottom
+"REF**","Sofle Pico logo w text","Sofle Pico logo w text",-61.579997,15.506932,90.000000,bottom
+"SW1","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-38.100000,33.100000,0.000000,bottom
+"SW2","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-19.050000,35.600000,0.000000,bottom
+"SW3","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",0.000000,38.100000,0.000000,bottom
+"SW4","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",19.050000,35.600000,0.000000,bottom
+"SW5","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",38.100000,30.700000,0.000000,bottom
+"SW6","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",57.150000,30.700000,0.000000,bottom
+"SW7","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-38.100000,14.050000,0.000000,bottom
+"SW8","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-19.050000,16.550000,0.000000,bottom
+"SW9","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",0.000000,19.050000,0.000000,bottom
+"SW10","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",19.050000,16.550000,0.000000,bottom
+"SW11","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",38.100000,11.650000,0.000000,bottom
+"SW12","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",57.150000,11.650000,0.000000,bottom
+"SW13","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-38.100000,-5.000000,0.000000,bottom
+"SW14","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-19.050000,-2.500000,0.000000,bottom
+"SW15","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",0.000000,0.000000,0.000000,bottom
+"SW16","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",19.050000,-2.500000,0.000000,bottom
+"SW17","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",38.100000,-7.400000,0.000000,bottom
+"SW18","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",57.150000,-7.400000,0.000000,bottom
+"SW19","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-38.100000,-24.050000,0.000000,bottom
+"SW20","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-19.050000,-21.550000,0.000000,bottom
+"SW21","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",0.000000,-19.050000,0.000000,bottom
+"SW22","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",19.050000,-21.550000,0.000000,bottom
+"SW23","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",38.100000,-26.450000,0.000000,bottom
+"SW24","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",57.150000,-26.450000,0.000000,bottom
+"SW26","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-61.854254,-50.740809,-63.000000,bottom
+"SW27","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-41.050000,-45.300000,15.000000,bottom
+"SW28","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",-19.050000,-40.600000,0.000000,bottom
+"SW29","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",0.000000,-38.100000,0.000000,bottom
+"SW30","SW_PUSH_LED","Cherry_MX_DS_Hotswap_miniE_1U_v3.5.2",19.050000,-40.600000,0.000000,bottom
+"U1","SN74AHCT1G125","SN74AHCT1G125 - Junco",-37.959997,45.626932,0.000000,bottom

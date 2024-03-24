@@ -1,0 +1,14 @@
+(footprint "backplate_hole_M2_terminate" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "TH5" (at 0 -2.54) (layer "F.SilkS") hide
+      (effects (font (size 0.29972 0.29972) (thickness 0.07493)))
+    (tstamp c4762361-b774-42d3-aecf-80a81ab3169b)
+  )
+  (fp_text value "HOLE" (at 0 2.54) (layer "F.SilkS") hide
+      (effects (font (size 0.29972 0.29972) (thickness 0.07493)))
+    (tstamp b9f44c96-4417-4a87-82a4-156d0c537eec)
+  )
+  (pad "" thru_hole circle (at -0.025 -0.075 90) (size 3.4 3.4) (drill 2.2) (layers "*.Cu" "*.Mask" "Dwgs.User")
+    (clearance 0.3) (tstamp af70c1fd-64c0-4643-a332-09b3ce1334e6))
+)
