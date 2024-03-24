@@ -15,7 +15,7 @@ Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
 
 Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 
-Sofle Pico was contributed by [JellyTitan](https://github.com/JellyTitan)
+Sofle Pico was contributed by [Ryan Neff](https://github.com/JellyTitan)
 
 ## Firmware 
 
