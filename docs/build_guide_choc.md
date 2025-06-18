@@ -47,7 +47,7 @@ The following is needed to build the keyboard:
 
 - **58 diodes 1N4148W**. Surface mount diodes in SOD123 package. Pick any common variation. I used `1N4148WTR` (Digi-Key 1655-1360-1-ND).
 
-- **2 TRRS connectors**. The same type which is used for Corne, Lily58 etc. Technically even TRS should work if you stick to the default serial communication.
+- **2 TRRS connectors PJ-320A**. The same type which is used for Corne, Lily58 etc. Technically even TRS should work if you stick to the default serial communication.
 
 - **2 buttons** momentary, tactile, through-hole, 2 pins, I used one for DIP switches, 3x6x4.3mm. Technically optional: you can use metal tweezers whenever you need to reset the microcontroller.
 
