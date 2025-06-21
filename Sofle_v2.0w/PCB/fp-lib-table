@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "C:/Users/garre/git/SofleKeyboard/footprints/SofleKeyboard-footprint.pretty")(options "")(descr ""))
+  (lib (name "Keebio")(type "KiCad")(uri "C:/Users/garre/git/SofleKeyboard/footprints/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+)
