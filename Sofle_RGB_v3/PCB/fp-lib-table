@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SofleRGB)(type KiCad)(uri ${KIPRJMOD}/SofleRGB.pretty)(options "")(descr ""))
+)
