@@ -1,0 +1,81 @@
+(footprint "Cirque tie in" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at -0.02 0.03 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 46eafca9-1676-42d3-97c7-b8d729892b52)
+  )
+  (fp_text value "Cirque tie in" (at 0 -3.67 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6e6b915d-dcf2-488d-b72a-bbd08f9bd5b5)
+  )
+  (fp_text user "SDA" (at 5.14 -0.99 unlocked) (layer "B.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom mirror))
+    (tstamp 095d37b6-58a2-44c3-b6c4-910196214268)
+  )
+  (fp_text user "VCC" (at 0.137777 -0.99 unlocked) (layer "B.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom mirror))
+    (tstamp 3f02a8c2-ad42-4f09-92ee-8b073b6e874b)
+  )
+  (fp_text user "SCL" (at 2.672221 -0.99 unlocked) (layer "B.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom mirror))
+    (tstamp 71696589-fcd1-41fc-b221-08993e7bd05d)
+  )
+  (fp_text user "GND" (at -2.53 -0.99 unlocked) (layer "B.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom mirror))
+    (tstamp e83c7a90-8eeb-4e37-a0e3-8b020425465b)
+  )
+  (fp_text user "GND" (at -4.802221 -0.99 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
+    (tstamp 432a8020-4cc5-4097-ad5f-2d8f3659c449)
+  )
+  (fp_text user "SCL" (at 0.4 -0.99 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
+    (tstamp 59103376-04d4-41cc-93e1-39e6270604fa)
+  )
+  (fp_text user "VCC" (at -2.134444 -0.99 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
+    (tstamp d30a60c4-cfb2-4da6-957a-63c12cfabab5)
+  )
+  (fp_text user "SDA" (at 2.867779 -0.99 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
+    (tstamp d81e9062-13cf-4baf-804c-8a8083f87fec)
+  )
+  (fp_rect (start -5.08 1.27) (end 5.08 -1.27)
+    (stroke (width 0.12) (type default)) (fill none) (layer "Dwgs.User") (tstamp 981cb873-1e0e-4c30-ab06-d68a390a5a9a))
+  (pad "1" thru_hole circle (at 3.85 -0.03) (size 1.397 1.397) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp b0266d3d-0022-40a4-8638-6471646c4bc9))
+  (pad "2" thru_hole circle (at 1.31 -0.03) (size 1.397 1.397) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp dbf0617f-e025-4825-be91-3652903e2f25))
+  (pad "3" thru_hole circle (at -1.23 -0.03) (size 1.397 1.397) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp 581cf5da-3f68-4d28-a355-19ad8073ffab))
+  (pad "4" thru_hole rect (at -3.77 -0.03) (size 1.397 1.397) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp feffd78e-d1ae-4565-8b3b-4a8a97e179a3))
+  (group "" (id 1e04dab8-cbc2-40d2-96f5-6cc9ce7ee46c)
+    (members
+      91c7b2e6-cd68-4e69-b0fd-762660fe26f9
+      b5709492-0df4-4d4f-a5a8-c8acba081953
+    )
+  )
+  (group "" (id 91c7b2e6-cd68-4e69-b0fd-762660fe26f9)
+    (members
+      581cf5da-3f68-4d28-a355-19ad8073ffab
+      981cb873-1e0e-4c30-ab06-d68a390a5a9a
+      b0266d3d-0022-40a4-8638-6471646c4bc9
+      dbf0617f-e025-4825-be91-3652903e2f25
+      feffd78e-d1ae-4565-8b3b-4a8a97e179a3
+    )
+  )
+  (group "" (id 3c8ea349-37c8-49bf-8641-03641df049fa)
+    (members
+      095d37b6-58a2-44c3-b6c4-910196214268
+      3f02a8c2-ad42-4f09-92ee-8b073b6e874b
+      71696589-fcd1-41fc-b221-08993e7bd05d
+      e83c7a90-8eeb-4e37-a0e3-8b020425465b
+    )
+  )
+  (group "" (id b5709492-0df4-4d4f-a5a8-c8acba081953)
+    (members
+      432a8020-4cc5-4097-ad5f-2d8f3659c449
+      59103376-04d4-41cc-93e1-39e6270604fa
+      d30a60c4-cfb2-4da6-957a-63c12cfabab5
+      d81e9062-13cf-4baf-804c-8a8083f87fec
+    )
+  )
+)

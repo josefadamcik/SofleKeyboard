@@ -10,3 +10,7 @@ Sofle_soldered/PCB/gerb*
 Sofle_soldered/PCB/SofleKeyboard-backups
 Case/Sofle_soldered/PCBTop/gerb*
 Case/Sofle_soldered/PCBBottom/gerb*
+
+Sofle_Pico/PCB/Sofle_Pico-backups
+Sofle_Pico/Case/PCB_case/source/PCBTop/Sofle_Pico_Top_Plate-backups
+Sofle_Pico/Case/PCB_case/source/PCBBottom/Sofle_Pico_Bottom_Plate-backups

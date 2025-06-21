@@ -1,0 +1,41 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5-0*%
+%TF.CreationDate,2024-02-11T16:28:25-08:00*%
+%TF.ProjectId,Sofle_Pico_Bottom_Plate,536f666c-655f-4506-9963-6f5f426f7474,3.5.5*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.5-0) date 2024-02-11 16:28:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.400000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,TH2*%
+X103110000Y-97040000D03*
+%TD*%
+%TO.C,TH1*%
+X83619033Y-107450000D03*
+%TD*%
+%TO.C,TH8*%
+X101560000Y-126980000D03*
+%TD*%
+%TO.C,TH3*%
+X127410000Y-65960000D03*
+%TD*%
+%TO.C,TH6*%
+X204245000Y-106475000D03*
+%TD*%
+%TO.C,TH5*%
+X127500000Y-103910000D03*
+%TD*%
+%TO.C,TH4*%
+X204260000Y-68360000D03*
+%TD*%
+%TO.C,TH7*%
+X109980000Y-43567432D03*
+%TD*%
+M02*
