@@ -256,7 +256,7 @@ GEM
       unf_ext
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
-    uri (0.13.2)
+    uri (0.13.3)
     wdm (0.1.1)
     webrick (1.8.2)
     zeitwerk (2.6.13)
