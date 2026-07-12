@@ -17,6 +17,8 @@ Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 
 Sofle Pico was contributed by [Ryan Neff](https://github.com/JellyTitan)
 
+BFS9000 was contributed by [Jesús Guillén](https://github.com/jguillen-lab)
+
 ## Firmware 
 
 Sofle uses [QMK firmware](https://qmk.fm/)
