@@ -1,0 +1,193 @@
+(footprint "Breakaway_Tabs"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "BT11"
+		(at -0.05 -2.4 0)
+		(layer "F.Fab")
+		(uuid "8551fae6-b6af-4f29-bbe8-c71002862d04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Breakaway Tabs"
+		(at -0.05 0.75 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c18d97d8-063e-4962-a8f7-033cdd9dcc08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbe4ddcb-cfc6-4a6f-99e4-1cb5ea0d3b3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8b898a8-d605-458f-97ac-903e05104088")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB Part #" "DNP"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eefae773-4754-4aa5-9013-1cd28be35543")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MFR.Part #" "DNP"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a6d2e64-08c2-4a7d-be6f-abcd6804e379")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field4" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9593b6a3-7e08-45b9-ba1f-881cd6320535")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB_PN" "DNP"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff75b442-9892-4493-8661-4879664e6710")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MFG" "DNP"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1deb8d28-f879-4cbc-b6e7-b2679c98f48e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "MountingHole*")
+	(sheetname "/Break Away Tabs Sheet/")
+	(sheetfile "Break Away Tabs.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.375 -0.2)
+		(end 2.375 -0.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0d538de2-80b2-4521-9ee8-c57d086f1022")
+	)
+	(fp_line
+		(start -2.375 0.2)
+		(end 2.375 0.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8ed0a7ad-8362-47c6-8051-eae6959998ad")
+	)
+	(pad "" np_thru_hole circle
+		(at -2.375 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "7f3a062a-e0a9-4128-acb7-529b3e7e7fab")
+	)
+	(pad "" np_thru_hole circle
+		(at -1.583333 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "418f64d5-abaa-4e81-81da-95d322d38233")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.791667 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "3bd3aa40-5fd8-4e2a-b95b-186420cc710a")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "41dd3728-63ae-4b51-a060-09c286819149")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.791667 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "c7d9e3c8-7f1f-46de-a91e-7129c2dfb006")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.583333 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "7343f393-24c3-4a61-9f45-6be4e6a4cdba")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.375 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "9a7f8032-45d3-45a4-8601-2af6df6befcb")
+	)
+	(embedded_fonts no)
+)

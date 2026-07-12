@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BFS9000") (type "KiCad") (uri "${KIPRJMOD}/BFS9000.kicad_sym") (options "") (descr ""))
+)
